@@ -1,7 +1,6 @@
 Source: malcontent
 Priority: optional
-Maintainer: Debian freedesktop.org maintainers <pkg-freedesktop-maintainers@lists.alioth.debian.org>
-Uploaders: Laurent Bigonville <bigon@debian.org>
+Maintainer: Edson Juliano Drosdeck <edson@policorp.com.br>
 Build-Depends: debhelper-compat (= 13),
                dh-sequence-gir,
                appstream-util,
@@ -25,8 +24,6 @@ Rules-Requires-Root: no
 Standards-Version: 4.7.0
 Section: admin
 Homepage: https://gitlab.freedesktop.org/pwithnall/malcontent/
-Vcs-Browser: https://salsa.debian.org/freedesktop-team/malcontent
-Vcs-Git: https://salsa.debian.org/freedesktop-team/malcontent.git
 
 Package: malcontent
 Architecture: all
