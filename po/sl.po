@@ -1,0 +1,448 @@
+# Slovenian translations for malcontent package.
+# Copyright (C) 2020 THE malcontent'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the malcontent package.
+# Automatically generated, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: malcontent\n"
+"Report-Msgid-Bugs-To: https://gitlab.freedesktop.org/pwithnall/malcontent/"
+"issues\n"
+"POT-Creation-Date: 2024-03-26 03:25+0000\n"
+"PO-Revision-Date: 2024-07-24 11:06+0200\n"
+"Last-Translator: Martin Srebotnjak <miles@filmsi.net>\n"
+"Language-Team: none\n"
+"Language: sl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
+"%100==4 ? 2 : 3);\n"
+"X-Generator: Poedit 2.2.1\n"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:4
+msgid "Change your own app filter"
+msgstr "Spremennite lastni filter programov"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:5
+msgid "Authentication is required to change your app filter."
+msgstr ""
+"Preverjanje pristnosti je potrebno za spreminjanje lastnega filtra programov."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:14
+msgid "Read your own app filter"
+msgstr "Preberite lastni filter programov"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:15
+msgid "Authentication is required to read your app filter."
+msgstr ""
+"Preverjanje pristnosti je potrebno za branje lastnega filtra programov."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:24
+msgid "Change another user’s app filter"
+msgstr "Spremenite filter programov drugega uporabnika"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:25
+msgid "Authentication is required to change another user’s app filter."
+msgstr ""
+"Preverjanje pristnosti je potrebno za spreminjanje filtra programov za "
+"drugega uporabnika."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:34
+msgid "Read another user’s app filter"
+msgstr "Preberite filter programov drugega uporabnika"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:35
+msgid "Authentication is required to read another user’s app filter."
+msgstr ""
+"Preverjanje pristnosti je potrebno za branje filtra programov drugega "
+"uporabnika."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:44
+msgid "Change your own session limits"
+msgstr "Spremenite svoje omejitve sej"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:45
+msgid "Authentication is required to change your session limits."
+msgstr "Preverjanje pristnosti je potrebno za spreminjanje omejitev sej."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:54
+msgid "Read your own session limits"
+msgstr "Preberite svoje omejitve sej"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:55
+msgid "Authentication is required to read your session limits."
+msgstr "Preverjanje pristnosti je potrebno za branje omejitev sej."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:64
+msgid "Change another user’s session limits"
+msgstr "Spremite omejitve sej drugega uporabnika"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:65
+msgid "Authentication is required to change another user’s session limits."
+msgstr ""
+"Preverjanje pristnosti je potrebno za spreminjanje omejitev sej drugega "
+"uporabnika."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:74
+msgid "Read another user’s session limits"
+msgstr "Preberite omejitve sej drugega uporabnika"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:75
+msgid "Authentication is required to read another user’s session limits."
+msgstr ""
+"Preverjanje pristnosti je potrebno za branje omejitev sej drugega uporabnika."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:84
+msgid "Change your own account info"
+msgstr "Spremenite podatke o svojem računu"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:85
+msgid "Authentication is required to change your account info."
+msgstr ""
+"Preverjanje pristnosti je potrebno za spremembo podatkov vašega računa."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:94
+msgid "Read your own account info"
+msgstr "Preberite podatke o svojem računu"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:95
+msgid "Authentication is required to read your account info."
+msgstr "Preverjanje pristnosti je potrebno za branje podatkov o vašem računu."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:104
+msgid "Change another user’s account info"
+msgstr "Spremenite podatke o računu drugega uporabnika"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:105
+msgid "Authentication is required to change another user’s account info."
+msgstr ""
+"Preverjanje pristnosti je potrebno za spremembo podatkov o računu drugega "
+"uporabnika."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:114
+msgid "Read another user’s account info"
+msgstr "Preberite podatke o računu drugega uporabnika"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:115
+msgid "Authentication is required to read another user’s account info."
+msgstr ""
+"Preverjanje pristnosti je potrebno za branje podatkov o računu drugega "
+"uporabnika."
+
+#: libmalcontent/app-filter.c:696
+#, c-format
+msgid "App filter for user %u was in an unrecognized format"
+msgstr "Filter programov za uporabnika %u je v neprepoznani obliki zapisa"
+
+#: libmalcontent/app-filter.c:727
+#, c-format
+msgid "OARS filter for user %u has an unrecognized kind ‘%s’"
+msgstr "Filter OARS za uporabnika %u je neprepoznane vrste »%s«"
+
+#: libmalcontent/manager.c:283 libmalcontent/manager.c:420
+#: libmalcontent/manager.c:803
+#, c-format
+msgid "Not allowed to query parental controls data for user %u"
+msgstr ""
+"Poizvedovanje po podatkih starševskega nadzora za uporabnika %u ni dovoljeno"
+
+#: libmalcontent/manager.c:288
+#, c-format
+msgid "User %u does not exist"
+msgstr "Uporabnik %u ne obstaja"
+
+#: libmalcontent/manager.c:296
+msgid "System accounts service not available"
+msgstr "Storitev sistemskih računov ni na voljo"
+
+#: libmalcontent/manager.c:402
+msgid "App filtering is globally disabled"
+msgstr "Filtriranje programov je globalno onemogočeno"
+
+#: libmalcontent/manager.c:785
+msgid "Session limits are globally disabled"
+msgstr "Omejitve sej so globalno onemogočene"
+
+#: libmalcontent/session-limits.c:306
+#, c-format
+msgid "Session limit for user %u was in an unrecognized format"
+msgstr "Omejitev sej za uporabnika %u je bila v ne prepoznani obliki zapisa"
+
+#: libmalcontent/session-limits.c:328
+#, c-format
+msgid "Session limit for user %u has an unrecognized type ‘%u’"
+msgstr "Omejitev seje za uporabnika %u je ne prepoznane vrste »%u«"
+
+#: libmalcontent/session-limits.c:346
+#, c-format
+msgid "Session limit for user %u has invalid daily schedule %u–%u"
+msgstr "Omejitev sej za uporabnika %u ima neveljaven dnevni urnik %u–%u"
+
+#. Translators: the placeholder is a user’s full name
+#: libmalcontent-ui/restrict-applications-dialog.c:256
+#, c-format
+msgid "Restrict %s from using the following installed applications."
+msgstr "Omejite %s uporabo naslednjih nameščenih programov."
+
+#: libmalcontent-ui/restrict-applications-dialog.ui:6
+msgid "Restrict Applications"
+msgstr "Omeji programe"
+
+#: libmalcontent-ui/restrict-applications-dialog.ui:22
+msgid "Search for applications…"
+msgstr "Iskanje programov ..."
+
+#: libmalcontent-ui/restrict-applications-selector.ui:13
+msgid "No applications found to restrict."
+msgstr "Ni najdenih programov za omejevanje."
+
+#. Translators: this is the full name for an unknown user account.
+#: libmalcontent-ui/user-controls.c:198 libmalcontent-ui/user-controls.c:209
+msgid "unknown"
+msgstr "neznano"
+
+#: libmalcontent-ui/user-controls.c:306 libmalcontent-ui/user-controls.c:394
+#: libmalcontent-ui/user-controls.c:647
+msgid "Unrestricted"
+msgstr "Neomejeno"
+
+#. Translators: The placeholder is a user’s display name.
+#: libmalcontent-ui/user-controls.c:476
+#, c-format
+msgid ""
+"Prevents %s from running web browsers. Limited web content may still be "
+"available in other applications."
+msgstr ""
+"Preprečuje %s zagon spletnih brskalnikov. Omejena spletna vsebina je morda "
+"še vedno na voljo v drugih programih."
+
+#. Translators: The placeholder is a user’s display name.
+#: libmalcontent-ui/user-controls.c:481
+#, c-format
+msgid "Prevents specified applications from being used by %s."
+msgstr "Prepreči uporabo določenih programov s strani %s."
+
+#. Translators: The placeholder is a user’s display name.
+#: libmalcontent-ui/user-controls.c:486
+#, c-format
+msgid "Prevents %s from installing applications."
+msgstr "Preprečuje %s nameščanje programov."
+
+#: libmalcontent-ui/user-controls.ui:25
+msgid "Application Usage Restrictions"
+msgstr "Omejitve uporabe programov"
+
+#: libmalcontent-ui/user-controls.ui:28
+msgid "Restrict _Web Browsers"
+msgstr "Omeji _spletne brskalnike"
+
+#: libmalcontent-ui/user-controls.ui:51
+msgid "_Restrict Applications"
+msgstr "_Omeji programe"
+
+#: libmalcontent-ui/user-controls.ui:73
+msgid "Software Installation Restrictions"
+msgstr "Omejitve namestitve programja"
+
+#: libmalcontent-ui/user-controls.ui:77
+msgid "Restrict Application _Installation"
+msgstr "Omeji _namestitev programa"
+
+#: libmalcontent-ui/user-controls.ui:99
+msgid "Application _Suitability"
+msgstr "_Primernost programa"
+
+#: libmalcontent-ui/user-controls.ui:102
+msgid ""
+"Restricts the browsing or installation of applications unsuitable for this "
+"age or younger."
+msgstr ""
+"Omejuje brskanje ali namestitev programov, ki niso primerni za to starost "
+"ali za mlajše."
+
+#. Translators: This documents the --user command line option to malcontent-control:
+#: malcontent-control/application.c:102
+msgid "User to select in the UI"
+msgstr "Uporabnik, ki ga želite izbrati v uporabniškem vmesniku"
+
+#. Translators: This is a placeholder for a command line argument value:
+#: malcontent-control/application.c:104
+msgid "USERNAME"
+msgstr "UPORABNIŠKO_IME"
+
+#: malcontent-control/application.c:116
+msgid "— view and edit parental controls"
+msgstr "— ogled in urejanje starševskega nadzora"
+
+#. Translators: This is the title of the main window
+#. Translators: the name of the application as it appears in a software center
+#: malcontent-control/application.c:123 malcontent-control/main.ui:17
+#: malcontent-control/org.freedesktop.MalcontentControl.metainfo.xml.in:9
+#: malcontent-control/org.freedesktop.MalcontentControl.desktop.in:3
+msgid "Parental Controls"
+msgstr "Starševski nadzor"
+
+#: malcontent-control/application.c:309
+msgid "Copyright © 2019, 2020 Endless Mobile, Inc."
+msgstr "Avtorska in sorodne pravice © 2019, 2020 Endless Mobile, Inc."
+
+#. Translators: this should be "translated" to the
+#. names of people who have translated Malcontent into
+#. this language, one per line.
+#: malcontent-control/application.c:314
+msgid "translator-credits"
+msgstr "Martin Srebotnjak <miles@filmsi.net>"
+
+#. Translators: "Malcontent" is the brand name of this
+#. project, so should not be translated.
+#: malcontent-control/application.c:320
+msgid "Malcontent Website"
+msgstr "Spletno mesto z zlonamerno vsebino"
+
+#: malcontent-control/application.c:340
+msgid "The help contents could not be displayed"
+msgstr "Vsebine pomoči ni bilo mogoče prikazati"
+
+#: malcontent-control/application.c:389
+msgid "Failed to load user data from the system"
+msgstr "Prenos uporabniških podatkov iz sistema ni uspel"
+
+#: malcontent-control/application.c:391
+msgid "Please make sure that the AccountsService is installed and enabled."
+msgstr "Preverite, ali je storitev AccountsService nameščena in omogočena."
+
+#. Translators: Replace the link to commonsensemedia.org with some
+#. * localised guidance for parents/carers on how to set restrictions on
+#. * their child/caree in a responsible way which is in keeping with the
+#. * best practice and culture of the region. If no suitable localised
+#. * guidance exists, and if the default commonsensemedia.org link is not
+#. * suitable, please file an issue against malcontent so we can discuss
+#. * further!
+#. * https://gitlab.freedesktop.org/pwithnall/malcontent/-/issues/new
+#.
+#: malcontent-control/application.c:424
+#, c-format
+msgid ""
+"It’s recommended that restrictions are set as part of an ongoing "
+"conversation with %s. <a href='https://www.commonsensemedia.org/privacy-and-"
+"internet-safety'>Read guidance</a> on what to consider."
+msgstr ""
+"Priporočljivo je, da se omejitve določijo kot del stalnega pogovora s/z %s. "
+"<a href='https://www.commonsensemedia.org/privacy-and-internet-"
+"safety'>Preberite navodila</a> o tem, kaj morate upoštevati."
+
+#: malcontent-control/carousel.ui:38
+msgid "Previous Page"
+msgstr "Predhodna stran"
+
+#: malcontent-control/carousel.ui:57
+msgid "Next Page"
+msgstr "Naslednja stran"
+
+#: malcontent-control/main.ui:87
+msgid "Permission Required"
+msgstr "Potrebno je dovoljenje"
+
+#: malcontent-control/main.ui:88
+msgid ""
+"Permission is required to view and change user parental controls settings."
+msgstr ""
+"Za ogled in spreminjanje nastavitev starševskega nadzora uporabnikov "
+"potrebujete pravice."
+
+#: malcontent-control/main.ui:110
+msgid "No Standard User Accounts"
+msgstr "Brez standardnih uporabniških računov"
+
+#: malcontent-control/main.ui:111
+msgid ""
+"Parental controls can only be applied to standard user\n"
+"accounts. These can be created in the user settings."
+msgstr ""
+"Starševski nadzor je mogoče uporabiti samo za standardne uporabniške\n"
+"račune. Te lahko ustvarite v uporabniških nastavitvah."
+
+#: malcontent-control/main.ui:115
+msgid "_User Settings"
+msgstr "_Uporabniške nastavitve"
+
+#: malcontent-control/main.ui:138
+msgid "Loading…"
+msgstr "Poteka nalaganje …"
+
+#: malcontent-control/main.ui:171
+msgid "_Help"
+msgstr "Pomo_č"
+
+#: malcontent-control/main.ui:175
+msgid "_About Parental Controls"
+msgstr "_O Starševskem nadzoru"
+
+#. Translators: the brief summary of the application as it appears in a software center.
+#: malcontent-control/org.freedesktop.MalcontentControl.metainfo.xml.in:12
+#: malcontent-control/org.freedesktop.MalcontentControl.desktop.in:4
+msgid "Set parental controls and monitor usage by users"
+msgstr ""
+"Nastavite starševski nadzor in spremljajte uporabo s strani uporabnikov"
+
+#. Translators: These are the application description paragraphs in the AppData file.
+#: malcontent-control/org.freedesktop.MalcontentControl.metainfo.xml.in:16
+msgid ""
+"Manage users’ parental controls restrictions, controlling how long they can "
+"use the computer for, what software they can install, and what installed "
+"software they can run."
+msgstr ""
+"Upravljajte omejitve starševskega nadzora uporabnikov in nadzirajte, kako "
+"dolgo lahko uporabljajo računalnik, katero programsko opremo lahko namestijo "
+"in katero nameščeno programsko opremo lahko izvajajo."
+
+#: malcontent-control/org.freedesktop.MalcontentControl.metainfo.xml.in:25
+msgid "Main window"
+msgstr "Glavno okno"
+
+#. Translators: Search terms to find this application. Do NOT translate or localise the semicolons! The list MUST also end with a semicolon!
+#: malcontent-control/org.freedesktop.MalcontentControl.desktop.in:13
+msgid ""
+"parental controls;screen time;app restrictions;web browser restrictions;oars;"
+"usage;usage limit;kid;child;"
+msgstr ""
+"starševski nadzor;čas pred zaslonom;omejitve za aplikacije;omejitve "
+"programov;omejitve spletnega brskalnika;raba;omejitev uporabe;uporaba;otrok;"
+"otroci;mladostnik;"
+
+#: malcontent-control/org.freedesktop.MalcontentControl.policy.in:9
+msgid "Manage parental controls"
+msgstr "Upravljaj starševski nadzor"
+
+#: malcontent-control/org.freedesktop.MalcontentControl.policy.in:10
+msgid "Authentication is required to read and change user parental controls"
+msgstr ""
+"Preverjanje pristnosti je potrebno za branje in spreminjanje starševskega "
+"nadzora uporabnika"
+
+#: malcontent-control/user-selector.c:426
+msgid "Your account"
+msgstr "Vaš račun"
+
+#. Always allow root, to avoid a situation where this PAM module prevents
+#. * all users logging in with no way of recovery.
+#: pam/pam_malcontent.c:142 pam/pam_malcontent.c:188
+#, c-format
+msgid "User ‘%s’ has no time limits enabled"
+msgstr "Uporabnik »%s« nima omogočenih časovnih omejitev"
+
+#: pam/pam_malcontent.c:151 pam/pam_malcontent.c:172
+#, c-format
+msgid "Error getting session limits for user ‘%s’: %s"
+msgstr "Napaka pri pridobivanju omejitev sej za uporabnika »%s«: %s"
+
+#: pam/pam_malcontent.c:182
+#, c-format
+msgid "User ‘%s’ has no time remaining"
+msgstr "Uporabnik »%s« nima preostalega časa"
+
+#: pam/pam_malcontent.c:200
+#, c-format
+msgid "Error setting time limit on login session: %s"
+msgstr "Napaka pri nastavljanju časovne omejitve za sejo prijave: %s"

@@ -1,0 +1,439 @@
+# Hindi translations for malcontent package.
+# Copyright (C) 2022 THE malcontent'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the malcontent package.
+# Automatically generated, 2020.
+# Will Thompson <wjt@endlessm.com>, 202>, 202>-2022.
+# Some of credits are lost, as the translations were pulled from Transifex to upstream, but the project does not exist on Transifex now.
+# Hemish <hemish04082005@gmail.com>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: malcontent\n"
+"Report-Msgid-Bugs-To: https://gitlab.freedesktop.org/pwithnall/malcontent/"
+"issues\n"
+"POT-Creation-Date: 2022-07-25 03:26+0000\n"
+"PO-Revision-Date: 2022-11-29 13:03+0530\n"
+"Last-Translator: Hemish <hemish04082005@gmail.com>\n"
+"Language-Team: Hindi <indlinux-hindi@lists.sourceforge.net https://indlinux."
+"org/hindi>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Generator: Gtranslator 42.0\n"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:4
+msgid "Change your own app filter"
+msgstr "स्वयं के ऐप फ़िल्टर बदलें"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:5
+msgid "Authentication is required to change your app filter."
+msgstr "स्वयं के ऐप फिल्टर को बदलने के लिए सत्यापन की आवश्यकता है।"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:14
+msgid "Read your own app filter"
+msgstr "स्वयं के ऐप फिल्टर पढ़ें"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:15
+msgid "Authentication is required to read your app filter."
+msgstr "स्वयं के एप फ़िल्टर को पढ़ने के लिए प्रमाणीकरण आवश्यक है।"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:24
+msgid "Change another user’s app filter"
+msgstr "किसी अन्य उपयोगकर्ता के ऐप फ़िल्टर बदलें"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:25
+msgid "Authentication is required to change another user’s app filter."
+msgstr "किसी अन्य उपयोगकर्ता के ऐप फ़िल्टर को बदलने के लिए प्रमाणीकरण की आवश्यकता है।"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:34
+msgid "Read another user’s app filter"
+msgstr "किसी अन्य उपयोगकर्ता के ऐप फ़िल्टर पढ़ें"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:35
+msgid "Authentication is required to read another user’s app filter."
+msgstr "किसी अन्य उपयोगकर्ता के ऐप फ़िल्टर को पढ़ने के लिए सत्यापन आवश्यक है।"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:44
+msgid "Change your own session limits"
+msgstr "स्वयं की सत्र सीमा को बदलें"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:45
+msgid "Authentication is required to change your session limits."
+msgstr "स्वयं की सत्र सीमा को बदलने के लिए सत्यापन की आवश्यकता है।"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:54
+msgid "Read your own session limits"
+msgstr "स्वयं की सत्र सीमा को पढ़ें"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:55
+msgid "Authentication is required to read your session limits."
+msgstr "स्वयं की सत्र सीमा को पढ़ने के लिए सत्यापन की आवश्यकता है।"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:64
+msgid "Change another user’s session limits"
+msgstr "किसी अन्य उपयोगकर्ता की सत्र सीमा बदलें"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:65
+msgid "Authentication is required to change another user’s session limits."
+msgstr "किसी अन्य उपयोगकर्ता की सत्र सीमाओं को बदलने के लिए प्रमाणीकरण आवश्यक है"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:74
+msgid "Read another user’s session limits"
+msgstr "किसी अन्य उपयोगकर्ता की सत्र सीमा पढ़ें"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:75
+msgid "Authentication is required to read another user’s session limits."
+msgstr "किसी अन्य उपयोगकर्ता की सेशन की सीमाओं को पढ़ने के लिए सत्यापन आवश्यक है।"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:84
+msgid "Change your own account info"
+msgstr "स्वयं के खाते की जानकारी बदलें"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:85
+msgid "Authentication is required to change your account info."
+msgstr "स्वयं के खाते की जानकारी बदलने के लिए प्रमाणीकरण आवश्यक है।"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:94
+msgid "Read your own account info"
+msgstr "स्वयं के खाते की जानकारी पढ़ें"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:95
+msgid "Authentication is required to read your account info."
+msgstr "स्वयं के खाते की जानकारी पढ़ने के लिए सत्यापन आवश्यक है।"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:104
+msgid "Change another user’s account info"
+msgstr "किसी अन्य उपयोगकर्ता की खाता जानकारी बदलें"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:105
+msgid "Authentication is required to change another user’s account info."
+msgstr "किसी अन्य उपयोगकर्ता के खाते की जानकारी को बदलने के लिए सत्यापन आवश्यक है।"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:114
+msgid "Read another user’s account info"
+msgstr "अन्य उपयोगकर्ता के खाते की जानकारी पढ़ें"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:115
+msgid "Authentication is required to read another user’s account info."
+msgstr "किसी अन्य उपयोगकर्ता के खाते की जानकारी को पढ़ने के लिए प्रमाणीकरण आवश्यक है।"
+
+#: libmalcontent/app-filter.c:694
+#, c-format
+msgid "App filter for user %u was in an unrecognized format"
+msgstr "उपयोगकर्ता %u के लिए एप फ़िल्टर एक अपरिचित प्रारूप में था।"
+
+#: libmalcontent/app-filter.c:725
+#, c-format
+msgid "OARS filter for user %u has an unrecognized kind ‘%s’"
+msgstr "उपयोगकर्ता %u के लिए OARS फ़िल्टर के पास एक अपरिचित प्रकार ‘%s’ है।"
+
+#: libmalcontent/manager.c:283 libmalcontent/manager.c:420
+#: libmalcontent/manager.c:803
+#, c-format
+msgid "Not allowed to query parental controls data for user %u"
+msgstr "उपयोगकर्ता %u के लिए ऐप फ़िल्टर डेटा को क्वेरी करने की अनुमति नहीं है"
+
+#: libmalcontent/manager.c:288
+#, c-format
+msgid "User %u does not exist"
+msgstr "उपयोगकर्ता %u मौजूद नहीं है।"
+
+#: libmalcontent/manager.c:296
+msgid "System accounts service not available"
+msgstr "सिस्टम खाता सेवा (AccountsService) उपलब्ध नहीं है।"
+
+#: libmalcontent/manager.c:402
+msgid "App filtering is globally disabled"
+msgstr "ऐप फ़िल्टरिंग सार्वभौमिक स्तर पर निष्क्रिय है।"
+
+#: libmalcontent/manager.c:785
+msgid "Session limits are globally disabled"
+msgstr "सत्र सीमाएँ सार्वभौमिक स्तर पर निष्क्रिय हैं।"
+
+#: libmalcontent/session-limits.c:306
+#, c-format
+msgid "Session limit for user %u was in an unrecognized format"
+msgstr "उपयोगकर्ता %u के लिए सत्र सीमा एक अपरिचित प्रारूप में थी।"
+
+#: libmalcontent/session-limits.c:328
+#, c-format
+msgid "Session limit for user %u has an unrecognized type ‘%u’"
+msgstr "उपयोगकर्ता %u के लिए सत्र सीमा एक अपरिचित प्रकार ‘%u’ की है।"
+
+#: libmalcontent/session-limits.c:346
+#, c-format
+msgid "Session limit for user %u has invalid daily schedule %u–%u"
+msgstr "उपयोगकर्ता %u के सत्र सीमा में अमान्य दैनिक शेड्यूल %u-%u है"
+
+#. Translators: the placeholder is a user’s full name
+#: libmalcontent-ui/restrict-applications-dialog.c:223
+#, c-format
+msgid "Restrict %s from using the following installed applications."
+msgstr "निम्न इंस्टाल हुई एप्लिकेशन के उपयोग से %s को प्रतिबंधित करें।"
+
+#: libmalcontent-ui/restrict-applications-dialog.ui:6
+msgid "Restrict Applications"
+msgstr "एप्लीकेशन को प्रतिबंधित करें"
+
+#: libmalcontent-ui/restrict-applications-selector.ui:13
+msgid "No applications found to restrict."
+msgstr "प्रतिबंधित करने के लिए कोई भी एप्लिकेशन नहीं मिली।"
+
+#. Translators: this is the full name for an unknown user account.
+#: libmalcontent-ui/user-controls.c:198 libmalcontent-ui/user-controls.c:209
+msgid "unknown"
+msgstr "अज्ञात"
+
+#: libmalcontent-ui/user-controls.c:303 libmalcontent-ui/user-controls.c:388
+#: libmalcontent-ui/user-controls.c:641
+msgid "All Ages"
+msgstr "सभी आयु"
+
+#. Translators: The placeholder is a user’s display name.
+#: libmalcontent-ui/user-controls.c:470
+#, c-format
+msgid ""
+"Prevents %s from running web browsers. Limited web content may still be "
+"available in other applications."
+msgstr ""
+"%s को वेब ब्राउज़र चलाने से रोकता है। सीमित वेब सामग्री अभी भी अन्य एप्लिकेशन में उपलब्ध "
+"हो सकती है।"
+
+#. Translators: The placeholder is a user’s display name.
+#: libmalcontent-ui/user-controls.c:475
+#, c-format
+msgid "Prevents specified applications from being used by %s."
+msgstr "%s को विशिष्ट एप्लीकेशन का उपयोग करने से रोकता है।"
+
+#. Translators: The placeholder is a user’s display name.
+#: libmalcontent-ui/user-controls.c:480
+#, c-format
+msgid "Prevents %s from installing applications."
+msgstr " %s को एप्लिकेशन इंस्टॉल करने से रोकता है।"
+
+#: libmalcontent-ui/user-controls.ui:25
+msgid "Application Usage Restrictions"
+msgstr "एप्लीकेशन उपयोग पर प्रतिबंध"
+
+#: libmalcontent-ui/user-controls.ui:28
+msgid "Restrict _Web Browsers"
+msgstr "वेब ब्राउज़रों को प्रतिबंधित करें (_W)"
+
+#: libmalcontent-ui/user-controls.ui:50
+msgid "_Restrict Applications"
+msgstr "एप्लीकेशन प्रतिबंधित करें (_R)"
+
+#: libmalcontent-ui/user-controls.ui:72
+msgid "Software Installation Restrictions"
+msgstr "साफ्टवेयर इंस्टालेशन पर प्रतिबंध"
+
+#: libmalcontent-ui/user-controls.ui:76
+msgid "Restrict Application _Installation"
+msgstr "एप्लीकेशन के इंस्टालेशन को रोकें (_I)"
+
+#: libmalcontent-ui/user-controls.ui:97
+msgid "Application _Suitability"
+msgstr "एप्लीकेशन की उपयुक्तता (_S)"
+
+#: libmalcontent-ui/user-controls.ui:100
+msgid ""
+"Restricts browsing or installation of applications to applications suitable "
+"for certain ages or above."
+msgstr ""
+"विशिष्ट उम्र या उससे ऊपर के लोगों के लिए उपयुक्त एप्लिकेशन इंस्टाल या ब्राउज़िंग को "
+"प्रतिबंधित करता है।"
+
+#. Translators: This documents the --user command line option to malcontent-control:
+#: malcontent-control/application.c:102
+msgid "User to select in the UI"
+msgstr "UI में जो उपयोगकर्ता चुना जाना चाहिए"
+
+# This is a place holder for command line field, thus left as such.
+#. Translators: This is a placeholder for a command line argument value:
+#: malcontent-control/application.c:104
+msgid "USERNAME"
+msgstr "USERNAME"
+
+#: malcontent-control/application.c:116
+msgid "— view and edit parental controls"
+msgstr "— पैरेंटल कंट्रोल को देखें व उनका प्रबंधन करें"
+
+#. Translators: This is the title of the main window
+#. Translators: the name of the application as it appears in a software center
+#: malcontent-control/application.c:123 malcontent-control/main.ui:17
+#: malcontent-control/org.freedesktop.MalcontentControl.appdata.xml.in:9
+#: malcontent-control/org.freedesktop.MalcontentControl.desktop.in:3
+msgid "Parental Controls"
+msgstr "पैरेंटल कंट्रोल "
+
+#: malcontent-control/application.c:309
+msgid "Copyright © 2019, 2020 Endless Mobile, Inc."
+msgstr "कॉपीराइट © 2019, 2020 Endless Mobile, Inc."
+
+#. Translators: this should be "translated" to the
+#. names of people who have translated Malcontent into
+#. this language, one per line.
+#: malcontent-control/application.c:314
+msgid "translator-credits"
+msgstr ""
+"Hemish <hemish04082005@gmail.com>\n"
+"https://www.transifex.com/endless-os/teams/9016/hi/"
+
+# 'Malcontent' is a brand name, so to clarify for Hindi audience, it is put in inverted commas
+#. Translators: "Malcontent" is the brand name of this
+#. project, so should not be translated.
+#: malcontent-control/application.c:320
+msgid "Malcontent Website"
+msgstr "'Malcontent' की वेबसाइट"
+
+#: malcontent-control/application.c:341
+msgid "The help contents could not be displayed"
+msgstr "सहायता सामग्री प्रदर्शित नहीं की जा सकी"
+
+#: malcontent-control/application.c:388
+msgid "Failed to load user data from the system"
+msgstr "सिस्टम से उपयोगकर्ता डेटा को लोड करने में असक्षम"
+
+#: malcontent-control/application.c:390
+msgid "Please make sure that the AccountsService is installed and enabled."
+msgstr "कृपया सुनिश्चित करें कि AccountsService इनस्टॉल है और सक्रिय है।"
+
+# A google-translated link of commonsensemedia.org has been provided, as the language is not available at the site, and any good localised guide does not exist.
+#. Translators: Replace the link to commonsensemedia.org with some
+#. * localised guidance for parents/carers on how to set restrictions on
+#. * their child/caree in a responsible way which is in keeping with the
+#. * best practice and culture of the region. If no suitable localised
+#. * guidance exists, and if the default commonsensemedia.org link is not
+#. * suitable, please file an issue against malcontent so we can discuss
+#. * further!
+#. * https://gitlab.freedesktop.org/pwithnall/malcontent/-/issues/new
+#.
+#: malcontent-control/application.c:421
+#, c-format
+msgid ""
+"It’s recommended that restrictions are set as part of an ongoing "
+"conversation with %s. <a href='https://www.commonsensemedia.org/privacy-and-"
+"internet-safety'>Read guidance</a> on what to consider."
+msgstr ""
+"यह सलाह दी जाती है कि प्रतिबंध %s से बातचीत के हिस्से हैं। कृपया <a href='https://www-"
+"commonsensemedia-org.translate.goog/articles/online-safety?"
+"_x_tr_sl=auto&_x_tr_tl=hi'>गाइड को पढें </a> व जानें कि क्या-क्या चीज़ों पर ध्यान "
+"रखना चाहिए।"
+
+#: malcontent-control/carousel.ui:38
+msgid "Previous Page"
+msgstr "पिछला पृष्ठ"
+
+#: malcontent-control/carousel.ui:57
+msgid "Next Page"
+msgstr "अगला पृष्ठ"
+
+#: malcontent-control/main.ui:87
+msgid "Permission Required"
+msgstr "अनुमति आवश्यक है"
+
+#: malcontent-control/main.ui:88
+msgid ""
+"Permission is required to view and change user parental controls settings."
+msgstr ""
+"उपयोगकर्ता पैरेंटल नियंत्रण की सेटिंग्स को देखने और बदलने के लिए अनुमति की आवश्यकता है।"
+
+#: malcontent-control/main.ui:110
+msgid "No Standard User Accounts"
+msgstr "कोई साधारण उपयोगकर्ता खाता नहीं पाया गया"
+
+#: malcontent-control/main.ui:111
+msgid ""
+"Parental controls can only be applied to standard user\n"
+"accounts. These can be created in the user settings."
+msgstr ""
+"उपयोगकर्ता प्रतिबंध का नियंत्रण केवल सामान्य उपयोगकर्ता खातों पर लागू किया\n"
+"जा सकता है। इन्हें उपयोगकर्ता सेटिंग्स में प्रबंधित किया जा सकता है।"
+
+#: malcontent-control/main.ui:115
+msgid "_User Settings"
+msgstr "उपयोगकर्ता सेटिंग्स"
+
+#: malcontent-control/main.ui:138
+msgid "Loading…"
+msgstr "लोड हो रहा है…"
+
+#: malcontent-control/main.ui:171
+msgid "_Help"
+msgstr "सहायता (_H)"
+
+#: malcontent-control/main.ui:175
+msgid "_About Parental Controls"
+msgstr "'पैरेंटल कंट्रोल' का परिचय (_A)"
+
+#. Translators: the brief summary of the application as it appears in a software center.
+#: malcontent-control/org.freedesktop.MalcontentControl.appdata.xml.in:12
+#: malcontent-control/org.freedesktop.MalcontentControl.desktop.in:4
+msgid "Set parental controls and monitor usage by users"
+msgstr "पैरेंटल नियंत्रण सेट करें और उपयोगकर्ता द्वारा प्रयोग को मॉनीटर करें"
+
+#. Translators: These are the application description paragraphs in the AppData file.
+#: malcontent-control/org.freedesktop.MalcontentControl.appdata.xml.in:16
+msgid ""
+"Manage users’ parental controls restrictions, controlling how long they can "
+"use the computer for, what software they can install, and what installed "
+"software they can run."
+msgstr ""
+"उपयोगकर्ताओं के पैरेंटल कंट्रोल प्रतिबंधों को प्रबंधित करें, यह नियंत्रित करते हुए कि वे कितने "
+"समय तक कंप्यूटर का उपयोग कर सकते हैं, वे कौन से सॉफ़्टवेयर इंस्टाल कर सकते हैं और कौन से "
+"इंस्टाल हो चुके सॉफ़्टवेयर चला सकते हैं।"
+
+#: malcontent-control/org.freedesktop.MalcontentControl.appdata.xml.in:25
+msgid "Main window"
+msgstr "मुख्य विंडो"
+
+#: malcontent-control/org.freedesktop.MalcontentControl.appdata.xml.in:39
+msgid "The GNOME Project"
+msgstr "दी गनोम प्रॉजेक्ट"
+
+#. Translators: Search terms to find this application. Do NOT translate or localise the semicolons! The list MUST also end with a semicolon!
+#: malcontent-control/org.freedesktop.MalcontentControl.desktop.in:14
+msgid ""
+"parental controls;screen time;app restrictions;web browser restrictions;oars;"
+"usage;usage limit;kid;child;"
+msgstr ""
+"अभिभावक नियंत्रण; स्क्रीन समय; ऐप प्रतिबंध; वेब ब्राउज़र पर प्रतिबंध; ऑर्स; उपयोग; उपयोग "
+"की सीमा; बच्चा;parental controls;screen time;app restrictions;web browser "
+"restrictions;oars;usage;usage limit;kid;child;"
+
+#: malcontent-control/org.freedesktop.MalcontentControl.policy.in:9
+msgid "Manage parental controls"
+msgstr "पैरेंटल कंट्रोल का प्रबंधन करें"
+
+#: malcontent-control/org.freedesktop.MalcontentControl.policy.in:10
+msgid "Authentication is required to read and change user parental controls"
+msgstr "उपयोगकर्ता प्रतिबंध व नियंत्रणों को पढ़ने और बदलने के लिए सत्यापन आवश्यक है।"
+
+#: malcontent-control/user-selector.c:426
+msgid "Your account"
+msgstr "आपका खाता"
+
+#. Always allow root, to avoid a situation where this PAM module prevents
+#. * all users logging in with no way of recovery.
+#: pam/pam_malcontent.c:142 pam/pam_malcontent.c:188
+#, c-format
+msgid "User ‘%s’ has no time limits enabled"
+msgstr "उपयोगकर्ता '%s' के लिए कोई समय सीमा सक्रिय नहीं है।"
+
+#: pam/pam_malcontent.c:151 pam/pam_malcontent.c:172
+#, c-format
+msgid "Error getting session limits for user ‘%s’: %s"
+msgstr "उपयोगकर्ता ‘%s’ के लिए सेशन सत्र की सीमाएँ प्राप्त करने में समस्या हुई:  %s"
+
+#: pam/pam_malcontent.c:182
+#, c-format
+msgid "User ‘%s’ has no time remaining"
+msgstr "उपयोगकर्ता ‘%s’ के पास समय नहीं बचा है।"
+
+#: pam/pam_malcontent.c:200
+#, c-format
+msgid "Error setting time limit on login session: %s"
+msgstr "%s के लॉगिन सत्र पर समय सीमा सेट करने में त्रुटि हुई"
+

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright © 2018, 2019, 2020 Endless, Inc. -->
+<interface domain="malcontent">
+  <requires lib="gtk+" version="3.12"/>
+  <template class="MctUserControls" parent="AdwBin">
+    <child>
+      <object class="GtkBox">
+        <property name="spacing">24</property>
+        <property name="orientation">vertical</property>
+        <child>
+          <object class="AdwPreferencesGroup">
+            <child>
+              <object class="GtkLabel" id="description_label">
+                <property name="wrap">True</property>
+                <property name="xalign">0.0</property>
+                <property name="yalign">0.0</property>
+              </object>
+            </child>
+          </object>
+        </child>
+
+        <!-- Application Usage Restrictions -->
+        <child>
+          <object class="AdwPreferencesGroup">
+            <property name="title" translatable="yes">Application Usage Restrictions</property>
+            <child>
+              <object class="AdwActionRow" id="restrict_web_browsers_row">
+                <property name="title" translatable="yes">Restrict _Web Browsers</property>
+                <property name="use_underline">True</property>
+                <property name="activatable_widget">restrict_web_browsers_switch</property>
+                <!-- Set dynamically from user-controls.c: -->
+                <property name="subtitle">Prevents {username} from running web browsers. Limited web content may still be available in other applications.</property>
+                <property name="subtitle_lines">0</property>
+                <property name="focusable">False</property>
+                <child>
+                  <object class="GtkSwitch" id="restrict_web_browsers_switch">
+                    <property name="halign">end</property>
+                    <property name="valign">center</property>
+                    <signal name="notify::active" handler="on_restrict_web_browsers_switch_active_changed_cb" object="MctUserControls" swapped="no" />
+                    <style>
+                      <class name="restricts" />
+                    </style>
+                  </object>
+                </child>
+              </object>
+            </child>
+
+            <child>
+              <object class="AdwActionRow" id="restrict_applications_row">
+                <property name="activatable">True</property>
+                <property name="title" translatable="yes">_Restrict Applications</property>
+                <property name="use_underline">True</property>
+                <!-- Set dynamically from user-controls.c: -->
+                <property name="subtitle">Prevents specified applications from being used by {username}.</property>
+                <property name="subtitle_lines">0</property>
+                <property name="action-name">permissions.restrict-applications</property>
+                <child>
+                  <object class="GtkImage">
+                    <property name="icon-name">go-next-symbolic</property>
+                  </object>
+                </child>
+              </object>
+            </child>
+            <style>
+              <class name="content"/>
+            </style>
+          </object>
+        </child>
+
+        <!-- Software Installation Restrictions -->
+        <child>
+          <object class="AdwPreferencesGroup">
+            <property name="title" translatable="yes">Software Installation Restrictions</property>
+            <child>
+              <object class="AdwActionRow" id="restrict_software_installation_row">
+                <property name="visible" bind-source="restrict_software_installation_switch" bind-property="visible" bind-flags="default|sync-create" />
+                <property name="title" translatable="yes">Restrict Application _Installation</property>
+                <property name="use_underline">True</property>
+                <property name="activatable_widget">restrict_software_installation_switch</property>
+                <!-- Set dynamically from user-controls.c: -->
+                <property name="subtitle">Prevents {username} from installing applications.</property>
+                <property name="subtitle_lines">0</property>
+                <property name="focusable">False</property>
+                <child>
+                  <object class="GtkSwitch" id="restrict_software_installation_switch">
+                    <property name="halign">end</property>
+                    <property name="valign">center</property>
+                    <signal name="notify::active" handler="on_restrict_installation_switch_active_changed_cb" object="MctUserControls" swapped="no" />
+                    <style>
+                      <class name="restricts" />
+                    </style>
+                  </object>
+                </child>
+              </object>
+            </child>
+
+            <child>
+              <object class="AdwActionRow">
+                <property name="title" translatable="yes">Application _Suitability</property>
+                <property name="use_underline">True</property>
+                <property name="activatable_widget">oars_button</property>
+                <property name="subtitle" translatable="yes">Restricts the browsing or installation of applications unsuitable for this age or younger.</property>
+                <property name="subtitle_lines">0</property>
+                <property name="focusable">False</property>
+                <child>
+                  <object class="GtkMenuButton" id="oars_button">
+                    <property name="halign">end</property>
+                    <property name="valign">center</property>
+                    <property name="popover">oars_popover</property>
+                    <property name="always-show-arrow">True</property>
+                  </object>
+                </child>
+              </object>
+            </child>
+            <style>
+              <class name="content"/>
+            </style>
+          </object>
+        </child>
+      </object>
+    </child>
+  </template>
+
+  <object class="GtkPopoverMenu" id="oars_popover" />
+
+  <menu id="age_menu" />
+
+  <object class="MctRestrictApplicationsDialog" id="restrict_applications_dialog">
+    <signal name="closed" handler="on_restrict_applications_dialog_closed_cb" />
+  </object>
+</interface>

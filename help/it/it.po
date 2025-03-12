@@ -1,0 +1,450 @@
+# Italian translations for malcontent.
+# Copyright © 2020 the malcontent authors.
+# This file is distributed under the same license as the malcontent package.
+# Albano Battistella <albano_battistella@hotmail.com>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: malcontent master\n"
+"POT-Creation-Date: 2020-04-24 15:30+0000\n"
+"PO-Revision-Date: 2022-01-07 15:41+0100\n"
+"Last-Translator: Albano Battistella <albano_battistella@hotmail.com>\n"
+"Language-Team: Italian\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.1\n"
+
+#. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
+msgctxt "_"
+msgid "translator-credits"
+msgstr "Albano Battistella <albano_battistella@hotmail.com>, 2022."
+
+#. (itstool) path: info/desc
+#: C/creating-a-child-user.page:6
+msgid "Creating a child user on the computer."
+msgstr "Creazione di un account per bambini sul computer."
+
+#. (itstool) path: page/title
+#: C/creating-a-child-user.page:9
+msgid "Creating a Child User"
+msgstr "Creazione un Account per Bambini"
+
+#. (itstool) path: page/p
+#: C/creating-a-child-user.page:11
+msgid ""
+"Parental controls can only be applied to non-administrator accounts. Such an "
+"account may have been created when the computer was initially set up. If "
+"not, a new child user may be created from the <app>Parental Controls</app> "
+"application if no child users already exist; and otherwise may be created "
+"from the <app>Control Center</app>."
+msgstr ""
+"Il controllo parentale può essere applicato solo agli account non-amministratore."
+"Al momento potrebbe essere stato creato un account di questo tipo "
+"dalla configurazione iniziale del computer. In caso contrario, è possibile creare un "
+"nuovo account per bambino dall'applicazione <app>Controllo Parentale</app> o "
+"tramite le <app>Impostazioni</app>."
+
+#. (itstool) path: page/p
+#: C/creating-a-child-user.page:17
+msgid ""
+"To create a new child user, see <link type=\"guide\" xref=\"help:gnome-help/"
+"user-add\">Add a new user account</link>. As soon as the new user is "
+"created, it will appear in the <app>Parental Controls</app> window so that "
+"its parental controls settings can be configured."
+msgstr ""
+"Per creare un nuovo utente per bambino, vedere <link type =\"guide\" xref=\"help:gnome-help/"
+"user-add\">Aggiungi un nuovo account utente</link>. Non appena il nuovo utente sarà "
+"creato, apparirà nella finestra <app>Controllo Parentale</app> in modo che "
+"le sue impostazioni di controllo parentale possano essere configurate."
+#. (itstool) path: credit/name
+#: C/index.page:6
+msgid "Philip Withnall"
+msgstr "Philip Withnall"
+
+#. (itstool) path: credit/years
+#: C/index.page:8
+msgid "2020"
+msgstr "2020"
+
+#. (itstool) path: page/title
+#: C/index.page:12
+msgid "Parental Controls Help"
+msgstr "Aiuto sui controlli parentali"
+
+#. (itstool) path: section/title
+#: C/index.page:15
+msgid "Introduction &amp; Setup"
+msgstr "Introduzione e configurazione"
+
+#. (itstool) path: section/title
+#: C/index.page:19
+msgid "Controls to Apply"
+msgstr "Controlli da applicare"
+
+#. (itstool) path: info/desc
+#: C/internet.page:6
+msgid "Restricting a child user’s access to the internet."
+msgstr "Limitare l'accesso a Internet da parte di un minore"
+
+#. (itstool) path: page/title
+#: C/internet.page:9
+msgid "Restricting Access to the Internet"
+msgstr "Limitare l'accesso a Internet"
+
+#. (itstool) path: page/p
+#: C/internet.page:11
+msgid ""
+"You can restrict a user’s access to the internet. This will prevent them "
+"using a web browser, but it will not prevent them using the internet (in "
+"potentially more limited forms) through other applications. For example, it "
+"will not prevent access to e-mail accounts using <app>Evolution</app>, and "
+"it will not prevent software updates being downloaded and applied."
+msgstr ""
+"È possibile limitare l'accesso di un utente a Internet. Questo gli impedirà "
+"di usare un browser web, ma non limiterà la connessione a Internet (in forma limitata) di "
+"altre applicazioni. Ad esempio, non impedirà l'accesso agli account di "
+"e-mail utilizzando <app>Evolution</app>, né impedirà il download ed "
+"applicazione di aggiornamenti software."
+
+#. (itstool) path: page/p
+#: C/internet.page:17
+msgid "To restrict a user’s access to the internet:"
+msgstr "Per limitare l'accesso di un utente a Internet:"
+
+#. (itstool) path: item/p
+#: C/internet.page:19 C/restricting-applications.page:20
+#: C/software-installation.page:27 C/software-installation.page:64
+msgid "Open the <app>Parental Controls</app> application."
+msgstr "Apri l'app <app>Controllo Parentale</app>."
+
+#. (itstool) path: item/p
+#: C/internet.page:20 C/restricting-applications.page:21
+#: C/software-installation.page:28 C/software-installation.page:65
+msgid "Select the user in the tabs at the top."
+msgstr "Nelle schede in alto, seleziona l'account desiderato."
+
+#. (itstool) path: item/p
+#: C/internet.page:21
+msgid ""
+"Enable the <gui style=\"checkbox\">Restrict Web Browsers</gui> checkbox."
+msgstr ""
+"Seleziona la casella <gui style=\"checkbox\">Limita i browser web</gui>."
+
+#. (itstool) path: info/desc
+#: C/introduction.page:6
+msgid ""
+"Overview of parental controls and the <app>Parental Controls</app> "
+"application."
+msgstr ""
+"Panoramica del controllo parentale e dell'applicazione "
+"<app>Controllo Parentale</app>."
+
+#. (itstool) path: page/title
+#: C/introduction.page:10
+msgid "Introduction to Parental Controls"
+msgstr "Introduzione al Controllo Parentale"
+
+#. (itstool) path: page/p
+#: C/introduction.page:12
+msgid ""
+"Parental controls are a way to restrict what non-administrator accounts can "
+"do on the computer, with the aim of allowing parents to restrict what their "
+"children can do when using the computer unsupervised or under limited "
+"supervision."
+msgstr ""
+"Il controllo parentale è un modo per limitare ciò che gli account non-amministratore possono "
+"fare al computer, con l'obiettivo di consentire ai genitori di limitare ciò che i loro "
+"bambini possono fare quando usano il computer senza sorveglianza o sotto una supervisione "
+"limitata."
+
+#. (itstool) path: page/p
+#: C/introduction.page:16
+msgid ""
+"This functionality can be used in other situations ­– such as other carer/"
+"caree relationships – but is labelled as ‘parental controls’ so that it’s "
+"easy to find."
+msgstr ""
+"Questa funzionalità può essere utilizzata in altre situazioni, ad esempio per altri tutori/"
+"relazioni di carriera - ma è etichettato come’controllo parentale’ in modo che sia "
+"facile da trovare."
+
+#. (itstool) path: page/p
+#: C/introduction.page:19
+msgid ""
+"The parental controls for any user can be queried and set using the "
+"<app>Parental Controls</app> application. This lists the non-administrator "
+"accounts in tabs along its top bar, and shows their current parental "
+"controls settings below. Changes to the parental controls apply immediately."
+msgstr ""
+"L'applicazione <app>Controllo Parentale</app> consente le query "
+"a qualsiasi titolo e definisce i controlli per ciascuno. L'applicazione "
+"elenca tutti gli account non-amministratore sotto forma di schede nella "
+"barra superiore della finestra e sotto mostra i controlli definiti "
+"attualmente. Le modifiche al controllo parentale hanno effetto immediato."
+
+#. (itstool) path: page/p
+#: C/introduction.page:23
+msgid ""
+"Restrictions on using the computer can only be applied to non-administrator "
+"accounts. The parental controls settings for a user can only be changed by "
+"an administrator, although the administrator can do so from the user’s "
+"account by entering their password when prompted by the <app>Parental "
+"Controls</app> application."
+msgstr ""
+"Le restrizioni sull'uso dei computer possono essere applicate solo agli account "
+"non-amministratore. Le impostazioni del controllo parentale per un utente possono "
+"essere modificate solo da un amministratore, anche se l'amministratore può farlo dall'utente "
+"account inserendo la password quando richiesto dall'applicazione "
+"<app>Controllo Parentale</app>." 
+
+#. (itstool) path: p/link
+#: C/legal.xml:4
+msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
+msgstr "Creative Commons Attribution-ShareAlike 3.0 Unported License"
+
+#. (itstool) path: license/p
+#: C/legal.xml:3
+msgid "This work is licensed under a <_:link-1/>."
+msgstr "Quest'opera è sotto licenza <_:link-1/>."
+
+#. (itstool) path: info/desc
+#: C/restricting-applications.page:6
+msgid "Restricting a child user from running already-installed applications."
+msgstr "Limita l'utilizzo di applicazioni già installate ai minori."
+
+#. (itstool) path: page/title
+#: C/restricting-applications.page:9
+msgid "Restricting Access to Installed Applications"
+msgstr "Limita l'accesso alle applicazioni installate"
+
+#. (itstool) path: page/p
+#: C/restricting-applications.page:11
+msgid ""
+"You can prevent a user from running specific applications which are already "
+"installed on the computer. This could be useful if other users need those "
+"applications but they are not appropriate for a child."
+msgstr ""
+"Puoi impedire ad un utente di eseguire applicazioni specifiche che sono già "
+"installate nel computer. Questo potrebbe essere utile se altri utenti hanno bisogno "
+"di queste applicazioni ma che non siano appropriate per un bambino."
+
+#. (itstool) path: page/p
+#: C/restricting-applications.page:14
+msgid ""
+"When installing additional software, you should consider whether that needs "
+"to be restricted for some users — newly installed software is usable by all "
+"users by default."
+msgstr ""
+"Durante l'installazione di software aggiuntivo, è necessario considerare se sia necessario "
+"limitarlo per alcuni utenti: il software appena installato è utilizzabile da tutti gli "
+"utenti per impostazione predefinita."
+
+#. (itstool) path: page/p
+#: C/restricting-applications.page:18
+msgid "To restrict a user’s access to a specific application:"
+msgstr "Per limitare l'accesso di un utente a un'applicazione specifica:"
+
+#. (itstool) path: item/p
+#: C/restricting-applications.page:22
+msgid "Press the <gui style=\"button\">Restrict Applications</gui> button."
+msgstr "Premi il pulsante <gui style=\"button\">Limita Applicazioni</gui>."
+
+#. (itstool) path: item/p
+#: C/restricting-applications.page:23
+msgid ""
+"Enable the switch in the row for each application you would like to restrict "
+"the user from accessing."
+msgstr ""
+"Attiva l'interruttore nella riga per ogni app che desideri limitare."
+
+#. (itstool) path: item/p
+#: C/restricting-applications.page:24
+msgid "Close the <gui>Restrict Applications</gui> window."
+msgstr "Chiudi la finestra <gui>Limita Applicazioni</gui>."
+
+#. (itstool) path: page/p
+#: C/restricting-applications.page:27
+msgid ""
+"Restricting access to specific applications is often used in conjunction "
+"with <link xref=\"software-installation\"/> to prevent a user from "
+"installing additional software which has not been vetted."
+msgstr ""
+"Spesso viene utilizzata la limitazione dell'accesso a determinate applicazioni "
+"Con <link xref=\"software-installation\"/> per evitare che venga installato "
+"software senza che sia stato verificato."
+
+#. (itstool) path: info/desc
+#: C/software-installation.page:6
+msgid ""
+"Restricting the software a child user can install, or preventing them "
+"installing additional software entirely."
+msgstr ""
+"Limita il software che un minore può installare o impediscigli di "
+"installare completamente software aggiuntivo."
+
+#. (itstool) path: page/title
+#: C/software-installation.page:9
+msgid "Restricting Software Installation"
+msgstr "Limitare Installazione di Software"
+
+#. (itstool) path: page/p
+#: C/software-installation.page:11
+msgid ""
+"You can prevent a user from installing additional software, either for the "
+"entire system, or just for themselves. They will still be able to search for "
+"new software to install, but will need an administrator to authorize the "
+"installation when they try to install an application."
+msgstr ""
+"Puoi impedire ad un utente di installare software aggiuntivo, sia per l'intero "
+"sistema, sia per te stesso. Sarà ancora in grado di cercare nuovo software "
+"da installare, ma se proverà ad installarlo dovrà avere l'aiuto di un "
+"amministratore per l'autorizzazione."
+
+#. (itstool) path: page/p
+#: C/software-installation.page:16
+msgid ""
+"Additionally, you can restrict which software a user can browse or search "
+"for in the <app>Software</app> catalog by age categories."
+msgstr ""
+"Inoltre, se utilizzi le categorie di età in <app>Software</app>, "
+"puoi limitare quale software può essere sfogliato nel tuo catalogo."
+
+#. (itstool) path: page/p
+#: C/software-installation.page:19
+msgid ""
+"To prevent a user from running an application which has already been "
+"installed, see <link xref=\"restricting-applications\"/>."
+msgstr ""
+"Per impedire a un utente di eseguire un'applicazione precedentemente installata, "
+"vedere <link xref=\"restricting-applications\"/>."
+
+#. (itstool) path: section/title
+#: C/software-installation.page:23
+msgid "Preventing Software Installation"
+msgstr "Evitare l'installazione di software"
+
+#. (itstool) path: section/p
+#: C/software-installation.page:25
+msgid "To prevent a user from installing additional software:"
+msgstr ""
+"Seguire questa procedura per impedire l'installazione di software aggiuntivo:"
+
+#. (itstool) path: item/p
+#: C/software-installation.page:29
+msgid ""
+"Enable the <gui style=\"checkbox\">Restrict Application Installation</gui> "
+"checkbox."
+msgstr ""
+"Selezionare la casella <gui style=\"checkbox\">Limita l'installazione di "
+"Applicazioni</gui>."
+
+#. (itstool) path: item/p
+#: C/software-installation.page:30
+msgid ""
+"Or enable the <gui style=\"checkbox\">Restrict Application Installation for "
+"Others</gui> checkbox."
+msgstr ""
+"Oppure, seleziona la casella <gui style=\"checkbox\">Limita l'installazione di "
+"applicazioni per gli altri</gui>."
+
+#. (itstool) path: section/p
+#: C/software-installation.page:33
+msgid ""
+"The <gui style=\"checkbox\">Restrict Application Installation for Others</"
+"gui> checkbox allows the user to install additional software for themselves, "
+"but prevents that software from being made available to other users. It "
+"could be used, for exampcheckboxle, if there were two child users, one of whom is "
+"mature enough to be allowed to install additional software, but the other "
+"isn’t — enabling <gui style=\"\">Restrict Application Installation "
+"for Others</gui> would prevent the more mature child from installing "
+"applications which are inappropriate for the other child and making them "
+"available to the other child."
+msgstr ""
+"La casella <gui style=\"checkbox\">Limita l'installazione di applicazioni "
+"ad altri</gui> consente l'installazione di software aggiuntivo per se stessi, "
+"ma ne limita la disponibilità agli altri account. Potrebbe essere usato "
+"approfittando di questa funzione, ad esempio, se hai due minorenni, di cui "
+"solo uno è abbastanza maturo da potersi installare software "
+"abilitando <gui style=\"checkbox\">Limita l'installazione di "
+"applicazioni ad altri</gui> impedirà al minore più maturo di installare "
+"applicazioni inadeguate per l'altro bambino."
+
+#. (itstool) path: section/title
+#: C/software-installation.page:45
+msgid "Restricting Software Installation by Age"
+msgstr "Limitare l'installazione del software in base all'età"
+
+#. (itstool) path: section/p
+#: C/software-installation.page:47
+msgid ""
+"Applications in the <app>Software</app> catalog have information about "
+"content they contain which might be inappropriate for some ages — for "
+"example, various forms of violence, unmoderated chat with other people on "
+"the internet, or the possibility of spending money."
+msgstr ""
+"Le applicazioni incluse nel catalogo di <app>Software</app> "
+"includono informazioni riguardanti il ​​contenuto che possiedono e la sua idoneità "
+"secondo l'età, annotando dettagli come: varie forme di violenza, chat non "
+"moderate con altre persone tramite internet, o la capacità di spendere "
+"soldi."
+
+#. (itstool) path: section/p
+#: C/software-installation.page:51
+msgid ""
+"For each application, this information is summarized as the minimum age "
+"child it is typically suitable to be used by — for example, “suitable for "
+"ages 7+”. These age ratings are presented in region-specific schemes which "
+"can be compared with the ratings schemes used for films and games."
+msgstr ""
+"In ogni applicazione, questa informazione è condensata come l'età minima "
+"che è ritenuta appropriata per un minore utilizzarla; ad esempio,“7 anni o +“. "
+"Queste classificazioni sono presentate in conformità con alcuni "
+"schemi regionali, paragonabili a quelli utilizzati per classificare "
+"film e giochi."
+
+#. (itstool) path: section/p
+#: C/software-installation.page:55
+msgid ""
+"The applications shown to a user in the <app>Software</app> catalog can be "
+"filtered by their age suitability. Applications which are not suitable for "
+"the user will be hidden, and will not be installable by that user. They will "
+"be installable by other users (if their age suitability is set high enough)."
+msgstr ""
+"Le applicazioni <app>Software</app> mostrate a ciascun utente possono essere "
+"filtrate per adeguatezza all'età. Le applicazioni non adatte per un account "
+"verranno nascoste dal catalogo e non potranno essere installate. "
+"Altri utenti potranno installarle (se la loro fascia d'età è tale che lo si permetta)."
+
+#. (itstool) path: section/p
+#: C/software-installation.page:61
+msgid ""
+"To filter the applications seen by a user in the <app>Software</app> catalog "
+"to only those suitable for a certain age:"
+msgstr ""
+"Per filtrare le applicazioni che vede un utente nel catalogo "
+"<app>Software</app> e che solo quelli appropriati vengono mostrati per una "
+"certa età:"
+
+#. (itstool) path: item/p
+#: C/software-installation.page:66
+msgid ""
+"In the <gui>Application Suitability</gui> list, select the age which "
+"applications should be suitable for."
+msgstr ""
+"Nella lista <gui>Idoneità dell'applicazione</gui>, selezionare l'età desiderata."
+
+#. (itstool) path: note/p
+#: C/software-installation.page:70
+msgid ""
+"The user’s actual age is not stored, so the <gui>Application Suitability</"
+"gui> is not automatically updated over time as the child grows older. You "
+"must periodically re-assess the appropriate <gui>Application Suitability</"
+"gui> for each user."
+msgstr ""
+"Poiché l'età dell'utente non viene memorizzata, l' <gui>Idoneità dell'applicazione</"
+"gui> non viene aggiornata automaticamente man mano che il minore cresce. Si dovrebbe "
+"rivalutare periodicamente il livello appropriato di <gui>Idoneità dell'applicazione</"
+"gui> per ciascuno degli account."

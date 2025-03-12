@@ -1,0 +1,452 @@
+# Hungarian translation for malcontent.
+# Copyright (C) 2022, 2024 Free Software Foundation, Inc.
+# This file is distributed under the same license as the malcontent package.
+#
+# Balázs Úr <ur.balazs at fsf dot hu>, 2022, 2024.
+msgid ""
+msgstr ""
+"Project-Id-Version: malcontent\n"
+"Report-Msgid-Bugs-To: https://gitlab.freedesktop.org/pwithnall/malcontent/"
+"issues\n"
+"POT-Creation-Date: 2023-10-13 16:18+0000\n"
+"PO-Revision-Date: 2024-03-10 21:03+0100\n"
+"Last-Translator: Balázs Úr <ur.balazs at fsf dot hu>\n"
+"Language-Team: Hungarian <openscope at fsf dot hu>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 23.08.4\n"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:4
+msgid "Change your own app filter"
+msgstr "A saját alkalmazásszűrőjének megváltoztatása"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:5
+msgid "Authentication is required to change your app filter."
+msgstr "Hitelesítés szükséges az alkalmazásszűrőjének megváltoztatásához."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:14
+msgid "Read your own app filter"
+msgstr "A saját alkalmazásszűrőjének olvasása"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:15
+msgid "Authentication is required to read your app filter."
+msgstr "Hitelesítés szükséges az alkalmazásszűrőjének olvasásához."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:24
+msgid "Change another user’s app filter"
+msgstr "Egy másik felhasználó alkalmazásszűrőjének megváltoztatása"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:25
+msgid "Authentication is required to change another user’s app filter."
+msgstr ""
+"Hitelesítés szükséges egy másik felhasználó alkalmazásszűrőjének "
+"megváltoztatásához."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:34
+msgid "Read another user’s app filter"
+msgstr "Egy másik felhasználó alkalmazásszűrőjének olvasása"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:35
+msgid "Authentication is required to read another user’s app filter."
+msgstr ""
+"Hitelesítés szükséges egy másik felhasználó alkalmazásszűrőjének olvasásához."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:44
+msgid "Change your own session limits"
+msgstr "A saját munkamenetkorlátainak megváltoztatása"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:45
+msgid "Authentication is required to change your session limits."
+msgstr "Hitelesítés szükséges a munkamenetkorlátainak megváltoztatásához."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:54
+msgid "Read your own session limits"
+msgstr "A saját munkamenetkorlátainak olvasása"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:55
+msgid "Authentication is required to read your session limits."
+msgstr "Hitelesítés szükséges a munkamenetkorlátainak olvasásához."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:64
+msgid "Change another user’s session limits"
+msgstr "Egy másik felhasználó munkamenetkorlátainak megváltoztatása"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:65
+msgid "Authentication is required to change another user’s session limits."
+msgstr ""
+"Hitelesítés szükséges egy másik felhasználó munkamenetkorlátainak "
+"megváltoztatásához."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:74
+msgid "Read another user’s session limits"
+msgstr "Egy másik felhasználó munkamenetkorlátainak olvasása"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:75
+msgid "Authentication is required to read another user’s session limits."
+msgstr ""
+"Hitelesítés szükséges egy másik felhasználó munkamenetkorlátainak "
+"olvasásához."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:84
+msgid "Change your own account info"
+msgstr "A saját fiókinformációinak megváltoztatása"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:85
+msgid "Authentication is required to change your account info."
+msgstr "Hitelesítés szükséges a fiókinformációinak megváltoztatásához."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:94
+msgid "Read your own account info"
+msgstr "A saját fiókinformációinak olvasása"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:95
+msgid "Authentication is required to read your account info."
+msgstr "Hitelesítés szükséges a fiókinformációinak olvasásához."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:104
+msgid "Change another user’s account info"
+msgstr "Egy másik felhasználó fiókinformációinak megváltoztatása"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:105
+msgid "Authentication is required to change another user’s account info."
+msgstr ""
+"Hitelesítés szükséges egy másik felhasználó fiókinformációinak "
+"megváltoztatásához."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:114
+msgid "Read another user’s account info"
+msgstr "Egy másik felhasználó fiókinformációinak olvasása"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:115
+msgid "Authentication is required to read another user’s account info."
+msgstr ""
+"Hitelesítés szükséges egy másik felhasználó fiókinformációinak olvasásához."
+
+#: libmalcontent/app-filter.c:694
+#, c-format
+msgid "App filter for user %u was in an unrecognized format"
+msgstr "%u felhasználó alkalmazásszűrője felismerhetetlen formátumban volt"
+
+#: libmalcontent/app-filter.c:725
+#, c-format
+msgid "OARS filter for user %u has an unrecognized kind ‘%s’"
+msgstr "%u felhasználó OARS-szűrője felismerhetetlen „%s” fajtájú"
+
+#: libmalcontent/manager.c:283 libmalcontent/manager.c:420
+#: libmalcontent/manager.c:803
+#, c-format
+msgid "Not allowed to query parental controls data for user %u"
+msgstr ""
+"Nem engedélyezett %u felhasználó szülői felügyeleti adatainak lekérdezése"
+
+#: libmalcontent/manager.c:288
+#, c-format
+msgid "User %u does not exist"
+msgstr "%u felhasználó nem létezik"
+
+#: libmalcontent/manager.c:296
+msgid "System accounts service not available"
+msgstr "A rendszer fiókjainak szolgáltatása nem érhető el"
+
+#: libmalcontent/manager.c:402
+msgid "App filtering is globally disabled"
+msgstr "Az alkalmazásszűrés globálisan le van tiltva"
+
+#: libmalcontent/manager.c:785
+msgid "Session limits are globally disabled"
+msgstr "A munkamenetkorlátok globálisan le vannak tiltva"
+
+#: libmalcontent/session-limits.c:306
+#, c-format
+msgid "Session limit for user %u was in an unrecognized format"
+msgstr "%u felhasználó munkamenetkorlátja felismerhetetlen formátumban volt"
+
+#: libmalcontent/session-limits.c:328
+#, c-format
+msgid "Session limit for user %u has an unrecognized type ‘%u’"
+msgstr "%u felhasználó munkamenetkorlátjának felismerhetetlen „%u” típusa van"
+
+#: libmalcontent/session-limits.c:346
+#, c-format
+msgid "Session limit for user %u has invalid daily schedule %u–%u"
+msgstr ""
+"%u felhasználó munkamenetkorlátjának érvénytelen %u–%u napi ütemezése van"
+
+#. Translators: the placeholder is a user’s full name
+#: libmalcontent-ui/restrict-applications-dialog.c:256
+#, c-format
+msgid "Restrict %s from using the following installed applications."
+msgstr ""
+"%s korlátozása abban, hogy a következő telepített alkalmazásokat használja."
+
+#: libmalcontent-ui/restrict-applications-dialog.ui:6
+msgid "Restrict Applications"
+msgstr "Alkalmazások korlátozása"
+
+#: libmalcontent-ui/restrict-applications-dialog.ui:22
+msgid "Search for applications…"
+msgstr "Alkalmazások keresése…"
+
+#: libmalcontent-ui/restrict-applications-selector.ui:13
+msgid "No applications found to restrict."
+msgstr "Nem találhatók korlátozandó alkalmazások."
+
+#. Translators: this is the full name for an unknown user account.
+#: libmalcontent-ui/user-controls.c:198 libmalcontent-ui/user-controls.c:209
+msgid "unknown"
+msgstr "ismeretlen"
+
+#: libmalcontent-ui/user-controls.c:303 libmalcontent-ui/user-controls.c:388
+#: libmalcontent-ui/user-controls.c:641
+msgid "All Ages"
+msgstr "Összes életkor"
+
+#. Translators: The placeholder is a user’s display name.
+#: libmalcontent-ui/user-controls.c:470
+#, c-format
+msgid ""
+"Prevents %s from running web browsers. Limited web content may still be "
+"available in other applications."
+msgstr ""
+"Megakadályozza, hogy %s webböngészőket futtasson. Korlátozott webes tartalom "
+"továbbra is elérhető lehet egyéb alkalmazásokban."
+
+#. Translators: The placeholder is a user’s display name.
+#: libmalcontent-ui/user-controls.c:475
+#, c-format
+msgid "Prevents specified applications from being used by %s."
+msgstr "Megakadályozza, hogy %s a megadott alkalmazásokat használja."
+
+#. Translators: The placeholder is a user’s display name.
+#: libmalcontent-ui/user-controls.c:480
+#, c-format
+msgid "Prevents %s from installing applications."
+msgstr "Megakadályozza, hogy %s alkalmazásokat telepítsen."
+
+#: libmalcontent-ui/user-controls.ui:25
+msgid "Application Usage Restrictions"
+msgstr "Alkalmazáshasználati korlátozások"
+
+#: libmalcontent-ui/user-controls.ui:28
+msgid "Restrict _Web Browsers"
+msgstr "_Webböngészők korlátozása"
+
+#: libmalcontent-ui/user-controls.ui:51
+msgid "_Restrict Applications"
+msgstr "_Alkalmazások korlátozása"
+
+#: libmalcontent-ui/user-controls.ui:73
+msgid "Software Installation Restrictions"
+msgstr "Szoftvertelepítési korlátozások"
+
+#: libmalcontent-ui/user-controls.ui:77
+msgid "Restrict Application _Installation"
+msgstr "Alkalmazás_telepítés korlátozása"
+
+#: libmalcontent-ui/user-controls.ui:99
+msgid "Application _Suitability"
+msgstr "Alkalmazás _alkalmassága"
+
+#: libmalcontent-ui/user-controls.ui:102
+msgid ""
+"Restricts the browsing or installation of applications unsuitable for this "
+"age or younger."
+msgstr ""
+"Korlátozza az ebben a korban lévőknek vagy fiatalabbaknak nem megfelelő "
+"alkalmazások böngészését vagy telepítését."
+
+#. Translators: This documents the --user command line option to malcontent-control:
+#: malcontent-control/application.c:102
+msgid "User to select in the UI"
+msgstr "A felhasználói felületen kiválasztandó felhasználó"
+
+#. Translators: This is a placeholder for a command line argument value:
+#: malcontent-control/application.c:104
+msgid "USERNAME"
+msgstr "FELHASZNÁLÓNÉV"
+
+#: malcontent-control/application.c:116
+msgid "— view and edit parental controls"
+msgstr "— szülői felügyelet megtekintése és szerkesztése"
+
+#. Translators: This is the title of the main window
+#. Translators: the name of the application as it appears in a software center
+#: malcontent-control/application.c:123 malcontent-control/main.ui:17
+#: malcontent-control/org.freedesktop.MalcontentControl.appdata.xml.in:9
+#: malcontent-control/org.freedesktop.MalcontentControl.desktop.in:3
+msgid "Parental Controls"
+msgstr "Szülői felügyelet"
+
+#: malcontent-control/application.c:309
+msgid "Copyright © 2019, 2020 Endless Mobile, Inc."
+msgstr "Copyright © 2019, 2020 Endless Mobile, Inc."
+
+#. Translators: this should be "translated" to the
+#. names of people who have translated Malcontent into
+#. this language, one per line.
+#: malcontent-control/application.c:314
+msgid "translator-credits"
+msgstr "Úr Balázs <ur dot balazs at fsf dot hu>, 2022."
+
+#. Translators: "Malcontent" is the brand name of this
+#. project, so should not be translated.
+#: malcontent-control/application.c:320
+msgid "Malcontent Website"
+msgstr "A Malcontent weboldala"
+
+#: malcontent-control/application.c:341
+msgid "The help contents could not be displayed"
+msgstr "A súgótartalmat nem sikerült megjeleníteni"
+
+#: malcontent-control/application.c:388
+msgid "Failed to load user data from the system"
+msgstr "Nem sikerült betölteni a felhasználói adatokat a rendszerről"
+
+#: malcontent-control/application.c:390
+msgid "Please make sure that the AccountsService is installed and enabled."
+msgstr ""
+"Győződjön meg arról, hogy az AccountsService telepítve van-e és engedélyezve "
+"van-e."
+
+#. Translators: Replace the link to commonsensemedia.org with some
+#. * localised guidance for parents/carers on how to set restrictions on
+#. * their child/caree in a responsible way which is in keeping with the
+#. * best practice and culture of the region. If no suitable localised
+#. * guidance exists, and if the default commonsensemedia.org link is not
+#. * suitable, please file an issue against malcontent so we can discuss
+#. * further!
+#. * https://gitlab.freedesktop.org/pwithnall/malcontent/-/issues/new
+#.
+#: malcontent-control/application.c:421
+#, c-format
+msgid ""
+"It’s recommended that restrictions are set as part of an ongoing "
+"conversation with %s. <a href='https://www.commonsensemedia.org/privacy-and-"
+"internet-safety'>Read guidance</a> on what to consider."
+msgstr ""
+"Azt javasoljuk, hogy a korlátozásokat %s felhasználóval történő folyamatos "
+"beszélgetés részeként határozzák meg. <a href='https://www.commonsensemedia."
+"org/privacy-and-internet-safety'>Olvasson útmutatást</a> arról, hogy mit "
+"kell figyelembe venni."
+
+#: malcontent-control/carousel.ui:38
+msgid "Previous Page"
+msgstr "Előző oldal"
+
+#: malcontent-control/carousel.ui:57
+msgid "Next Page"
+msgstr "Következő oldal"
+
+#: malcontent-control/main.ui:87
+msgid "Permission Required"
+msgstr "Engedély szükséges"
+
+#: malcontent-control/main.ui:88
+msgid ""
+"Permission is required to view and change user parental controls settings."
+msgstr ""
+"Engedély szükséges a felhasználó szülői felügyeleti beállításainak "
+"megtekintéséhez és megváltoztatásához."
+
+#: malcontent-control/main.ui:110
+msgid "No Standard User Accounts"
+msgstr "Nincsenek szabványos felhasználói fiókok"
+
+#: malcontent-control/main.ui:111
+msgid ""
+"Parental controls can only be applied to standard user\n"
+"accounts. These can be created in the user settings."
+msgstr ""
+"A szülői felügyeletet csak szabványos felhasználói fiókokra lehet\n"
+"alkalmazni. Ezek a felhasználói beállításokban hozhatók létre."
+
+#: malcontent-control/main.ui:115
+msgid "_User Settings"
+msgstr "_Felhasználói beállítások"
+
+#: malcontent-control/main.ui:138
+msgid "Loading…"
+msgstr "Betöltés…"
+
+#: malcontent-control/main.ui:171
+msgid "_Help"
+msgstr "_Súgó"
+
+#: malcontent-control/main.ui:175
+msgid "_About Parental Controls"
+msgstr "_A szülői felügyeletről"
+
+#. Translators: the brief summary of the application as it appears in a software center.
+#: malcontent-control/org.freedesktop.MalcontentControl.appdata.xml.in:12
+#: malcontent-control/org.freedesktop.MalcontentControl.desktop.in:4
+msgid "Set parental controls and monitor usage by users"
+msgstr ""
+"Szülői felügyelet beállítása és a felhasználók tevékenységeinek megfigyelése"
+
+#. Translators: These are the application description paragraphs in the AppData file.
+#: malcontent-control/org.freedesktop.MalcontentControl.appdata.xml.in:16
+msgid ""
+"Manage users’ parental controls restrictions, controlling how long they can "
+"use the computer for, what software they can install, and what installed "
+"software they can run."
+msgstr ""
+"A felhasználók szülői felügyeleti korlátozásainak kezelése, a számítógép "
+"használati idejének szabályozása, milyen szoftvereket telepíthetnek, "
+"valamint mely telepített szoftvereket futtathatnak."
+
+#: malcontent-control/org.freedesktop.MalcontentControl.appdata.xml.in:25
+msgid "Main window"
+msgstr "Főablak"
+
+#: malcontent-control/org.freedesktop.MalcontentControl.appdata.xml.in:39
+msgid "The GNOME Project"
+msgstr "A GNOME projekt"
+
+#. Translators: Search terms to find this application. Do NOT translate or localise the semicolons! The list MUST also end with a semicolon!
+#: malcontent-control/org.freedesktop.MalcontentControl.desktop.in:14
+msgid ""
+"parental controls;screen time;app restrictions;web browser restrictions;oars;"
+"usage;usage limit;kid;child;"
+msgstr ""
+"szülői felügyelet;képernyőidő;alkalmazáskorlátozások;webböngésző-"
+"korlátozások;oars;használat;használati korlátozás;kölyök;gyerek;gyermek;"
+
+#: malcontent-control/org.freedesktop.MalcontentControl.policy.in:9
+msgid "Manage parental controls"
+msgstr "Szülői felügyelet kezelése"
+
+#: malcontent-control/org.freedesktop.MalcontentControl.policy.in:10
+msgid "Authentication is required to read and change user parental controls"
+msgstr ""
+"Hitelesítés szükséges a felhasználó szülői felügyeletének olvasásához és "
+"megváltoztatásához"
+
+#: malcontent-control/user-selector.c:426
+msgid "Your account"
+msgstr "Az Ön fiókja"
+
+#. Always allow root, to avoid a situation where this PAM module prevents
+#. * all users logging in with no way of recovery.
+#: pam/pam_malcontent.c:142 pam/pam_malcontent.c:188
+#, c-format
+msgid "User ‘%s’ has no time limits enabled"
+msgstr "„%s” felhasználónak nincsenek időkorlátok engedélyezve"
+
+#: pam/pam_malcontent.c:151 pam/pam_malcontent.c:172
+#, c-format
+msgid "Error getting session limits for user ‘%s’: %s"
+msgstr "Hiba történt „%s” felhasználó munkamenetkorlátjainak lekérésekor: %s"
+
+#: pam/pam_malcontent.c:182
+#, c-format
+msgid "User ‘%s’ has no time remaining"
+msgstr "„%s” felhasználónak nincs hátralévő ideje"
+
+#: pam/pam_malcontent.c:200
+#, c-format
+msgid "Error setting time limit on login session: %s"
+msgstr ""
+"Hiba történt a bejelentkezési munkameneten való időkorlát beállításakor: %s"

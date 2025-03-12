@@ -1,0 +1,479 @@
+# Georgian translations for malcontent package.
+# Copyright (C) 2022 THE malcontent'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the malcontent package.
+# Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: malcontent\n"
+"Report-Msgid-Bugs-To: https://gitlab.freedesktop.org/pwithnall/malcontent/"
+"issues\n"
+"POT-Creation-Date: 2021-09-18 12:41+0000\n"
+"PO-Revision-Date: 2022-09-14 09:48+0200\n"
+"Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
+"Language-Team: Georgian <(nothing)>\n"
+"Language: ka\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:4
+msgid "Change your own app filter"
+msgstr "შეცვალეთ თქვენი საკუთარი აპის ფილტრი"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:5
+msgid "Authentication is required to change your app filter."
+msgstr "თქვენი აპის ფილტრის შესაცვლელად საჭიროა ავთენტიკაცია."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:14
+msgid "Read your own app filter"
+msgstr "წაიკთხეთ თქვენი საკუთარი აპის ფილტრი"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:15
+msgid "Authentication is required to read your app filter."
+msgstr "თქვენი აპის ფილტრის წასაკითხად საჭიროა ავთენტიკაცია."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:24
+msgid "Change another user’s app filter"
+msgstr "სხვა მომხმარებლის აპის ფილტრის შეცვლა"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:25
+msgid "Authentication is required to change another user’s app filter."
+msgstr "სხვა მომხმარებლის აპის ფილტრის შესაცვლელად ავთენტიკაციაა საჭირო."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:34
+msgid "Read another user’s app filter"
+msgstr "სხვა მომხმარებლის აპის ფილტრის წაკითხვა"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:35
+msgid "Authentication is required to read another user’s app filter."
+msgstr "სხვა მომხმარებლის აპის ფილტრის წასაკითხად ავთენტიკაციაა საჭირო."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:44
+msgid "Change your own session limits"
+msgstr "თქვენი საკუთარი სესიის ლიმიტების შეცვლა"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:45
+msgid "Authentication is required to change your session limits."
+msgstr "თქვენი საკუთარი სესიის ლიმიტების შესაცვლელად ავთენთიკაციაა საჭირო."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:54
+msgid "Read your own session limits"
+msgstr "თქვენი საკუთარი სესიის ლიმიტების შეცვლა"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:55
+msgid "Authentication is required to read your session limits."
+msgstr "თქვენი საკუთარი სესიის ლიმიტების წასაკითხად ავთენთიკაციაა საჭირო."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:64
+msgid "Change another user’s session limits"
+msgstr "სხვა მომხმარებლის სესიის ლიმიტების შეცვლა"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:65
+msgid "Authentication is required to change another user’s session limits."
+msgstr "სხვა მომხმარებლის სესიის ლიმიტების შესაცვლელად ავთენტიკაციაა საჭირო."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:74
+msgid "Read another user’s session limits"
+msgstr "სხვა მომხმარებლის სესიის ლიმიტების წაკითხვა"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:75
+msgid "Authentication is required to read another user’s session limits."
+msgstr "სხვა მომხმარებლის სესიის ლიმიტების წასაკითხად ავთენტიკაციაა საჭირო."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:84
+msgid "Change your own account info"
+msgstr "თქვენი საკუთარი ანგარიშის ინფორმაციის შეცვლა"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:85
+msgid "Authentication is required to change your account info."
+msgstr ""
+"თქვენი საკუთარი ანგარიშის ინფორმაციის შესაცვლელად ავთენთიკაციაა საჭირო."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:94
+msgid "Read your own account info"
+msgstr "თქვენი საკუთარი ანგარიშის ინფორმაციის წაკითხვა"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:95
+msgid "Authentication is required to read your account info."
+msgstr "თქვენი საკუთარი ანგარიშის ინფორმაციის წასაკითხად ავთენთიკაციაა საჭირო."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:104
+msgid "Change another user’s account info"
+msgstr "სხვა მომხმარებლის ანგარიშის ინფორმაციის შეცვლა"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:105
+msgid "Authentication is required to change another user’s account info."
+msgstr ""
+"სხვა მომხმარებლის ანგარიშის ინფორმაციის შესაცვლელად ავთენტიკაციაა საჭირო."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:114
+msgid "Read another user’s account info"
+msgstr "სხვა მომხმარებლის ანგარიშის ინფორმაციის წაკითხვა"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:115
+msgid "Authentication is required to read another user’s account info."
+msgstr ""
+"სხვა მომხმარებლის ანგარიშის ინფორმაციის წასაკითხად ავთენტიკაციაა საჭირო."
+
+#: libmalcontent/app-filter.c:694
+#, c-format
+msgid "App filter for user %u was in an unrecognized format"
+msgstr "აპის ფილტრი მომხმარებლისთვის %u უცნობი ფორმატითაა"
+
+#: libmalcontent/app-filter.c:725
+#, c-format
+msgid "OARS filter for user %u has an unrecognized kind ‘%s’"
+msgstr "OARS ფილტრი მომხმარებლისთვის %u უცნობი სახისაა: '%s'"
+
+#: libmalcontent/manager.c:283 libmalcontent/manager.c:420
+#: libmalcontent/manager.c:803
+#, c-format
+msgid "Not allowed to query parental controls data for user %u"
+msgstr ""
+"მშობლების კონტროლის მონაცემების გამოთხოვა მომხმარებლისთვის %u დაშვებული არაა"
+
+#: libmalcontent/manager.c:288
+#, c-format
+msgid "User %u does not exist"
+msgstr "მომხმარებელი %u არ არსებობს"
+
+#: libmalcontent/manager.c:296
+msgid "System accounts service not available"
+msgstr "სისტემური ანგარიშების სერვისი მიუწვდომელია"
+
+#: libmalcontent/manager.c:402
+msgid "App filtering is globally disabled"
+msgstr "აპის გაფილტვრა გლობალურადაა გათიშული"
+
+#: libmalcontent/manager.c:785
+msgid "Session limits are globally disabled"
+msgstr "სესიის ლიმიტები გლობალურადაა გათიშული"
+
+#: libmalcontent/session-limits.c:306
+#, c-format
+msgid "Session limit for user %u was in an unrecognized format"
+msgstr "მომხმარებლისთვის %u სესიის ლიმიტი უცნობ ფორმატშია"
+
+#: libmalcontent/session-limits.c:328
+#, c-format
+msgid "Session limit for user %u has an unrecognized type ‘%u’"
+msgstr "მომხმარებლისთვის %u სესიის ლიმიტის ტიპი (%u) უცნობია"
+
+#: libmalcontent/session-limits.c:346
+#, c-format
+msgid "Session limit for user %u has invalid daily schedule %u–%u"
+msgstr ""
+"სესიის ლიმიტს მომხმარებლისთვის %u არასწორი დღიური გრაფიკი(%u–%u) გააჩნია"
+
+#. TRANSLATORS: This is the formatting of English and localized name
+#. of the rating e.g. "Adults Only (solo adultos)"
+#: libmalcontent-ui/gs-content-rating.c:75
+#, c-format
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+#: libmalcontent-ui/gs-content-rating.c:209
+msgid "General"
+msgstr "ზოგადი"
+
+#: libmalcontent-ui/gs-content-rating.c:218
+msgid "ALL"
+msgstr "ყველა"
+
+#: libmalcontent-ui/gs-content-rating.c:222
+#: libmalcontent-ui/gs-content-rating.c:485
+msgid "Adults Only"
+msgstr "მხოლოდ დიდებისთვის"
+
+#: libmalcontent-ui/gs-content-rating.c:224
+#: libmalcontent-ui/gs-content-rating.c:484
+msgid "Mature"
+msgstr "ასაკიანები"
+
+#: libmalcontent-ui/gs-content-rating.c:226
+#: libmalcontent-ui/gs-content-rating.c:483
+msgid "Teen"
+msgstr "მოზარდები"
+
+#: libmalcontent-ui/gs-content-rating.c:228
+#: libmalcontent-ui/gs-content-rating.c:482
+msgid "Everyone 10+"
+msgstr "ყველა 10+"
+
+#: libmalcontent-ui/gs-content-rating.c:230
+#: libmalcontent-ui/gs-content-rating.c:481
+msgid "Everyone"
+msgstr "ყველა"
+
+#: libmalcontent-ui/gs-content-rating.c:232
+#: libmalcontent-ui/gs-content-rating.c:480
+msgid "Early Childhood"
+msgstr "პტარა ბავშვები"
+
+#. Translators: the placeholder is a user’s full name
+#: libmalcontent-ui/restrict-applications-dialog.c:222
+#, c-format
+msgid "Restrict %s from using the following installed applications."
+msgstr "%s-სთვის მითითებული დაყენებული აპლიკაციების გამოყენების აკრძალვა."
+
+#: libmalcontent-ui/restrict-applications-dialog.ui:6
+#: libmalcontent-ui/restrict-applications-dialog.ui:12
+msgid "Restrict Applications"
+msgstr "აპლიკაციების შეზღუდვა"
+
+#: libmalcontent-ui/restrict-applications-selector.ui:24
+msgid "No applications found to restrict."
+msgstr "შესაზღუდი აპლიკაციების გარეშე."
+
+#. Translators: this is the full name for an unknown user account.
+#: libmalcontent-ui/user-controls.c:207 libmalcontent-ui/user-controls.c:218
+msgid "unknown"
+msgstr "უცნობი"
+
+#: libmalcontent-ui/user-controls.c:312 libmalcontent-ui/user-controls.c:397
+#: libmalcontent-ui/user-controls.c:669
+msgid "All Ages"
+msgstr "ყველა ასაკი"
+
+#. Translators: The placeholder is a user’s display name.
+#: libmalcontent-ui/user-controls.c:477
+#, c-format
+msgid ""
+"Prevents %s from running web browsers. Limited web content may still be "
+"available in other applications."
+msgstr ""
+"%s-სთვის ბრაუზერების გაშვების აკრძალვა. სხვა აპლიკაციებში შეზღუდული ვებ-"
+"შემცველობა მაინც შეიძლება ხელმისაწვდომი იყოს."
+
+#. Translators: The placeholder is a user’s display name.
+#: libmalcontent-ui/user-controls.c:482
+#, c-format
+msgid "Prevents specified applications from being used by %s."
+msgstr "%s-სთვის მითითებული აპლიკაციების გამოყენების აკრძალვა."
+
+#. Translators: The placeholder is a user’s display name.
+#: libmalcontent-ui/user-controls.c:487
+#, c-format
+msgid "Prevents %s from installing applications."
+msgstr "%s-სთვის აპლიკაციების დაყენების უფლების წართმევა."
+
+#: libmalcontent-ui/user-controls.ui:16
+msgid "Application Usage Restrictions"
+msgstr "აპლიკაციის გამოყენების შეზღუდვები"
+
+#: libmalcontent-ui/user-controls.ui:67
+msgid "Restrict _Web Browsers"
+msgstr "_ვებ ბრაუზერების შეზღუდვა"
+
+#: libmalcontent-ui/user-controls.ui:151
+msgid "_Restrict Applications"
+msgstr "აპლიკაციების _შეზღუდვა"
+
+#: libmalcontent-ui/user-controls.ui:230
+msgid "Software Installation Restrictions"
+msgstr "პროგრამების დაყენების შეზღუდვები"
+
+#: libmalcontent-ui/user-controls.ui:280
+msgid "Restrict Application _Installation"
+msgstr "აპლიკაციების _დაყენების შეზღუდვა"
+
+#: libmalcontent-ui/user-controls.ui:365
+msgid "Application _Suitability"
+msgstr "აპლიკაციის _შესაბამისობა"
+
+#: libmalcontent-ui/user-controls.ui:387
+msgid ""
+"Restricts browsing or installation of applications to applications suitable "
+"for certain ages or above."
+msgstr ""
+"ზღუდავს აპლიკაციების დათვალიერებას ან დაყენებას გარკვეული ასაკამდე ან ქვემოთ."
+
+#. Translators: This documents the --user command line option to malcontent-control:
+#: malcontent-control/application.c:102
+msgid "User to select in the UI"
+msgstr "UI-ში ასარჩევი მომხმარებელი"
+
+#. Translators: This is a placeholder for a command line argument value:
+#: malcontent-control/application.c:104
+msgid "USERNAME"
+msgstr "მომხმარებლის სახელი"
+
+#: malcontent-control/application.c:115
+msgid "— view and edit parental controls"
+msgstr "— მშობლის კონტროლების ნახვა და ჩასწორება"
+
+#. Translators: This is the title of the main window
+#. Translators: the name of the application as it appears in a software center
+#: malcontent-control/application.c:122 malcontent-control/main.ui:12
+#: malcontent-control/org.freedesktop.MalcontentControl.appdata.xml.in:9
+#: malcontent-control/org.freedesktop.MalcontentControl.desktop.in:3
+msgid "Parental Controls"
+msgstr "მშობლის კონტროლი"
+
+#: malcontent-control/application.c:308
+msgid "Copyright © 2019, 2020 Endless Mobile, Inc."
+msgstr "© 2019, 2020 Endless Mobile, Inc., ყველა უფლება დაცულია."
+
+#. Translators: this should be "translated" to the
+#. names of people who have translated Malcontent into
+#. this language, one per line.
+#: malcontent-control/application.c:313
+msgid "translator-credits"
+msgstr "თემური დოღონაძე"
+
+#. Translators: "Malcontent" is the brand name of this
+#. project, so should not be translated.
+#: malcontent-control/application.c:319
+msgid "Malcontent Website"
+msgstr "Malcontent -ის ვებგვერდი"
+
+#: malcontent-control/application.c:337
+msgid "The help contents could not be displayed"
+msgstr "დახმარების შემცველობის ჩვენება შეუძლებელია"
+
+#: malcontent-control/application.c:374
+msgid "Failed to load user data from the system"
+msgstr "სისტემიდან მომხმარებლის მონაცემების წაკითხვის შეცდომა"
+
+#: malcontent-control/application.c:376
+msgid "Please make sure that the AccountsService is installed and enabled."
+msgstr "დარწმუნდით, რომ AccountService დაყენებული და ჩართულია."
+
+#. Translators: Replace the link to commonsensemedia.org with some
+#. * localised guidance for parents/carers on how to set restrictions on
+#. * their child/caree in a responsible way which is in keeping with the
+#. * best practice and culture of the region. If no suitable localised
+#. * guidance exists, and if the default commonsensemedia.org link is not
+#. * suitable, please file an issue against malcontent so we can discuss
+#. * further!
+#. * https://gitlab.freedesktop.org/pwithnall/malcontent/-/issues/new
+#.
+#: malcontent-control/application.c:407
+#, c-format
+msgid ""
+"It’s recommended that restrictions are set as part of an ongoing "
+"conversation with %s. <a href='https://www.commonsensemedia.org/privacy-and-"
+"internet-safety'>Read guidance</a> on what to consider."
+msgstr ""
+"რეკომენდებულია, რომ შეზღუდვები %s-სთან მიმდინარე საუბრის ნაწილი იყოს. <a "
+"href='https://www.commonsensemedia.org/privacy-and-internet-"
+"safety'>წაიკითხეთ,</a> რა უნდა გაითვალისწინოთ."
+
+#: malcontent-control/carousel.ui:48
+msgid "Previous Page"
+msgstr "წინა გვერდი"
+
+#: malcontent-control/carousel.ui:74
+msgid "Next Page"
+msgstr "შემდეგი გვერდი"
+
+#: malcontent-control/main.ui:115
+msgid "Permission Required"
+msgstr "საჭიროა წვდომის უფლება"
+
+#: malcontent-control/main.ui:129
+msgid ""
+"Permission is required to view and change user parental controls settings."
+msgstr ""
+"მომხმარებლის მშობლის კონტროლის პარამეტრების შესაცვლელად საჭირო წვდომა არ "
+"გაგაჩნიათ."
+
+#: malcontent-control/main.ui:184
+msgid "No Standard User Accounts"
+msgstr "სტანდარტული მომხმარებლის ანგარიშების გარეშე"
+
+#: malcontent-control/main.ui:199
+msgid ""
+"Parental controls can only be applied to standard user\n"
+"accounts. These can be created in the user settings."
+msgstr ""
+"მშობლის კონტროლის პოლიტიკის გადატარება მხოლოდ ჩვეულებრივ\n"
+"მომხმარებლებზე შეიძლება. მათი შექმნა მომხმარებლის პარამეტრებში შეგიძლიათ."
+
+#: malcontent-control/main.ui:212
+msgid "_User Settings"
+msgstr "_მომხმარებლის პარამეტრები"
+
+#: malcontent-control/main.ui:242
+msgid "Loading…"
+msgstr "ჩატვირთვა…"
+
+#: malcontent-control/main.ui:305
+msgid "_Help"
+msgstr "და_ხმარება"
+
+#: malcontent-control/main.ui:309
+msgid "_About Parental Controls"
+msgstr "მშობლის კონტროლის _შესახებ"
+
+#. Translators: the brief summary of the application as it appears in a software center.
+#: malcontent-control/org.freedesktop.MalcontentControl.appdata.xml.in:12
+#: malcontent-control/org.freedesktop.MalcontentControl.desktop.in:4
+msgid "Set parental controls and monitor usage by users"
+msgstr "დააყენეთ მშობლის კონტროლი და აკონტროლეთ მომხმარებლების ქცევა"
+
+#. Translators: These are the application description paragraphs in the AppData file.
+#: malcontent-control/org.freedesktop.MalcontentControl.appdata.xml.in:16
+msgid ""
+"Manage users’ parental controls restrictions, controlling how long they can "
+"use the computer for, what software they can install, and what installed "
+"software they can run."
+msgstr ""
+"მართეთ მომხმარებლის მშობლის კონტროლის შეზღუდვები. აკონტროლეთ, რამდენ ხანს "
+"შეუძლიათ, ისარგებლონ კომპიუტერით, რა პროგრამების დაყენება შეუძლიათ და "
+"დაყენებული პროგრამებიდან რისი გაშვება შეუძლიათ."
+
+#: malcontent-control/org.freedesktop.MalcontentControl.appdata.xml.in:25
+msgid "Main window"
+msgstr "მთავარი ფანჯარა"
+
+#: malcontent-control/org.freedesktop.MalcontentControl.appdata.xml.in:38
+msgid "The GNOME Project"
+msgstr "პროექტი \"GNOME\""
+
+#. Translators: Search terms to find this application. Do NOT translate or localise the semicolons! The list MUST also end with a semicolon!
+#: malcontent-control/org.freedesktop.MalcontentControl.desktop.in:14
+msgid ""
+"parental controls;screen time;app restrictions;web browser restrictions;oars;"
+"usage;usage limit;kid;child;"
+msgstr ""
+"parental controls;screen time;app restrictions;web browser restrictions;oars;"
+"usage;usage limit;kid;child;"
+
+#: malcontent-control/org.freedesktop.MalcontentControl.policy.in:9
+msgid "Manage parental controls"
+msgstr "მშობლის კონტროლის მართვა"
+
+#: malcontent-control/org.freedesktop.MalcontentControl.policy.in:10
+msgid "Authentication is required to read and change user parental controls"
+msgstr ""
+"მომხმარებლის მშობლის კონტროლის წასაკითხად და შესაცვლელად ავთენტიკაციაა საჭირო"
+
+#: malcontent-control/user-selector.c:426
+msgid "Your account"
+msgstr "თქვენი ანგარიში"
+
+#. Always allow root, to avoid a situation where this PAM module prevents
+#. * all users logging in with no way of recovery.
+#: pam/pam_malcontent.c:142 pam/pam_malcontent.c:188
+#, c-format
+msgid "User ‘%s’ has no time limits enabled"
+msgstr "მომხმარებელს \"%s\" დროის ლიმიტები ჩართული არ აქვს"
+
+#: pam/pam_malcontent.c:151 pam/pam_malcontent.c:172
+#, c-format
+msgid "Error getting session limits for user ‘%s’: %s"
+msgstr "მომხმარებლისთვის '%s' სესიის ლიმიტების მიღების შეცდომა: %s"
+
+#: pam/pam_malcontent.c:182
+#, c-format
+msgid "User ‘%s’ has no time remaining"
+msgstr "მომხმარებელს \"%s\" დრო დარჩენილი არ აქვს"
+
+#: pam/pam_malcontent.c:200
+#, c-format
+msgid "Error setting time limit on login session: %s"
+msgstr "შესვლის სესიაზე დროის ლიმიტის დაყენების შეცდომა: %s"

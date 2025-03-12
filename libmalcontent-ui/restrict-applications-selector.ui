@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright © 2020 Endless, Inc. -->
+<interface domain="malcontent">
+  <requires lib="gtk+" version="3.12"/>
+  <template class="MctRestrictApplicationsSelector" parent="GtkBox">
+    <child>
+      <object class="GtkListBox" id="listbox">
+        <property name="hexpand">True</property>
+        <property name="selection-mode">none</property>
+
+        <child type="placeholder">
+          <object class="GtkLabel">
+            <property name="label" translatable="yes">No applications found to restrict.</property>
+            <property name="margin-top">12</property>
+            <property name="margin-bottom">12</property>
+          </object>
+        </child>
+
+        <style>
+          <class name="content"/>
+        </style>
+      </object>
+    </child>
+  </template>
+
+  <object class="GListStore" id="apps">
+    <property name="item-type">GAppInfo</property>
+  </object>
+
+  <object class="GtkFilterListModel" id="filtered_apps">
+    <property name="model">apps</property>
+    <property name="filter">search_filter</property>
+  </object>
+
+  <object class="GtkStringFilter" id="search_filter">
+    <property name="expression">
+      <closure type="gchararray" function="app_info_dup_name" />
+    </property>
+  </object>
+</interface>

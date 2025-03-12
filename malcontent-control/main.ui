@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright © 2019, 2020 Endless Mobile, Inc. -->
+<interface>
+  <requires lib="gtk+" version="3.12"/>
+  <object class="AdwApplicationWindow" id="main_window">
+    <property name="default-width">540</property>
+    <property name="default-height">580</property>
+    <child>
+      <object class="GtkBox">
+        <property name="orientation">vertical</property>
+        <child>
+          <object class="GtkHeaderBar" id="header">
+            <property name="show-title-buttons">True</property>
+            <property name="title-widget">
+              <object class="AdwWindowTitle">
+                <!-- Translators: This is the title of the main window -->
+                <property name="title" translatable="yes">Parental Controls</property>
+              </object>
+            </property>
+            <child type="end">
+              <object class="GtkMenuButton" id="primary_menu">
+                <property name="direction">none</property>
+                <property name="menu-model">primary-menu</property>
+                <style>
+                  <class name="image-button"/>
+                </style>
+                <child>
+                  <object class="GtkShortcutController">
+                    <property name="scope">global</property>
+                    <child>
+                      <object class="GtkShortcut">
+                        <property name="trigger">F10</property>
+                        <property name="action">activate</property>
+                      </object>
+                    </child>
+                  </object>
+                </child>
+              </object>
+            </child>
+          </object>
+        </child>
+        <child>
+          <object class="GtkStack" id="main_stack">
+
+            <child>
+              <object class="GtkStackPage">
+                <property name="name">controls</property>
+                <property name="child">
+                  <object class="GtkBox">
+                    <property name="orientation">vertical</property>
+                    <child>
+                      <object class="MctUserSelector" id="user_selector">
+                        <property name="user-manager">user_manager</property>
+                        <property name="show-administrators">False</property>
+                        <accessibility>
+                          <relation name="controls">user_controls</relation>
+                        </accessibility>
+                      </object>
+                    </child>
+                    <child>
+                      <object class="AdwPreferencesPage">
+                        <child>
+                          <object class="AdwPreferencesGroup">
+                            <child>
+                              <object class="MctUserControls" id="user_controls">
+                                <!-- Content is set in code; this string is just a placeholder -->
+                                <property name="description">It’s recommended that restrictions are set as part of an ongoing conversation with $name. Read guidance on what to consider.</property>
+                                <property name="height-request">270</property>
+                                <property name="dbus-connection">dbus_connection</property>
+                                <property name="vexpand">True</property>
+                              </object>
+                            </child>
+                          </object>
+                        </child>
+                      </object>
+                    </child>
+                  </object>
+                </property>
+              </object>
+            </child>
+
+            <child>
+              <object class="GtkStackPage">
+                <property name="name">unlock</property>
+                <property name="child">
+                  <object class="AdwStatusPage">
+                    <property name="title" translatable="yes">Permission Required</property>
+                    <property name="description" translatable="yes">Permission is required to view and change user parental controls settings.</property>
+                    <property name="icon-name">org.freedesktop.MalcontentControl</property>
+                    <child>
+                      <object class="GtkLockButton" id="lock_button">
+                        <property name="halign">center</property>
+                        <style>
+                          <class name="suggested-action" />
+                          <class name="pill" />
+                        </style>
+                      </object>
+                    </child>
+                  </object>
+                </property>
+              </object>
+            </child>
+
+            <child>
+              <object class="GtkStackPage">
+                <property name="name">no-other-users</property>
+                <property name="child">
+                  <object class="AdwStatusPage">
+                    <property name="icon-name">system-users-symbolic</property>
+                    <property name="title" translatable="yes">No Standard User Accounts</property>
+                    <property name="description" translatable="yes">Parental controls can only be applied to standard user
+accounts. These can be created in the user settings.</property>
+                    <child>
+                      <object class="GtkButton" id="user_accounts_panel_button">
+                        <property name="label" translatable="yes">_User Settings</property>
+                        <property name="halign">center</property>
+                        <property name="use-underline">True</property>
+                        <style>
+                          <class name="suggested-action"/>
+                        </style>
+                      </object>
+                    </child>
+                  </object>
+                </property>
+              </object>
+            </child>
+
+            <child>
+              <object class="GtkStackPage">
+                <property name="name">loading</property>
+                <property name="child">
+                  <object class="GtkBox">
+                    <property name="orientation">vertical</property>
+                    <property name="hexpand">True</property>
+                    <property name="vexpand">True</property>
+                    <child type="center">
+                      <object class="GtkLabel">
+                        <property name="label" translatable="yes">Loading…</property>
+                        <property name="vexpand">True</property>
+                        <style>
+                          <class name="title-1" />
+                        </style>
+                      </object>
+                    </child>
+                  </object>
+                </property>
+              </object>
+            </child>
+
+            <child>
+              <object class="GtkStackPage">
+                <property name="name">error</property>
+                <property name="child">
+                  <object class="AdwStatusPage" id="error_page">
+                    <property name="icon-name">dialog-error-symbolic</property>
+                  </object>
+                </property>
+              </object>
+            </child>
+
+          </object>
+        </child>
+      </object>
+    </child>
+  </object>
+
+  <menu id="primary-menu">
+    <section>
+      <item>
+        <attribute name="action">app.help</attribute>
+        <attribute name="label" translatable="yes">_Help</attribute>
+      </item>
+      <item>
+        <attribute name="action">app.about</attribute>
+        <attribute name="label" translatable="yes">_About Parental Controls</attribute>
+      </item>
+    </section>
+  </menu>
+</interface>

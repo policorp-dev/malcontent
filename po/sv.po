@@ -1,0 +1,433 @@
+# Swedish translations for malcontent package.
+# Copyright © 2020-2024 malcontent's COPYRIGHT HOLDER
+# This file is distributed under the same license as the malcontent package.
+# Automatically generated, 2020.
+# Anders Jonsson <anders.jonsson@norsjovallen.se>, 2020, 2023, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: malcontent\n"
+"Report-Msgid-Bugs-To: https://gitlab.freedesktop.org/pwithnall/malcontent/"
+"issues\n"
+"POT-Creation-Date: 2024-03-26 03:25+0000\n"
+"PO-Revision-Date: 2024-03-17 22:41+0100\n"
+"Last-Translator: Anders Jonsson <anders.jonsson@norsjovallen.se>\n"
+"Language-Team: Swedish <tp-sv@listor.tp-sv.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:4
+msgid "Change your own app filter"
+msgstr "Ändra ditt eget programfilter"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:5
+msgid "Authentication is required to change your app filter."
+msgstr "Autentisering krävs för att ändra ditt programfilter."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:14
+msgid "Read your own app filter"
+msgstr "Läs ditt eget programfilter"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:15
+msgid "Authentication is required to read your app filter."
+msgstr "Autentisering krävs för att läsa ditt programfilter."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:24
+msgid "Change another user’s app filter"
+msgstr "Ändra en annan användares programfilter"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:25
+msgid "Authentication is required to change another user’s app filter."
+msgstr "Autentisering krävs för att ändra en annan användares programfilter."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:34
+msgid "Read another user’s app filter"
+msgstr "Läs en annan användares programfilter"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:35
+msgid "Authentication is required to read another user’s app filter."
+msgstr "Autentisering krävs för att läsa en annan användares programfilter."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:44
+msgid "Change your own session limits"
+msgstr "Ändra dina egna sessionsgränser"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:45
+msgid "Authentication is required to change your session limits."
+msgstr "Autentisering krävs för att ändra dina sessionsgränser."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:54
+msgid "Read your own session limits"
+msgstr "Läs dina egna sessionsgränser"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:55
+msgid "Authentication is required to read your session limits."
+msgstr "Autentisering krävs för att läsa dina sessionsgränser."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:64
+msgid "Change another user’s session limits"
+msgstr "Ändra en annan användares sessionsgränser"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:65
+msgid "Authentication is required to change another user’s session limits."
+msgstr "Autentisering krävs för att ändra en annan användares sessionsgränser."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:74
+msgid "Read another user’s session limits"
+msgstr "Läs en annan användares sessionsgränser"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:75
+msgid "Authentication is required to read another user’s session limits."
+msgstr "Autentisering krävs för att läsa en annan användares sessionsgränser."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:84
+msgid "Change your own account info"
+msgstr "Ändra din egen kontoinformation"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:85
+msgid "Authentication is required to change your account info."
+msgstr "Autentisering krävs för att ändra din kontoinformation."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:94
+msgid "Read your own account info"
+msgstr "Läs din egen kontoinformation"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:95
+msgid "Authentication is required to read your account info."
+msgstr "Autentisering krävs för att läsa din kontoinformation."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:104
+msgid "Change another user’s account info"
+msgstr "Ändra en annan användares kontoinformation"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:105
+msgid "Authentication is required to change another user’s account info."
+msgstr ""
+"Autentisering krävs för att ändra en annan användares kontoinformation."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:114
+msgid "Read another user’s account info"
+msgstr "Läs en annan användares kontoinformation"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:115
+msgid "Authentication is required to read another user’s account info."
+msgstr "Autentisering krävs för att läsa en annan användares kontoinformation."
+
+#: libmalcontent/app-filter.c:696
+#, c-format
+msgid "App filter for user %u was in an unrecognized format"
+msgstr "Programfilter för användare %u var i ett okänt format"
+
+#: libmalcontent/app-filter.c:727
+#, c-format
+msgid "OARS filter for user %u has an unrecognized kind ‘%s’"
+msgstr "OARS-filter för användare %u har en okänd typ ”%s”"
+
+#: libmalcontent/manager.c:283 libmalcontent/manager.c:420
+#: libmalcontent/manager.c:803
+#, c-format
+msgid "Not allowed to query parental controls data for user %u"
+msgstr "Ej tillåtet att efterfråga föräldrakontrollsdata för användare %u"
+
+#: libmalcontent/manager.c:288
+#, c-format
+msgid "User %u does not exist"
+msgstr "Användare %u finns inte"
+
+#: libmalcontent/manager.c:296
+msgid "System accounts service not available"
+msgstr "Systemkontotjänst ej tillgänglig"
+
+#: libmalcontent/manager.c:402
+msgid "App filtering is globally disabled"
+msgstr "Programfiltrering är globalt inaktiverad"
+
+#: libmalcontent/manager.c:785
+msgid "Session limits are globally disabled"
+msgstr "Sessionsgränser är globalt inaktiverade"
+
+#: libmalcontent/session-limits.c:306
+#, c-format
+msgid "Session limit for user %u was in an unrecognized format"
+msgstr "Sessionsgräns för användare %u var i ett okänt format"
+
+#: libmalcontent/session-limits.c:328
+#, c-format
+msgid "Session limit for user %u has an unrecognized type ‘%u’"
+msgstr "Sessionsgräns för användare %u har en okänd typ ”%u”"
+
+#: libmalcontent/session-limits.c:346
+#, c-format
+msgid "Session limit for user %u has invalid daily schedule %u–%u"
+msgstr "Sessionsgräns för användare %u har ett ogiltigt dagsschema %u–%u"
+
+#. Translators: the placeholder is a user’s full name
+#: libmalcontent-ui/restrict-applications-dialog.c:256
+#, c-format
+msgid "Restrict %s from using the following installed applications."
+msgstr "Begränsa %s från att använda följande installerade program."
+
+#: libmalcontent-ui/restrict-applications-dialog.ui:6
+msgid "Restrict Applications"
+msgstr "Begränsa program"
+
+#: libmalcontent-ui/restrict-applications-dialog.ui:22
+msgid "Search for applications…"
+msgstr "Sök efter program…"
+
+#: libmalcontent-ui/restrict-applications-selector.ui:13
+msgid "No applications found to restrict."
+msgstr "Inga program att begränsa hittades."
+
+#. Translators: this is the full name for an unknown user account.
+#: libmalcontent-ui/user-controls.c:198 libmalcontent-ui/user-controls.c:209
+msgid "unknown"
+msgstr "okänd"
+
+#: libmalcontent-ui/user-controls.c:306 libmalcontent-ui/user-controls.c:394
+#: libmalcontent-ui/user-controls.c:647
+msgid "Unrestricted"
+msgstr "Obegränsad"
+
+#. Translators: The placeholder is a user’s display name.
+#: libmalcontent-ui/user-controls.c:476
+#, c-format
+msgid ""
+"Prevents %s from running web browsers. Limited web content may still be "
+"available in other applications."
+msgstr ""
+"Förhindrar %s från att köra webbläsare. Begränsat webbinnehåll kan "
+"fortfarande finnas tillgängligt i andra program."
+
+#. Translators: The placeholder is a user’s display name.
+#: libmalcontent-ui/user-controls.c:481
+#, c-format
+msgid "Prevents specified applications from being used by %s."
+msgstr "Förhindrar angivna program från att användas av %s."
+
+#. Translators: The placeholder is a user’s display name.
+#: libmalcontent-ui/user-controls.c:486
+#, c-format
+msgid "Prevents %s from installing applications."
+msgstr "Förhindrar %s från att installera program."
+
+#: libmalcontent-ui/user-controls.ui:25
+msgid "Application Usage Restrictions"
+msgstr "Begränsningar av programanvändning"
+
+#: libmalcontent-ui/user-controls.ui:28
+msgid "Restrict _Web Browsers"
+msgstr "Begränsa _webbläsare"
+
+#: libmalcontent-ui/user-controls.ui:51
+msgid "_Restrict Applications"
+msgstr "_Begränsa program"
+
+#: libmalcontent-ui/user-controls.ui:73
+msgid "Software Installation Restrictions"
+msgstr "Begränsningar av programvaruinstallation"
+
+#: libmalcontent-ui/user-controls.ui:77
+msgid "Restrict Application _Installation"
+msgstr "Begränsa _installation av program"
+
+#: libmalcontent-ui/user-controls.ui:99
+msgid "Application _Suitability"
+msgstr "_Lämplighet för program"
+
+#: libmalcontent-ui/user-controls.ui:102
+msgid ""
+"Restricts the browsing or installation of applications unsuitable for this "
+"age or younger."
+msgstr ""
+"Begränsar bläddring bland eller installation av program som är olämpliga för "
+"denna ålder och yngre."
+
+#. Translators: This documents the --user command line option to malcontent-control:
+#: malcontent-control/application.c:102
+msgid "User to select in the UI"
+msgstr "Användare att välja i användargränssnittet"
+
+#. Translators: This is a placeholder for a command line argument value:
+#: malcontent-control/application.c:104
+msgid "USERNAME"
+msgstr "ANVÄNDARNAMN"
+
+#: malcontent-control/application.c:116
+msgid "— view and edit parental controls"
+msgstr "— visa och redigera föräldrakontroller"
+
+#. Translators: This is the title of the main window
+#. Translators: the name of the application as it appears in a software center
+#: malcontent-control/application.c:123 malcontent-control/main.ui:17
+#: malcontent-control/org.freedesktop.MalcontentControl.metainfo.xml.in:9
+#: malcontent-control/org.freedesktop.MalcontentControl.desktop.in:3
+msgid "Parental Controls"
+msgstr "Föräldrakontroller"
+
+#: malcontent-control/application.c:309
+msgid "Copyright © 2019, 2020 Endless Mobile, Inc."
+msgstr "Copyright © 2019, 2020 Endless Mobile, Inc."
+
+#. Translators: this should be "translated" to the
+#. names of people who have translated Malcontent into
+#. this language, one per line.
+#: malcontent-control/application.c:314
+msgid "translator-credits"
+msgstr "Anders Jonsson <anders.jonsson@norsjovallen.se>"
+
+#. Translators: "Malcontent" is the brand name of this
+#. project, so should not be translated.
+#: malcontent-control/application.c:320
+msgid "Malcontent Website"
+msgstr "Webbplats för Malcontent"
+
+#: malcontent-control/application.c:340
+msgid "The help contents could not be displayed"
+msgstr "Hjälpinnehållet kunde inte visas"
+
+#: malcontent-control/application.c:389
+msgid "Failed to load user data from the system"
+msgstr "Misslyckades med att läsa in användardata från systemet"
+
+#: malcontent-control/application.c:391
+msgid "Please make sure that the AccountsService is installed and enabled."
+msgstr "Försäkra dig om att AccountsService är installerat och aktiverat."
+
+#. Translators: Replace the link to commonsensemedia.org with some
+#. * localised guidance for parents/carers on how to set restrictions on
+#. * their child/caree in a responsible way which is in keeping with the
+#. * best practice and culture of the region. If no suitable localised
+#. * guidance exists, and if the default commonsensemedia.org link is not
+#. * suitable, please file an issue against malcontent so we can discuss
+#. * further!
+#. * https://gitlab.freedesktop.org/pwithnall/malcontent/-/issues/new
+#.
+#: malcontent-control/application.c:424
+#, c-format
+msgid ""
+"It’s recommended that restrictions are set as part of an ongoing "
+"conversation with %s. <a href='https://www.commonsensemedia.org/privacy-and-"
+"internet-safety'>Read guidance</a> on what to consider."
+msgstr ""
+"Det rekommenderas att begränsningar ställs in som en del av en pågående "
+"diskussion med %s. <a href='https://www.commonsensemedia.org/privacy-and-"
+"internet-safety'>Du kan läsa denna guide</a> (på engelska) om vad som finns "
+"att ta i beaktande."
+
+#: malcontent-control/carousel.ui:38
+msgid "Previous Page"
+msgstr "Föregående sida"
+
+#: malcontent-control/carousel.ui:57
+msgid "Next Page"
+msgstr "Nästa sida"
+
+#: malcontent-control/main.ui:87
+msgid "Permission Required"
+msgstr "Behörighet krävs"
+
+#: malcontent-control/main.ui:88
+msgid ""
+"Permission is required to view and change user parental controls settings."
+msgstr ""
+"Behörighet krävs för att visa och ändra inställningar för föräldrakontroll "
+"för användare."
+
+#: malcontent-control/main.ui:110
+msgid "No Standard User Accounts"
+msgstr "Inga standardanvändarkonton"
+
+#: malcontent-control/main.ui:111
+msgid ""
+"Parental controls can only be applied to standard user\n"
+"accounts. These can be created in the user settings."
+msgstr ""
+"Föräldrakontroller kan endast tillämpas för\n"
+"standardanvändarkonton. Dessa kan skapas i\n"
+"användarinställningarna."
+
+#: malcontent-control/main.ui:115
+msgid "_User Settings"
+msgstr "_Användarinställningar"
+
+#: malcontent-control/main.ui:138
+msgid "Loading…"
+msgstr "Läser in…"
+
+#: malcontent-control/main.ui:171
+msgid "_Help"
+msgstr "_Hjälp"
+
+#: malcontent-control/main.ui:175
+msgid "_About Parental Controls"
+msgstr "_Om Föräldrakontroller"
+
+#. Translators: the brief summary of the application as it appears in a software center.
+#: malcontent-control/org.freedesktop.MalcontentControl.metainfo.xml.in:12
+#: malcontent-control/org.freedesktop.MalcontentControl.desktop.in:4
+msgid "Set parental controls and monitor usage by users"
+msgstr "Ställ in föräldrakontroller och övervaka användares användning"
+
+#. Translators: These are the application description paragraphs in the AppData file.
+#: malcontent-control/org.freedesktop.MalcontentControl.metainfo.xml.in:16
+msgid ""
+"Manage users’ parental controls restrictions, controlling how long they can "
+"use the computer for, what software they can install, and what installed "
+"software they can run."
+msgstr ""
+"Hantera användares föräldrakontrollsbegränsningar, vilket styr hur länge de "
+"kan använda datorn, vilken programvara de kan installera, och vilken "
+"installerad programvara som de kan köra."
+
+#: malcontent-control/org.freedesktop.MalcontentControl.metainfo.xml.in:25
+msgid "Main window"
+msgstr "Huvudfönster"
+
+#. Translators: Search terms to find this application. Do NOT translate or localise the semicolons! The list MUST also end with a semicolon!
+#: malcontent-control/org.freedesktop.MalcontentControl.desktop.in:13
+msgid ""
+"parental controls;screen time;app restrictions;web browser restrictions;oars;"
+"usage;usage limit;kid;child;"
+msgstr ""
+"föräldrakontroller;skärmtid;programbegränsningar;appbegränsningar;"
+"webbläsarbegränsningar;oars;användning;användningsgräns;barn;"
+
+#: malcontent-control/org.freedesktop.MalcontentControl.policy.in:9
+msgid "Manage parental controls"
+msgstr "Hantera föräldrakontroller"
+
+#: malcontent-control/org.freedesktop.MalcontentControl.policy.in:10
+msgid "Authentication is required to read and change user parental controls"
+msgstr ""
+"Autentisering krävs för att läsa och ändra föräldrakontroller för användare"
+
+#: malcontent-control/user-selector.c:426
+msgid "Your account"
+msgstr "Ditt konto"
+
+#. Always allow root, to avoid a situation where this PAM module prevents
+#. * all users logging in with no way of recovery.
+#: pam/pam_malcontent.c:142 pam/pam_malcontent.c:188
+#, c-format
+msgid "User ‘%s’ has no time limits enabled"
+msgstr "Användaren ”%s” har inga tidsgränser aktiverade"
+
+#: pam/pam_malcontent.c:151 pam/pam_malcontent.c:172
+#, c-format
+msgid "Error getting session limits for user ‘%s’: %s"
+msgstr "Fel vid hämtning av sessionsgränser för användaren ”%s”: %s"
+
+#: pam/pam_malcontent.c:182
+#, c-format
+msgid "User ‘%s’ has no time remaining"
+msgstr "Användaren ”%s” har ingen återstående tid"
+
+#: pam/pam_malcontent.c:200
+#, c-format
+msgid "Error setting time limit on login session: %s"
+msgstr "Fel vid inställning av tidsgräns på inloggningssession: %s"

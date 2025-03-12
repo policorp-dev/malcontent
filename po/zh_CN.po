@@ -1,0 +1,482 @@
+# Chinese (China) translation for malcontent.
+# Copyright (C) 2020 malcontent's COPYRIGHT HOLDER
+# This file is distributed under the same license as the malcontent package.
+# Damned <damnedlies@163.com>, 2020.
+# Dingzhong Chen <wsxy162@gmail.com>, 2020.
+# lumingzh <lumingzh@qq.com>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: malcontent master\n"
+"Report-Msgid-Bugs-To: https://gitlab.freedesktop.org/pwithnall/malcontent/"
+"issues\n"
+"POT-Creation-Date: 2024-03-26 03:25+0000\n"
+"PO-Revision-Date: 2024-09-10 11:11+0800\n"
+"Last-Translator: lumingzh <lumingzh@qq.com>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Gtranslator 46.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:4
+msgid "Change your own app filter"
+msgstr "更改您自己的应用程序过滤器"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:5
+msgid "Authentication is required to change your app filter."
+msgstr "需要认证才能更改您的应用程序过滤器。"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:14
+msgid "Read your own app filter"
+msgstr "读取您自己的应用程序过滤器"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:15
+msgid "Authentication is required to read your app filter."
+msgstr "需要认证才能读取您的应用程序过滤器。"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:24
+msgid "Change another user’s app filter"
+msgstr "更改另一个用户的应用程序过滤器"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:25
+msgid "Authentication is required to change another user’s app filter."
+msgstr "需要认证才能更改另一个用户的应用程序过滤器。"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:34
+msgid "Read another user’s app filter"
+msgstr "读取另一个用户的应用程序过滤器"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:35
+msgid "Authentication is required to read another user’s app filter."
+msgstr "需要认证才能读取另一个用户的应用程序过滤器。"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:44
+msgid "Change your own session limits"
+msgstr "更改您自己的会话限制"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:45
+msgid "Authentication is required to change your session limits."
+msgstr "需要认证才能更改您的会话限制。"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:54
+msgid "Read your own session limits"
+msgstr "读取您自己的会话限制"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:55
+msgid "Authentication is required to read your session limits."
+msgstr "需要认证才能读取您的会话限制。"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:64
+msgid "Change another user’s session limits"
+msgstr "更改另一个用户的会话限制"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:65
+msgid "Authentication is required to change another user’s session limits."
+msgstr "需要认证才能更改另一个用户的会话限制。"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:74
+msgid "Read another user’s session limits"
+msgstr "读取另一个用户的会话限制"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:75
+msgid "Authentication is required to read another user’s session limits."
+msgstr "需要认证才能读取另一个用户的会话限制。"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:84
+msgid "Change your own account info"
+msgstr "更改您自己的帐户信息"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:85
+msgid "Authentication is required to change your account info."
+msgstr "需要认证才能更改您的帐户信息。"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:94
+msgid "Read your own account info"
+msgstr "读取您自己的帐户信息"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:95
+msgid "Authentication is required to read your account info."
+msgstr "需要认证才能读取您的帐户信息。"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:104
+msgid "Change another user’s account info"
+msgstr "更改另一个用户的帐户信息"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:105
+msgid "Authentication is required to change another user’s account info."
+msgstr "需要认证才能更改另一个用户的帐户信息。"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:114
+msgid "Read another user’s account info"
+msgstr "读取另一个用户的帐户信息"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:115
+msgid "Authentication is required to read another user’s account info."
+msgstr "需要认证才能读取另一个用户的帐户信息。"
+
+#: libmalcontent/app-filter.c:696
+#, c-format
+msgid "App filter for user %u was in an unrecognized format"
+msgstr "用户 %u 的应用程序过滤器的格式无法识别"
+
+#: libmalcontent/app-filter.c:727
+#, c-format
+msgid "OARS filter for user %u has an unrecognized kind ‘%s’"
+msgstr "用户 %u 的 OARS 过滤器中存在无法识别的类别“%s”"
+
+#: libmalcontent/manager.c:283 libmalcontent/manager.c:420
+#: libmalcontent/manager.c:803
+#, c-format
+msgid "Not allowed to query parental controls data for user %u"
+msgstr "不允许查询用户 %u 的家长控制数据"
+
+#: libmalcontent/manager.c:288
+#, c-format
+msgid "User %u does not exist"
+msgstr "用户 %u 不存在"
+
+#: libmalcontent/manager.c:296
+msgid "System accounts service not available"
+msgstr "系统帐户服务不可用"
+
+#: libmalcontent/manager.c:402
+msgid "App filtering is globally disabled"
+msgstr "已全局禁用应用程序过滤"
+
+#: libmalcontent/manager.c:785
+msgid "Session limits are globally disabled"
+msgstr "已全局禁用会话限制"
+
+#: libmalcontent/session-limits.c:306
+#, c-format
+msgid "Session limit for user %u was in an unrecognized format"
+msgstr "用户 %u 的会话限制的格式无法识别"
+
+#: libmalcontent/session-limits.c:328
+#, c-format
+msgid "Session limit for user %u has an unrecognized type ‘%u’"
+msgstr "用户 %u 的会话限制中存在无法识别的类型“%u”"
+
+#: libmalcontent/session-limits.c:346
+#, c-format
+msgid "Session limit for user %u has invalid daily schedule %u–%u"
+msgstr "用户 %u 的会话限制中存在无效的每日时间安排 %u–%u"
+
+#. Translators: the placeholder is a user’s full name
+#: libmalcontent-ui/restrict-applications-dialog.c:256
+#, c-format
+msgid "Restrict %s from using the following installed applications."
+msgstr "限制 %s 使用下列已安装的应用程序。"
+
+#: libmalcontent-ui/restrict-applications-dialog.ui:6
+msgid "Restrict Applications"
+msgstr "限制应用程序"
+
+#: libmalcontent-ui/restrict-applications-dialog.ui:22
+msgid "Search for applications…"
+msgstr "搜索应用程序…"
+
+#: libmalcontent-ui/restrict-applications-selector.ui:13
+msgid "No applications found to restrict."
+msgstr "未找到要限制的应用程序。"
+
+#. Translators: this is the full name for an unknown user account.
+#: libmalcontent-ui/user-controls.c:198 libmalcontent-ui/user-controls.c:209
+msgid "unknown"
+msgstr "未知"
+
+#: libmalcontent-ui/user-controls.c:306 libmalcontent-ui/user-controls.c:394
+#: libmalcontent-ui/user-controls.c:647
+msgid "Unrestricted"
+msgstr "未限制"
+
+#. Translators: The placeholder is a user’s display name.
+#: libmalcontent-ui/user-controls.c:476
+#, c-format
+msgid ""
+"Prevents %s from running web browsers. Limited web content may still be "
+"available in other applications."
+msgstr ""
+"阻止 %s 运行网页浏览器。在其他应用程序中可能仍然可以访问受限的网页内容。"
+
+#. Translators: The placeholder is a user’s display name.
+#: libmalcontent-ui/user-controls.c:481
+#, c-format
+msgid "Prevents specified applications from being used by %s."
+msgstr "阻止 %s 使用指定的应用程序。"
+
+#. Translators: The placeholder is a user’s display name.
+#: libmalcontent-ui/user-controls.c:486
+#, c-format
+msgid "Prevents %s from installing applications."
+msgstr "阻止 %s 安装应用程序。"
+
+#: libmalcontent-ui/user-controls.ui:25
+msgid "Application Usage Restrictions"
+msgstr "应用程序使用限制"
+
+#: libmalcontent-ui/user-controls.ui:28
+msgid "Restrict _Web Browsers"
+msgstr "限制网页浏览器(_W)"
+
+#: libmalcontent-ui/user-controls.ui:51
+msgid "_Restrict Applications"
+msgstr "限制应用程序(_R)"
+
+#: libmalcontent-ui/user-controls.ui:73
+msgid "Software Installation Restrictions"
+msgstr "软件安装限制"
+
+#: libmalcontent-ui/user-controls.ui:77
+msgid "Restrict Application _Installation"
+msgstr "限制安装应用程序(_I)"
+
+#: libmalcontent-ui/user-controls.ui:99
+msgid "Application _Suitability"
+msgstr "应用程序适宜性(_S)"
+
+#: libmalcontent-ui/user-controls.ui:102
+msgid ""
+"Restricts the browsing or installation of applications unsuitable for this "
+"age or younger."
+msgstr "限制不适宜该年龄或更小用户使用应用程序的浏览或安装。"
+
+#. Translators: This documents the --user command line option to malcontent-control:
+#: malcontent-control/application.c:102
+msgid "User to select in the UI"
+msgstr "在用户界面中要选择的用户"
+
+#. Translators: This is a placeholder for a command line argument value:
+#: malcontent-control/application.c:104
+msgid "USERNAME"
+msgstr "用户名"
+
+#: malcontent-control/application.c:116
+msgid "— view and edit parental controls"
+msgstr "— 查看与编辑家长控制"
+
+#. Translators: This is the title of the main window
+#. Translators: the name of the application as it appears in a software center
+#: malcontent-control/application.c:123 malcontent-control/main.ui:17
+#: malcontent-control/org.freedesktop.MalcontentControl.metainfo.xml.in:9
+#: malcontent-control/org.freedesktop.MalcontentControl.desktop.in:3
+msgid "Parental Controls"
+msgstr "家长控制"
+
+#: malcontent-control/application.c:309
+msgid "Copyright © 2019, 2020 Endless Mobile, Inc."
+msgstr "版权所有 © 2019, 2020 Endless Mobile, Inc."
+
+#. Translators: this should be "translated" to the
+#. names of people who have translated Malcontent into
+#. this language, one per line.
+#: malcontent-control/application.c:314
+msgid "translator-credits"
+msgstr ""
+"Damned <damnedlies@163.com>, 2020.\n"
+"Dingzhong Chen <wsxy162@gmail.com>, 2020.\n"
+"lumingzh <lumingzh@qq.com>, 2024."
+
+#. Translators: "Malcontent" is the brand name of this
+#. project, so should not be translated.
+#: malcontent-control/application.c:320
+msgid "Malcontent Website"
+msgstr "Malcontent 网站"
+
+#: malcontent-control/application.c:340
+msgid "The help contents could not be displayed"
+msgstr "无法显示帮助内容"
+
+#: malcontent-control/application.c:389
+msgid "Failed to load user data from the system"
+msgstr "无法从系统中载入用户数据"
+
+#: malcontent-control/application.c:391
+msgid "Please make sure that the AccountsService is installed and enabled."
+msgstr "请确保 AccountsService 已安装且已启用。"
+
+# 没找到国内的这类非盈利网站，原链接没有中文版，搜到的这个网站有中文版。
+#. Translators: Replace the link to commonsensemedia.org with some
+#. * localised guidance for parents/carers on how to set restrictions on
+#. * their child/caree in a responsible way which is in keeping with the
+#. * best practice and culture of the region. If no suitable localised
+#. * guidance exists, and if the default commonsensemedia.org link is not
+#. * suitable, please file an issue against malcontent so we can discuss
+#. * further!
+#. * https://gitlab.freedesktop.org/pwithnall/malcontent/-/issues/new
+#.
+#: malcontent-control/application.c:424
+#, c-format
+msgid ""
+"It’s recommended that restrictions are set as part of an ongoing "
+"conversation with %s. <a href='https://www.commonsensemedia.org/privacy-and-"
+"internet-safety'>Read guidance</a> on what to consider."
+msgstr ""
+"建议与 %s 一起沟通进行限制设置。可参阅<a href='https://www.internetmatters."
+"org/zh-CN/parental-controls/'>指南</a>了解考虑事项。"
+
+#: malcontent-control/carousel.ui:38
+msgid "Previous Page"
+msgstr "上一页"
+
+#: malcontent-control/carousel.ui:57
+msgid "Next Page"
+msgstr "下一页"
+
+#: malcontent-control/main.ui:87
+msgid "Permission Required"
+msgstr "需要权限"
+
+#: malcontent-control/main.ui:88
+msgid ""
+"Permission is required to view and change user parental controls settings."
+msgstr "需要权限才能查看和更改用户的家长控制设置。"
+
+#: malcontent-control/main.ui:110
+msgid "No Standard User Accounts"
+msgstr "无标准用户帐户"
+
+#: malcontent-control/main.ui:111
+msgid ""
+"Parental controls can only be applied to standard user\n"
+"accounts. These can be created in the user settings."
+msgstr ""
+"家长控制只适用于标准用户帐户。\n"
+"可在用户设置里创建这类帐户。"
+
+#: malcontent-control/main.ui:115
+msgid "_User Settings"
+msgstr "用户设置(_U)"
+
+#: malcontent-control/main.ui:138
+msgid "Loading…"
+msgstr "正在载入……"
+
+#: malcontent-control/main.ui:171
+msgid "_Help"
+msgstr "帮助(_H)"
+
+#: malcontent-control/main.ui:175
+msgid "_About Parental Controls"
+msgstr "关于家长控制(_A)"
+
+#. Translators: the brief summary of the application as it appears in a software center.
+#: malcontent-control/org.freedesktop.MalcontentControl.metainfo.xml.in:12
+#: malcontent-control/org.freedesktop.MalcontentControl.desktop.in:4
+msgid "Set parental controls and monitor usage by users"
+msgstr "设置家长控制以及监视用户的使用情况"
+
+#. Translators: These are the application description paragraphs in the AppData file.
+#: malcontent-control/org.freedesktop.MalcontentControl.metainfo.xml.in:16
+msgid ""
+"Manage users’ parental controls restrictions, controlling how long they can "
+"use the computer for, what software they can install, and what installed "
+"software they can run."
+msgstr ""
+"管理用户的家长控制限制，控制他们可以使用计算机多长时间、可以安装什么软件，以"
+"及可以运行哪些安装的软件。"
+
+#: malcontent-control/org.freedesktop.MalcontentControl.metainfo.xml.in:25
+msgid "Main window"
+msgstr "主窗口"
+
+#. Translators: Search terms to find this application. Do NOT translate or localise the semicolons! The list MUST also end with a semicolon!
+#: malcontent-control/org.freedesktop.MalcontentControl.desktop.in:13
+msgid ""
+"parental controls;screen time;app restrictions;web browser restrictions;oars;"
+"usage;usage limit;kid;child;"
+msgstr ""
+"parental controls;screen time;app restrictions;web browser restrictions;oars;"
+"usage;usage limit;kid;child;家长控制;屏幕时间;应用程序限制;网页浏览器限制;使"
+"用情况;使用限制;儿童;"
+
+#: malcontent-control/org.freedesktop.MalcontentControl.policy.in:9
+msgid "Manage parental controls"
+msgstr "管理家长控制"
+
+#: malcontent-control/org.freedesktop.MalcontentControl.policy.in:10
+msgid "Authentication is required to read and change user parental controls"
+msgstr "需要认证才能读取和更改用户的家长控制"
+
+#: malcontent-control/user-selector.c:426
+msgid "Your account"
+msgstr "您的帐户"
+
+#. Always allow root, to avoid a situation where this PAM module prevents
+#. * all users logging in with no way of recovery.
+#: pam/pam_malcontent.c:142 pam/pam_malcontent.c:188
+#, c-format
+msgid "User ‘%s’ has no time limits enabled"
+msgstr "用户“%s”没有启用时间限制"
+
+#: pam/pam_malcontent.c:151 pam/pam_malcontent.c:172
+#, c-format
+msgid "Error getting session limits for user ‘%s’: %s"
+msgstr "获取用户“%s”的会话限制时出错：%s"
+
+#: pam/pam_malcontent.c:182
+#, c-format
+msgid "User ‘%s’ has no time remaining"
+msgstr "用户“%s”没有剩余时间"
+
+#: pam/pam_malcontent.c:200
+#, c-format
+msgid "Error setting time limit on login session: %s"
+msgstr "设置登录会话的时间限制时出错：%s"
+
+#, c-format
+#~ msgid "%s (%s)"
+#~ msgstr "%s（%s）"
+
+#~ msgid "General"
+#~ msgstr "大众"
+
+#~ msgid "ALL"
+#~ msgstr "全部"
+
+#~ msgid "Adults Only"
+#~ msgstr "仅限成人"
+
+#~ msgid "Mature"
+#~ msgstr "成熟"
+
+#~ msgid "Teen"
+#~ msgstr "青少年"
+
+#~ msgid "Everyone 10+"
+#~ msgstr "10 岁以上"
+
+#~ msgid "Everyone"
+#~ msgstr "所有人"
+
+#~ msgid "Early Childhood"
+#~ msgstr "幼儿"
+
+#~ msgid "All Ages"
+#~ msgstr "所有年龄"
+
+#~ msgid "The GNOME Project"
+#~ msgstr "GNOME 项目"
+
+#~ msgid "No Child Users Configured"
+#~ msgstr "未配置儿童用户"
+
+#~ msgid ""
+#~ "No child users are currently set up on the system. Create one before "
+#~ "setting up their parental controls."
+#~ msgstr "系统上当前没有建立儿童用户。先创建一个才能设置其家长控制。"
+
+#~ msgid "Create _Child User"
+#~ msgstr "创建儿童用户(_C)"
+
+#~ msgid "Applications installed by %s will not appear for other users."
+#~ msgstr "由 %s 安装的应用程序将不会出现在其他用户中。"
+
+#~ msgid "Restrict Application Installation for _Others"
+#~ msgstr "限制为其他人安装应用程序(_O)"
+
+#~ msgid "Not allowed to query session limits data for user %u"
+#~ msgstr "不允许查询用户 %u 的会话限制数据"

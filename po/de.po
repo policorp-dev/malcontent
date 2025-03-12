@@ -1,0 +1,805 @@
+# German translations for malcontent package.
+# Copyright (C) 2020 THE malcontent'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the malcontent package.
+# Automatically generated, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: malcontent\n"
+"Report-Msgid-Bugs-To: https://gitlab.freedesktop.org/pwithnall/malcontent/"
+"issues\n"
+"POT-Creation-Date: 2021-10-12 15:28+0000\n"
+"PO-Revision-Date: 2021-04-11 14:21+0200\n"
+"Last-Translator: Tim Sabsch <tim@sabsch.com>\n"
+"Language-Team: none\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:4
+msgid "Change your own app filter"
+msgstr "Ihren eigenen Anwendungsfilter ändern"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:5
+msgid "Authentication is required to change your app filter."
+msgstr "Legitimierung ist erforderlich, um Ihren Anwendungsfilter zu ändern."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:14
+msgid "Read your own app filter"
+msgstr "Ihren eigenen Anwendungsfilter ansehen"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:15
+msgid "Authentication is required to read your app filter."
+msgstr "Legitimierung ist erforderlich, um Ihren Anwendungsfilter anzusehen."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:24
+msgid "Change another user’s app filter"
+msgstr "Anwendungsfilter eines anderen Nutzers ändern"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:25
+msgid "Authentication is required to change another user’s app filter."
+msgstr ""
+"Legitimierung ist erforderlich, um den Anwendungsfilter eines anderen "
+"Nutzers zu ändern."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:34
+msgid "Read another user’s app filter"
+msgstr "Anwendungsfilter eines anderen Nutzers ansehen"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:35
+msgid "Authentication is required to read another user’s app filter."
+msgstr ""
+"Legitimierung ist erforderlich, um den Anwendungsfilter eines anderen "
+"Nutzers anzusehen."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:44
+msgid "Change your own session limits"
+msgstr "Ihre eigenen Sitzungsbeschränkungen ändern"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:45
+msgid "Authentication is required to change your session limits."
+msgstr ""
+"Legitimierung ist erforderlich, um Ihre Sitzungsbeschränkungen zu ändern."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:54
+msgid "Read your own session limits"
+msgstr "Ihre eigenen Sitzungsbeschränkungen ansehen"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:55
+msgid "Authentication is required to read your session limits."
+msgstr ""
+"Legitimierung ist erforderlich, um Ihre Sitzungsbeschränkungen anzusehen."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:64
+msgid "Change another user’s session limits"
+msgstr "Sitzungsbeschränkungen eines anderen Nutzers ändern"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:65
+msgid "Authentication is required to change another user’s session limits."
+msgstr ""
+"Legitimierung ist erforderlich, um die Sitzungsbeschränkungen eines anderen "
+"Nutzers zu ändern."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:74
+msgid "Read another user’s session limits"
+msgstr "Sitzungsbeschränkungen eines anderen Nutzers ansehen"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:75
+msgid "Authentication is required to read another user’s session limits."
+msgstr ""
+"Legitimierung ist erforderlich, um die Sitzungsbeschränkungen eines anderen "
+"Nutzers anzusehen."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:84
+msgid "Change your own account info"
+msgstr "Eigene Kontoinformationen ändern"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:85
+msgid "Authentication is required to change your account info."
+msgstr "Legitimierung ist erforderlich, um Ihre Kontoinformationen zu ändern."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:94
+msgid "Read your own account info"
+msgstr "Eigene Kontoinformationen ansehen"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:95
+msgid "Authentication is required to read your account info."
+msgstr "Legitimierung ist erforderlich, um Ihre Kontoinformationen anzusehen."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:104
+msgid "Change another user’s account info"
+msgstr "Kontoinformationen eines anderen Nutzers ändern"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:105
+msgid "Authentication is required to change another user’s account info."
+msgstr ""
+"Legitimierung ist erforderlich, um die Kontoinformationen eines anderen "
+"Nutzers zu ändern."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:114
+msgid "Read another user’s account info"
+msgstr "Kontoinformationen eines anderen Nutzers ansehen"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:115
+msgid "Authentication is required to read another user’s account info."
+msgstr ""
+"Legitimierung ist erforderlich, um die Kontoinformationen eines anderen "
+"Nutzers anzusehen."
+
+#: libmalcontent/app-filter.c:694
+#, c-format
+msgid "App filter for user %u was in an unrecognized format"
+msgstr "Anwendungsfilter für Nutzer %u war in einem unbekannten Format"
+
+#: libmalcontent/app-filter.c:725
+#, c-format
+msgid "OARS filter for user %u has an unrecognized kind ‘%s’"
+msgstr "OARS-Filter für den Nutzer %u hat ein unbekanntes Element »%s«"
+
+#: libmalcontent/manager.c:283 libmalcontent/manager.c:420
+#: libmalcontent/manager.c:803
+#, c-format
+msgid "Not allowed to query parental controls data for user %u"
+msgstr "Nicht zur Abfrage der Kindersicherungsdaten des Nutzers %u berechtigt"
+
+#: libmalcontent/manager.c:288
+#, c-format
+msgid "User %u does not exist"
+msgstr "Nutzer %u existiert nicht"
+
+#: libmalcontent/manager.c:296
+msgid "System accounts service not available"
+msgstr "Kontendienst nicht verfügbar"
+
+#: libmalcontent/manager.c:402
+msgid "App filtering is globally disabled"
+msgstr "Filtern von Anwendungen ist global deaktiviert"
+
+#: libmalcontent/manager.c:785
+msgid "Session limits are globally disabled"
+msgstr "Sitzungsbeschränkungen sind global deaktiviert"
+
+#: libmalcontent/session-limits.c:306
+#, c-format
+msgid "Session limit for user %u was in an unrecognized format"
+msgstr "Sitzungsbeschränkung für Nutzer %u war in einem unbekannten Format"
+
+#: libmalcontent/session-limits.c:328
+#, c-format
+msgid "Session limit for user %u has an unrecognized type ‘%u’"
+msgstr "Sitzungsbeschränkung des Nutzers %u hat einen unbekannten Typ »%u«"
+
+#: libmalcontent/session-limits.c:346
+#, c-format
+msgid "Session limit for user %u has invalid daily schedule %u–%u"
+msgstr ""
+"Sitzungsbeschränkung für Nutzer %u hat einen ungültigen täglichen Plan %u–%u"
+
+#. TRANSLATORS: This is the formatting of English and localized name
+#. of the rating e.g. "Adults Only (solo adultos)"
+#: libmalcontent-ui/gs-content-rating.c:75
+#, c-format
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+#: libmalcontent-ui/gs-content-rating.c:209
+msgid "General"
+msgstr "Allgemein"
+
+#: libmalcontent-ui/gs-content-rating.c:218
+msgid "ALL"
+msgstr "ALLE"
+
+#: libmalcontent-ui/gs-content-rating.c:222
+#: libmalcontent-ui/gs-content-rating.c:485
+msgid "Adults Only"
+msgstr "Nur Erwachsene"
+
+#: libmalcontent-ui/gs-content-rating.c:224
+#: libmalcontent-ui/gs-content-rating.c:484
+msgid "Mature"
+msgstr "Erwachsen"
+
+#: libmalcontent-ui/gs-content-rating.c:226
+#: libmalcontent-ui/gs-content-rating.c:483
+msgid "Teen"
+msgstr "Jugendliche"
+
+#: libmalcontent-ui/gs-content-rating.c:228
+#: libmalcontent-ui/gs-content-rating.c:482
+msgid "Everyone 10+"
+msgstr "Alle ab 10 Jahren"
+
+#: libmalcontent-ui/gs-content-rating.c:230
+#: libmalcontent-ui/gs-content-rating.c:481
+msgid "Everyone"
+msgstr "Jeder"
+
+#: libmalcontent-ui/gs-content-rating.c:232
+#: libmalcontent-ui/gs-content-rating.c:480
+msgid "Early Childhood"
+msgstr "Frühe Kindheit"
+
+#. Translators: the placeholder is a user’s full name
+#: libmalcontent-ui/restrict-applications-dialog.c:222
+#, c-format
+msgid "Restrict %s from using the following installed applications."
+msgstr "Hindern Sie %s an der Nutzung folgender installierter Anwendungen."
+
+#: libmalcontent-ui/restrict-applications-dialog.ui:6
+#: libmalcontent-ui/restrict-applications-dialog.ui:12
+msgid "Restrict Applications"
+msgstr "Anwendungen einschränken"
+
+#: libmalcontent-ui/restrict-applications-selector.ui:24
+msgid "No applications found to restrict."
+msgstr "Keine einzuschränkenden Anwendungen gefunden."
+
+#. Translators: this is the full name for an unknown user account.
+#: libmalcontent-ui/user-controls.c:207 libmalcontent-ui/user-controls.c:218
+msgid "unknown"
+msgstr "unbekannt"
+
+#: libmalcontent-ui/user-controls.c:312 libmalcontent-ui/user-controls.c:397
+#: libmalcontent-ui/user-controls.c:669
+msgid "All Ages"
+msgstr "Alle Altersstufen"
+
+#. Translators: The placeholder is a user’s display name.
+#: libmalcontent-ui/user-controls.c:477
+#, c-format
+msgid ""
+"Prevents %s from running web browsers. Limited web content may still be "
+"available in other applications."
+msgstr ""
+"Hindert %s, Webbrowser zu nutzen. Inhalte des Internets könnten durch andere "
+"Anwendungen weiterhin in eingeschränkter Form verfügbar sein."
+
+#. Translators: The placeholder is a user’s display name.
+#: libmalcontent-ui/user-controls.c:482
+#, c-format
+msgid "Prevents specified applications from being used by %s."
+msgstr "Hindert %s, bestimmte Anwendungen zu nutzen."
+
+#. Translators: The placeholder is a user’s display name.
+#: libmalcontent-ui/user-controls.c:487
+#, c-format
+msgid "Prevents %s from installing applications."
+msgstr "Hindert %s an der Installation von Anwendungen."
+
+#: libmalcontent-ui/user-controls.ui:16
+msgid "Application Usage Restrictions"
+msgstr "Einschränkungen der Anwendungsnutzung"
+
+#: libmalcontent-ui/user-controls.ui:68
+msgid "Restrict _Web Browsers"
+msgstr "In_ternet-Browser einschränken"
+
+#: libmalcontent-ui/user-controls.ui:152
+msgid "_Restrict Applications"
+msgstr "Anwendungen _einschränken"
+
+#: libmalcontent-ui/user-controls.ui:231
+msgid "Software Installation Restrictions"
+msgstr "Einschränkungen der Anwendungsinstallation"
+
+#: libmalcontent-ui/user-controls.ui:282
+msgid "Restrict Application _Installation"
+msgstr "_Installation von Anwendungen einschränken"
+
+#: libmalcontent-ui/user-controls.ui:367
+msgid "Application _Suitability"
+msgstr "_Angemessenheit von Anwendungen"
+
+# Browsing = Internetnutzung?
+#: libmalcontent-ui/user-controls.ui:389
+msgid ""
+"Restricts browsing or installation of applications to applications suitable "
+"for certain ages or above."
+msgstr ""
+"Schränkt die Internetnutzung oder die Installation von Anwendungen auf dem "
+"Alter angemessene Anwendungen ein."
+
+#. Translators: This documents the --user command line option to malcontent-control:
+#: malcontent-control/application.c:102
+msgid "User to select in the UI"
+msgstr "In der UI auszuwählender Nutzer"
+
+#. Translators: This is a placeholder for a command line argument value:
+#: malcontent-control/application.c:104
+msgid "USERNAME"
+msgstr "BENUTZERNAME"
+
+#: malcontent-control/application.c:116
+msgid "— view and edit parental controls"
+msgstr "— Kindersicherung ansehen und bearbeiten"
+
+#. Translators: This is the title of the main window
+#. Translators: the name of the application as it appears in a software center
+#: malcontent-control/application.c:123 malcontent-control/main.ui:12
+#: malcontent-control/org.freedesktop.MalcontentControl.appdata.xml.in:9
+#: malcontent-control/org.freedesktop.MalcontentControl.desktop.in:3
+msgid "Parental Controls"
+msgstr "Kindersicherung"
+
+#: malcontent-control/application.c:309
+msgid "Copyright © 2019, 2020 Endless Mobile, Inc."
+msgstr "Copyright © 2019, 2020 Endless Mobile, Inc."
+
+#. Translators: this should be "translated" to the
+#. names of people who have translated Malcontent into
+#. this language, one per line.
+#: malcontent-control/application.c:314
+msgid "translator-credits"
+msgstr ""
+"Philipp Kiemle <philipp.kiemle@gmail.com>, 2020.\n"
+"Christian Kirbach <christian.kirbach@gmail.com>, 2021"
+
+#. Translators: "Malcontent" is the brand name of this
+#. project, so should not be translated.
+#: malcontent-control/application.c:320
+msgid "Malcontent Website"
+msgstr "Malcontent Website"
+
+#: malcontent-control/application.c:338
+msgid "The help contents could not be displayed"
+msgstr "Der Inhalt der Hilfe konnte nicht angezeigt werden"
+
+#: malcontent-control/application.c:375
+msgid "Failed to load user data from the system"
+msgstr "Laden der Nutzerdaten vom System fehlgeschlagen"
+
+#: malcontent-control/application.c:377
+msgid "Please make sure that the AccountsService is installed and enabled."
+msgstr ""
+"Bitte stellen Sie sicher, dass der Kontendienst korrekt installiert und "
+"aktiviert ist."
+
+#. Translators: Replace the link to commonsensemedia.org with some
+#. * localised guidance for parents/carers on how to set restrictions on
+#. * their child/caree in a responsible way which is in keeping with the
+#. * best practice and culture of the region. If no suitable localised
+#. * guidance exists, and if the default commonsensemedia.org link is not
+#. * suitable, please file an issue against malcontent so we can discuss
+#. * further!
+#. * https://gitlab.freedesktop.org/pwithnall/malcontent/-/issues/new
+#.
+#: malcontent-control/application.c:408
+#, c-format
+msgid ""
+"It’s recommended that restrictions are set as part of an ongoing "
+"conversation with %s. <a href='https://www.commonsensemedia.org/privacy-and-"
+"internet-safety'>Read guidance</a> on what to consider."
+msgstr ""
+"Es wird empfohlen, dass Einschränkungen im Gespräch mit %s festgelegt "
+"werden. Lesen Sie <a href='https://www.service-bw.de/lebenslage/-/sbw/"
+"Sicherer+Umgang+mit+digitalen+Medien-5000515-lebenslage-0'>diese "
+"Empfehlungen</a> für weitere Informationen."
+
+#: malcontent-control/carousel.ui:48
+msgid "Previous Page"
+msgstr "Vorherige Seite"
+
+#: malcontent-control/carousel.ui:74
+msgid "Next Page"
+msgstr "Nächste Seite"
+
+#: malcontent-control/main.ui:115
+msgid "Permission Required"
+msgstr "Berechtigung erforderlich"
+
+#: malcontent-control/main.ui:129
+msgid ""
+"Permission is required to view and change user parental controls settings."
+msgstr ""
+"Zum Ansehen und Ändern der Kindersicherungseinstellungen des Nutzers wird "
+"eine Erlaubnis benötigt."
+
+#: malcontent-control/main.ui:184
+msgid "No Standard User Accounts"
+msgstr "Keine Standard-Benutzerkonten"
+
+#: malcontent-control/main.ui:199
+msgid ""
+"Parental controls can only be applied to standard user\n"
+"accounts. These can be created in the user settings."
+msgstr ""
+"Kindersicherungen können nur auf Standard-Nutzerkonten angewendet\n"
+"werden.Diese können in den Nutzereinstellungen erstellt werden."
+
+#: malcontent-control/main.ui:212
+msgid "_User Settings"
+msgstr "_Benutzereinstellungen"
+
+#: malcontent-control/main.ui:242
+msgid "Loading…"
+msgstr "Wird geladen …"
+
+#: malcontent-control/main.ui:305
+msgid "_Help"
+msgstr "_Hilfe"
+
+#: malcontent-control/main.ui:309
+msgid "_About Parental Controls"
+msgstr "_Info zu Kindersicherung"
+
+#. Translators: the brief summary of the application as it appears in a software center.
+#: malcontent-control/org.freedesktop.MalcontentControl.appdata.xml.in:12
+#: malcontent-control/org.freedesktop.MalcontentControl.desktop.in:4
+msgid "Set parental controls and monitor usage by users"
+msgstr "Kindersicherungen erstellen und Computernutzung pro Benutzer verwalten"
+
+#. Translators: These are the application description paragraphs in the AppData file.
+#: malcontent-control/org.freedesktop.MalcontentControl.appdata.xml.in:16
+msgid ""
+"Manage users’ parental controls restrictions, controlling how long they can "
+"use the computer for, what software they can install, and what installed "
+"software they can run."
+msgstr ""
+"Die Einschränkungen des Nutzers verwalten, wie lange sie den Computer nutzen "
+"können, welche Software sie installieren können und welche bereits "
+"installierte Software ausgeführt werden darf."
+
+#: malcontent-control/org.freedesktop.MalcontentControl.appdata.xml.in:25
+msgid "Main window"
+msgstr "Hauptfenster"
+
+#: malcontent-control/org.freedesktop.MalcontentControl.appdata.xml.in:39
+msgid "The GNOME Project"
+msgstr "Das GNOME-Projekt"
+
+#. Translators: Search terms to find this application. Do NOT translate or localise the semicolons! The list MUST also end with a semicolon!
+#: malcontent-control/org.freedesktop.MalcontentControl.desktop.in:14
+msgid ""
+"parental controls;screen time;app restrictions;web browser restrictions;oars;"
+"usage;usage limit;kid;child;"
+msgstr ""
+"parental controls;screen time;app restrictions;web browser restrictions;oars;"
+"usage;usage limit;kid;child;kindersicherung;bildschirmzeit;einschränkung;"
+"oars;limit;kind;"
+
+#: malcontent-control/org.freedesktop.MalcontentControl.policy.in:9
+msgid "Manage parental controls"
+msgstr "Kindersicherung verwalten"
+
+#: malcontent-control/org.freedesktop.MalcontentControl.policy.in:10
+msgid "Authentication is required to read and change user parental controls"
+msgstr ""
+"Legitimierung ist erforderlich, um die Kindersicherung einzusehen und zu "
+"ändern"
+
+#: malcontent-control/user-selector.c:426
+msgid "Your account"
+msgstr "Ihr Konto"
+
+#. Always allow root, to avoid a situation where this PAM module prevents
+#. * all users logging in with no way of recovery.
+#: pam/pam_malcontent.c:142 pam/pam_malcontent.c:188
+#, c-format
+msgid "User ‘%s’ has no time limits enabled"
+msgstr "Nutzer »%s« hat keine zeitliche Beschränkung aktiviert"
+
+#: pam/pam_malcontent.c:151 pam/pam_malcontent.c:172
+#, c-format
+msgid "Error getting session limits for user ‘%s’: %s"
+msgstr ""
+"Sitzungsbeschränkungen für Nutzer »%s« konnten nicht ermittelt werden: %s"
+
+#: pam/pam_malcontent.c:182
+#, c-format
+msgid "User ‘%s’ has no time remaining"
+msgstr "Nutzer »%s« hat keine Zeit mehr übrig"
+
+#: pam/pam_malcontent.c:200
+#, c-format
+msgid "Error setting time limit on login session: %s"
+msgstr "Setzen des Zeitlimits für Login-Sitzung fehlgeschlagen: %s"
+
+#~ msgid "No cartoon violence"
+#~ msgstr "Keine Gewalt in Cartoons"
+
+#~ msgid "Cartoon characters in unsafe situations"
+#~ msgstr "Animationsfiguren in unsicheren Situationen"
+
+#~ msgid "Cartoon characters in aggressive conflict"
+#~ msgstr "Animationsfiguren in aggressivem Konflikt"
+
+#~ msgid "Graphic violence involving cartoon characters"
+#~ msgstr "Grafische Gewaltdarstellung durch Animationsfiguren"
+
+#~ msgid "No fantasy violence"
+#~ msgstr "Keine Gewalt in Fantasy"
+
+#~ msgid "Characters in unsafe situations easily distinguishable from reality"
+#~ msgstr ""
+#~ "Figuren in unsicheren Situationen, die einfach von der Realität zu "
+#~ "unterscheiden sind"
+
+#~ msgid ""
+#~ "Characters in aggressive conflict easily distinguishable from reality"
+#~ msgstr ""
+#~ "Figuren in aggressiven Konflikten, die einfach von der Realität zu "
+#~ "unterscheiden sind"
+
+#~ msgid "Graphic violence easily distinguishable from reality"
+#~ msgstr "Graphische Gewalt, die realitätsfremd ist"
+
+#~ msgid "No realistic violence"
+#~ msgstr "Keine realistische Gewalt"
+
+#~ msgid "Mildly realistic characters in unsafe situations"
+#~ msgstr "Harmlose realistische Figuren in unsicheren Situationen"
+
+#~ msgid "Depictions of realistic characters in aggressive conflict"
+#~ msgstr ""
+#~ "Darstellung von realistischen Charakteren, die im aggressiven Konflikt "
+#~ "zueinander stehen"
+
+#~ msgid "Graphic violence involving realistic characters"
+#~ msgstr "Graphische Gewalt von realistischen Charakteren"
+
+#~ msgid "No bloodshed"
+#~ msgstr "Kein Blutvergießen"
+
+#~ msgid "Unrealistic bloodshed"
+#~ msgstr "Unrealistisches Blutvergießen"
+
+#~ msgid "Realistic bloodshed"
+#~ msgstr "Realistisches Blutvergießen"
+
+#~ msgid "Depictions of bloodshed and the mutilation of body parts"
+#~ msgstr "Darstellung von Blutvergießen und Verstümmeln von Körperteilen"
+
+#~ msgid "No sexual violence"
+#~ msgstr "Keine sexuelle Gewalt"
+
+#~ msgid "Rape or other violent sexual behavior"
+#~ msgstr "Vergewaltigung oder andere gewaltsame Sexualhandlungen"
+
+#~ msgid "No references to alcohol"
+#~ msgstr "Keine Erwähnung alkoholischer Getränke"
+
+#~ msgid "References to alcoholic beverages"
+#~ msgstr "Bezug auf alkoholische Getränke"
+
+#~ msgid "Use of alcoholic beverages"
+#~ msgstr "Genuss von alkoholischen Getränken"
+
+#~ msgid "No references to illicit drugs"
+#~ msgstr "Keine Erwähnung unerlaubter Drogen/Medikamente"
+
+#~ msgid "References to illicit drugs"
+#~ msgstr "Erwähnung unerlaubter Drogen/Medikamente"
+
+#~ msgid "Use of illicit drugs"
+#~ msgstr "Konsum von unerlaubten Drogen/Medikamenten"
+
+#~ msgid "References to tobacco products"
+#~ msgstr "Bezug auf Tabakprodukte"
+
+#~ msgid "Use of tobacco products"
+#~ msgstr "Genuss von Tabakprodukten"
+
+#~ msgid "No nudity of any sort"
+#~ msgstr "Keine Nacktszenen irgendeiner Form"
+
+#~ msgid "Brief artistic nudity"
+#~ msgstr "Kurzzeitige, künstlerische Darbietung von Nacktszenen"
+
+#~ msgid "Prolonged nudity"
+#~ msgstr "Ausgiebige Nacktszenen"
+
+#~ msgid "No references or depictions of sexual nature"
+#~ msgstr "Keine Anspielungen oder Darstellungen sexueller Natur"
+
+#~ msgid "Provocative references or depictions"
+#~ msgstr "Provokative Anspielungen oder Darstellungen"
+
+#~ msgid "Sexual references or depictions"
+#~ msgstr "Sexuelle Anspielungen oder Darstellungen"
+
+#~ msgid "Graphic sexual behavior"
+#~ msgstr "Graphische Sexualhandlungen"
+
+#~ msgid "No profanity of any kind"
+#~ msgstr "Keine Obszönität irgendeiner Art"
+
+#~ msgid "Mild or infrequent use of profanity"
+#~ msgstr "Geringe oder seltene Obszönität"
+
+#~ msgid "Moderate use of profanity"
+#~ msgstr "Gemäßigte Obszönität"
+
+#~ msgid "Strong or frequent use of profanity"
+#~ msgstr "Starke oder häufige Obszönität"
+
+#~ msgid "No inappropriate humor"
+#~ msgstr "Kein unangemessener Humor"
+
+#~ msgid "Slapstick humor"
+#~ msgstr "Slapstick-Humor"
+
+#~ msgid "Vulgar or bathroom humor"
+#~ msgstr "Vulgärer oder Kneipenstammtischhumor"
+
+#~ msgid "Mature or sexual humor"
+#~ msgstr "Nicht jugendfreier oder sexueller Humor"
+
+#~ msgid "No discriminatory language of any kind"
+#~ msgstr "Keine diskriminierende Sprache irgendeiner Art"
+
+#~ msgid "Negativity towards a specific group of people"
+#~ msgstr "Abwertende Äußerungen gegenüber spezifischen Gruppierungen"
+
+#~ msgid "Discrimination designed to cause emotional harm"
+#~ msgstr "Diskriminierung mit dem Ziel der emotionellen Kränkung"
+
+#~ msgid "Explicit discrimination based on gender, sexuality, race or religion"
+#~ msgstr ""
+#~ "Explizite Diskriminierung von Geschlecht, Sexualität, Rasse oder Religion"
+
+#~ msgid "No advertising of any kind"
+#~ msgstr "Keine Werbung irgendeiner Art"
+
+#~ msgid "Product placement"
+#~ msgstr "Produktplatzierung"
+
+#~ msgid "Explicit references to specific brands or trademarked products"
+#~ msgstr "Explizite Anspielungen auf bestimmte Marken oder Handelsprodukte"
+
+#~ msgid "Users are encouraged to purchase specific real-world items"
+#~ msgstr "Benutzer werden ermuntert, bestimmte reale Objekte zu erwerben"
+
+#~ msgid "No gambling of any kind"
+#~ msgstr "Kein Glücksspiel irgendeiner Art"
+
+#~ msgid "Gambling on random events using tokens or credits"
+#~ msgstr "Glücksspiele mit Jetons oder Guthaben"
+
+#~ msgid "Gambling using “play” money"
+#~ msgstr "Glücksspiel mit Spielgeld"
+
+#~ msgid "Gambling using real money"
+#~ msgstr "Glücksspiel mit echtem Geld"
+
+#~ msgid "No ability to spend money"
+#~ msgstr "Keine Möglichkeit, reales Geld auszugeben"
+
+#~ msgid "Users are encouraged to donate real money"
+#~ msgstr "Benutzer werden ermuntert, echtes Geld zu spenden"
+
+#~ msgid "Ability to spend real money in-game"
+#~ msgstr "Möglichkeit, reales Geld in Spielen auszugeben"
+
+#~ msgid "No way to chat with other users"
+#~ msgstr "Keine Möglichkeit zum Chat mit anderen Benutzern"
+
+#~ msgid "User-to-user game interactions without chat functionality"
+#~ msgstr "Zwei-Teilnehmer-Spielinteraktionen ohne Chat-Funktion"
+
+#~ msgid "Moderated chat functionality between users"
+#~ msgstr "Moderierte Chat-Funktion zwischen Benutzern"
+
+#~ msgid "Uncontrolled chat functionality between users"
+#~ msgstr "Nicht kontrollierte Chat-Funktion zwischen Benutzern"
+
+#~ msgid "No way to talk with other users"
+#~ msgstr "Keine Möglichkeit zum Gespräch mit anderen Benutzern"
+
+#~ msgid "Uncontrolled audio or video chat functionality between users"
+#~ msgstr ""
+#~ "Nicht kontrollierte Audio- oder Video-Chat-Funktion zwischen Benutzern"
+
+#~ msgid "No sharing of social network usernames or email addresses"
+#~ msgstr ""
+#~ "Kein Teilen von Benutzernamen in sozialen Netzwerken oder E-Mail-Adressen"
+
+#~ msgid "Sharing social network usernames or email addresses"
+#~ msgstr ""
+#~ "Teilen von Benutzernamen in sozialen Netzwerken oder E-Mail-Adressen"
+
+#~ msgid "No sharing of user information with 3rd parties"
+#~ msgstr "Kein Teilen von Benutzerinformationen mit Dritten"
+
+#~ msgid "Checking for the latest application version"
+#~ msgstr "Suchen nach der neuesten Anwendungsversion"
+
+#~ msgid "Sharing diagnostic data that does not let others identify the user"
+#~ msgstr ""
+#~ "Teilen von Diagnosedaten, die eine Identifizierung des Benutzers durch "
+#~ "andere nicht ermöglichen"
+
+#~ msgid "Sharing information that lets others identify the user"
+#~ msgstr ""
+#~ "Teilen von Informationen, die eine Identifizierung des Benutzers durch "
+#~ "andere ermöglichen"
+
+#~ msgid "No sharing of physical location to other users"
+#~ msgstr "Kein Teilen des physischen Aufenthaltsortes mit anderen Benutzern"
+
+#~ msgid "Sharing physical location to other users"
+#~ msgstr "Teilen des physischen Aufenthaltsortes mit anderen Benutzern"
+
+#~ msgid "No references to homosexuality"
+#~ msgstr "Keine Erwähnung von Homosexualität"
+
+#~ msgid "Indirect references to homosexuality"
+#~ msgstr "Indirekte Erwähnung von Homosexualität"
+
+#~ msgid "Kissing between people of the same gender"
+#~ msgstr "Küssen von Personen desselben Geschlechts"
+
+#~ msgid "Graphic sexual behavior between people of the same gender"
+#~ msgstr "Grafisches Sexualverhalten von Personen desselben Geschlechts"
+
+#~ msgid "No references to prostitution"
+#~ msgstr "Keine Erwähnung von Prostitution"
+
+#~ msgid "Indirect references to prostitution"
+#~ msgstr "Indirekte Erwähnung von Prostitution"
+
+#~ msgid "Direct references to prostitution"
+#~ msgstr "Direkte Erwähnung von Prostitution"
+
+#~ msgid "Graphic depictions of the act of prostitution"
+#~ msgstr "Grafische Darstellungen des Akts der Prostitution"
+
+#~ msgid "No references to adultery"
+#~ msgstr "Keine Erwähnung von Ehebruch"
+
+#~ msgid "Indirect references to adultery"
+#~ msgstr "Indirekte Erwähnung von Ehebruch"
+
+#~ msgid "Direct references to adultery"
+#~ msgstr "Direkte Erwähnung von Ehebruch"
+
+#~ msgid "Graphic depictions of the act of adultery"
+#~ msgstr "Grafische Darstellungen des Akts des Ehebruchs"
+
+#~ msgid "No sexualized characters"
+#~ msgstr "Keine sexualisierten Charaktere"
+
+#~ msgid "Scantily clad human characters"
+#~ msgstr "Leicht bekleidete menschliche Charaktere"
+
+#~ msgid "Overtly sexualized human characters"
+#~ msgstr "Offen sexualisierte menschliche Charaktere"
+
+#~ msgid "No references to desecration"
+#~ msgstr "Keine Erwähnung von Schändung"
+
+#~ msgid "Depictions or references to historical desecration"
+#~ msgstr "Darstellungen oder Erwähnungen von historischer Schändung"
+
+#~ msgid "Depictions of modern-day human desecration"
+#~ msgstr "Darstellungen von moderner menschlicher Schändung"
+
+#~ msgid "Graphic depictions of modern-day desecration"
+#~ msgstr "Grafische Darstellungen von moderner Schändung"
+
+#~ msgid "No visible dead human remains"
+#~ msgstr "Keine sichtbaren menschlichen Überreste"
+
+#~ msgid "Visible dead human remains"
+#~ msgstr "Sichtbare menschliche Überreste"
+
+#~ msgid "Dead human remains that are exposed to the elements"
+#~ msgstr "Menschliche Überreste, die der Natur ausgesetzt sind"
+
+#~ msgid "Graphic depictions of desecration of human bodies"
+#~ msgstr "Grafische Darstellungen von Schändung menschlicher Körper"
+
+#~ msgid "No references to slavery"
+#~ msgstr "Keine Erwähnung von Sklaverei"
+
+#~ msgid "Depictions or references to historical slavery"
+#~ msgstr "Darstellungen oder Erwähnungen von historischer Sklaverei"
+
+#~ msgid "Depictions of modern-day slavery"
+#~ msgstr "Darstellungen oder Erwähnungen von moderner Sklaverei"
+
+#~ msgid "Graphic depictions of modern-day slavery"
+#~ msgstr "Grafische Darstellungen von moderner Sklaverei"

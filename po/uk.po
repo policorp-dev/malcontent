@@ -1,0 +1,495 @@
+# Ukrainian translation for malcontent.
+# Copyright (C) 2020 malcontent's COPYRIGHT HOLDER
+# This file is distributed under the same license as the malcontent package.
+#
+# yurchor <yurchor@ukr.net>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: malcontent master\n"
+"Report-Msgid-Bugs-To: https://gitlab.freedesktop.org/pwithnall/malcontent/issu"
+"es\n"
+"POT-Creation-Date: 2020-12-09 03:28+0000\n"
+"PO-Revision-Date: 2020-12-09 08:59+0200\n"
+"Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
+"Language-Team: Ukrainian <trans-uk@lists.fedoraproject.org>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=n==1 ? 3 : n%10==1 && n%100!=11 ? 0 : n"
+"%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Lokalize 20.11.70\n"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:4
+msgid "Change your own app filter"
+msgstr "Зміна власного фільтра програм"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:5
+msgid "Authentication is required to change your app filter."
+msgstr "Для зміни власного фільтра програм слід пройти розпізнавання."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:14
+msgid "Read your own app filter"
+msgstr "Читання власного фільтра програм"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:15
+msgid "Authentication is required to read your app filter."
+msgstr "Для читання власного фільтра програм слід пройти розпізнавання."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:24
+msgid "Change another user’s app filter"
+msgstr "Зміна фільтра програм іншого користувача"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:25
+msgid "Authentication is required to change another user’s app filter."
+msgstr ""
+"Для зміни фільтра програм іншого користувача слід пройти розпізнавання."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:34
+msgid "Read another user’s app filter"
+msgstr "Читання фільтра програм іншого користувача"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:35
+msgid "Authentication is required to read another user’s app filter."
+msgstr ""
+"Для читання фільтра програм іншого користувача слід пройти розпізнавання."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:44
+msgid "Change your own session limits"
+msgstr "Зміна обмежень власного сеансу"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:45
+msgid "Authentication is required to change your session limits."
+msgstr "Для зміни обмежень вашого власного сеансу слід пройти розпізнавання."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:54
+msgid "Read your own session limits"
+msgstr "Читання обмежень власного сеансу"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:55
+msgid "Authentication is required to read your session limits."
+msgstr "Для читання обмежень вашого власного сеансу слід пройти розпізнавання."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:64
+msgid "Change another user’s session limits"
+msgstr "Зміна обмежень сеансу іншого користувача"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:65
+msgid "Authentication is required to change another user’s session limits."
+msgstr ""
+"Для зміни обмежень сеансу іншого користувача слід пройти розпізнавання."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:74
+msgid "Read another user’s session limits"
+msgstr "Читання обмежень сеансу іншого користувача"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:75
+msgid "Authentication is required to read another user’s session limits."
+msgstr ""
+"Для читання обмежень сеансу іншого користувача слід пройти розпізнавання."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:84
+msgid "Change your own account info"
+msgstr "Зміна даних щодо власного облікового запису"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:85
+msgid "Authentication is required to change your account info."
+msgstr ""
+"Для зміни даних щодо вашого облікового запису слід пройти розпізнавання."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:94
+msgid "Read your own account info"
+msgstr "Читання даних щодо власного облікового запису"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:95
+msgid "Authentication is required to read your account info."
+msgstr ""
+"Для читання даних щодо вашого облікового запису слід пройти розпізнавання."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:104
+msgid "Change another user’s account info"
+msgstr "Зміна даних щодо облікового запису іншого користувача"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:105
+msgid "Authentication is required to change another user’s account info."
+msgstr ""
+"Для зміни даних щодо облікового запису іншого користувача слід пройти "
+"розпізнавання."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:114
+msgid "Read another user’s account info"
+msgstr "Читання даних щодо облікового запису іншого користувача"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:115
+msgid "Authentication is required to read another user’s account info."
+msgstr ""
+"Для читання даних щодо облікового запису іншого користувача слід пройти "
+"розпізнавання."
+
+#: libmalcontent/app-filter.c:694
+#, c-format
+msgid "App filter for user %u was in an unrecognized format"
+msgstr "Фільтр програм для користувача %u записано у невідомому форматі"
+
+#: libmalcontent/app-filter.c:725
+#, c-format
+msgid "OARS filter for user %u has an unrecognized kind ‘%s’"
+msgstr "Фільтр OARS для користувача %u належить до невідомого типу «%s»"
+
+#: libmalcontent/manager.c:283 libmalcontent/manager.c:420
+#: libmalcontent/manager.c:803
+#, c-format
+msgid "Not allowed to query parental controls data for user %u"
+msgstr ""
+"Не дозволено опитувати дані щодо батьківського контролю для користувача %u"
+
+#: libmalcontent/manager.c:288
+#, c-format
+msgid "User %u does not exist"
+msgstr "Запису користувача %u не існує"
+
+#: libmalcontent/manager.c:296
+msgid "System accounts service not available"
+msgstr "Загальносистемна служба облікових записів є недоступною"
+
+#: libmalcontent/manager.c:402
+msgid "App filtering is globally disabled"
+msgstr "Фільтрування програм вимкнено на загальному рівні"
+
+#: libmalcontent/manager.c:785
+msgid "Session limits are globally disabled"
+msgstr "Обмеження сеансів вимкнено на загальному рівні"
+
+#: libmalcontent/session-limits.c:306
+#, c-format
+msgid "Session limit for user %u was in an unrecognized format"
+msgstr "Обмеження сеансів для користувача %u записано у невідомому форматі"
+
+#: libmalcontent/session-limits.c:328
+#, c-format
+msgid "Session limit for user %u has an unrecognized type ‘%u’"
+msgstr "Обмеження сеансів для користувача %u належить до невідомого типу «%u»"
+
+#: libmalcontent/session-limits.c:346
+#, c-format
+msgid "Session limit for user %u has invalid daily schedule %u–%u"
+msgstr ""
+"Обмеження сеансу для користувача %u має некоректний щоденний розклад %u–%u"
+
+#. TRANSLATORS: This is the formatting of English and localized name
+#. of the rating e.g. "Adults Only (solo adultos)"
+#: libmalcontent-ui/gs-content-rating.c:75
+#, c-format
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+#: libmalcontent-ui/gs-content-rating.c:209
+msgid "General"
+msgstr "Загальне"
+
+#: libmalcontent-ui/gs-content-rating.c:218
+msgid "ALL"
+msgstr "УСІ"
+
+#: libmalcontent-ui/gs-content-rating.c:222
+#: libmalcontent-ui/gs-content-rating.c:485
+msgid "Adults Only"
+msgstr "Лише для дорослих"
+
+#: libmalcontent-ui/gs-content-rating.c:224
+#: libmalcontent-ui/gs-content-rating.c:484
+msgid "Mature"
+msgstr "Для дорослих"
+
+#: libmalcontent-ui/gs-content-rating.c:226
+#: libmalcontent-ui/gs-content-rating.c:483
+msgid "Teen"
+msgstr "Для підлітків"
+
+#: libmalcontent-ui/gs-content-rating.c:228
+#: libmalcontent-ui/gs-content-rating.c:482
+msgid "Everyone 10+"
+msgstr "Для усіх 10+"
+
+#: libmalcontent-ui/gs-content-rating.c:230
+#: libmalcontent-ui/gs-content-rating.c:481
+msgid "Everyone"
+msgstr "Для усіх"
+
+#: libmalcontent-ui/gs-content-rating.c:232
+#: libmalcontent-ui/gs-content-rating.c:480
+msgid "Early Childhood"
+msgstr "Для маленьких дітей"
+
+#. Translators: the placeholder is a user’s full name
+#: libmalcontent-ui/restrict-applications-dialog.c:222
+#, c-format
+msgid "Restrict %s from using the following installed applications."
+msgstr "Обмежити для %s користування вказаними нижче встановленими програмами."
+
+#: libmalcontent-ui/restrict-applications-dialog.ui:6
+#: libmalcontent-ui/restrict-applications-dialog.ui:12
+msgid "Restrict Applications"
+msgstr "Обмеження доступу до програм"
+
+#: libmalcontent-ui/restrict-applications-selector.ui:24
+msgid "No applications found to restrict."
+msgstr "Не знайдено програм, доступ до яких можна обмежити."
+
+#. Translators: this is the full name for an unknown user account.
+#: libmalcontent-ui/user-controls.c:207 libmalcontent-ui/user-controls.c:218
+msgid "unknown"
+msgstr "невідомий"
+
+#: libmalcontent-ui/user-controls.c:312 libmalcontent-ui/user-controls.c:397
+#: libmalcontent-ui/user-controls.c:669
+msgid "All Ages"
+msgstr "Усі вікові групи"
+
+#. Translators: The placeholder is a user’s display name.
+#: libmalcontent-ui/user-controls.c:477
+#, c-format
+msgid ""
+"Prevents %s from running web browsers. Limited web content may still be "
+"available in other applications."
+msgstr ""
+"Запобігає запуску користувачем %s браузерів. Обмежений доступ до інтернету "
+"можливий за допомогою інших програм."
+
+#. Translators: The placeholder is a user’s display name.
+#: libmalcontent-ui/user-controls.c:482
+#, c-format
+msgid "Prevents specified applications from being used by %s."
+msgstr "Запобігає користуванню %s вказаними програмами."
+
+#. Translators: The placeholder is a user’s display name.
+#: libmalcontent-ui/user-controls.c:487
+#, c-format
+msgid "Prevents %s from installing applications."
+msgstr "Забороняє %s встановлювати програми."
+
+#: libmalcontent-ui/user-controls.ui:16
+msgid "Application Usage Restrictions"
+msgstr "Обмеження на користування програмами"
+
+#: libmalcontent-ui/user-controls.ui:67
+msgid "Restrict _Web Browsers"
+msgstr "Обмежити _браузери"
+
+#: libmalcontent-ui/user-controls.ui:151
+msgid "_Restrict Applications"
+msgstr "_Обмежити доступ до програм"
+
+#: libmalcontent-ui/user-controls.ui:230
+msgid "Software Installation Restrictions"
+msgstr "Обмеження на встановлення програмного забезпечення"
+
+#: libmalcontent-ui/user-controls.ui:280
+msgid "Restrict Application _Installation"
+msgstr "Обмежити вс_тановлення програм"
+
+#: libmalcontent-ui/user-controls.ui:365
+msgid "Application _Suitability"
+msgstr "П_ридатність програм"
+
+#: libmalcontent-ui/user-controls.ui:387
+msgid ""
+"Restricts browsing or installation of applications to applications suitable "
+"for certain ages or above."
+msgstr ""
+"Обмежує перелік програм, які користувач може бачити або встановлювати, до "
+"програм, доступних певній віковій групі."
+
+#. Translators: This documents the --user command line option to malcontent-control:
+#: malcontent-control/application.c:102
+msgid "User to select in the UI"
+msgstr "Користувач, якого слід вибрати у графічному інтерфейсі"
+
+#. Translators: This is a placeholder for a command line argument value:
+#: malcontent-control/application.c:104
+msgid "USERNAME"
+msgstr "КОРИСТУВАЧ"
+
+#: malcontent-control/application.c:115
+msgid "— view and edit parental controls"
+msgstr "— перегляд батьківського контролю і керування ним"
+
+#. Translators: This is the title of the main window
+#. Translators: the name of the application as it appears in a software center
+#: malcontent-control/application.c:122 malcontent-control/main.ui:12
+#: malcontent-control/org.freedesktop.MalcontentControl.appdata.xml.in:9
+#: malcontent-control/org.freedesktop.MalcontentControl.desktop.in:3
+msgid "Parental Controls"
+msgstr "Батьківський контроль"
+
+#: malcontent-control/application.c:308
+msgid "Copyright © 2019, 2020 Endless Mobile, Inc."
+msgstr "© Endless Mobile, Inc., 2019, 2020"
+
+#. Translators: this should be "translated" to the
+#. names of people who have translated Malcontent into
+#. this language, one per line.
+#: malcontent-control/application.c:313
+msgid "translator-credits"
+msgstr "Юрій Чорноіван <yurchor@ukr.net>"
+
+#. Translators: "Malcontent" is the brand name of this
+#. project, so should not be translated.
+#: malcontent-control/application.c:319
+msgid "Malcontent Website"
+msgstr "Сайт Malcontent"
+
+#: malcontent-control/application.c:337
+msgid "The help contents could not be displayed"
+msgstr "Неможливо показати вміст довідки"
+
+#: malcontent-control/application.c:374
+msgid "Failed to load user data from the system"
+msgstr "Не вдалося завантажити дані користувача з системи"
+
+#: malcontent-control/application.c:376
+msgid "Please make sure that the AccountsService is installed and enabled."
+msgstr "Будь ласка, переконайтеся, що встановлено і увімкнено AccountsService."
+
+#. Translators: Replace the link to commonsensemedia.org with some
+#. * localised guidance for parents/carers on how to set restrictions on
+#. * their child/caree in a responsible way which is in keeping with the
+#. * best practice and culture of the region. If no suitable localised
+#. * guidance exists, and if the default commonsensemedia.org link is not
+#. * suitable, please file an issue against malcontent so we can discuss
+#. * further!
+#. * https://gitlab.freedesktop.org/pwithnall/malcontent/-/issues/new
+#.
+#: malcontent-control/application.c:407
+#, c-format
+msgid ""
+"It’s recommended that restrictions are set as part of an ongoing "
+"conversation with %s. <a href='https://www.commonsensemedia.org/privacy-and-"
+"internet-safety'>Read guidance</a> on what to consider."
+msgstr ""
+"Рекомендуємо встановити обмеження як частину наступної розмови із %s. <a "
+"href='https://www.commonsensemedia.org/privacy-and-internet-"
+"safety'>Ознайомтеся із настановами</a> щодо того, що слід врахувати."
+
+#: malcontent-control/carousel.ui:48
+msgid "Previous Page"
+msgstr "Попередня сторінка"
+
+#: malcontent-control/carousel.ui:74
+msgid "Next Page"
+msgstr "Наступна сторінка"
+
+#: malcontent-control/main.ui:115
+msgid "Permission Required"
+msgstr "Потрібні права доступу"
+
+#: malcontent-control/main.ui:129
+msgid ""
+"Permission is required to view and change user parental controls settings."
+msgstr ""
+"Для перегляду і внесення змін до параметрів батьківського контролю для "
+"користувача потрібні відповідні права доступу."
+
+#: malcontent-control/main.ui:182
+msgid "No Standard User Accounts"
+msgstr "Немає стандартних облікових записів користувачів"
+
+#: malcontent-control/main.ui:197
+msgid ""
+"Parental controls can only be applied to standard user\n"
+"accounts. These can be created in the user settings."
+msgstr ""
+"Батьківський контроль можна застосовувати лише до стандартних\n"
+"облікових записів користувачів. Такі записи можна створити у параметрах"
+" користувачів."
+
+#: malcontent-control/main.ui:210
+msgid "_User Settings"
+msgstr "П_араметри користувачів"
+
+#: malcontent-control/main.ui:238
+msgid "Loading…"
+msgstr "Завантаження…"
+
+#: malcontent-control/main.ui:301
+msgid "_Help"
+msgstr "_Довідка"
+
+#: malcontent-control/main.ui:305
+msgid "_About Parental Controls"
+msgstr "_Про «Батьківський контроль»"
+
+#. Translators: the brief summary of the application as it appears in a software center.
+#: malcontent-control/org.freedesktop.MalcontentControl.appdata.xml.in:12
+#: malcontent-control/org.freedesktop.MalcontentControl.desktop.in:4
+msgid "Set parental controls and monitor usage by users"
+msgstr "Встановити батьківський контроль і стежити за користувачами"
+
+#. Translators: These are the application description paragraphs in the AppData file.
+#: malcontent-control/org.freedesktop.MalcontentControl.appdata.xml.in:16
+msgid ""
+"Manage users’ parental controls restrictions, controlling how long they can "
+"use the computer for, what software they can install, and what installed "
+"software they can run."
+msgstr ""
+"Керуйте обмеженнями батьківського контролю користувачів, зокрема часом, "
+"протягом якого можна працювати з комп'ютером, переліком програмного "
+"забезпечення, яке можна встановлювати, та переліком програмного "
+"забезпечення, яке можна запускати."
+
+#: malcontent-control/org.freedesktop.MalcontentControl.appdata.xml.in:25
+msgid "Main window"
+msgstr "Головне вікно"
+
+#: malcontent-control/org.freedesktop.MalcontentControl.appdata.xml.in:38
+msgid "The GNOME Project"
+msgstr "Проєкт GNOME"
+
+#. Translators: Search terms to find this application. Do NOT translate or localise the semicolons! The list MUST also end with a semicolon!
+#: malcontent-control/org.freedesktop.MalcontentControl.desktop.in:13
+msgid ""
+"parental controls;screen time;app restrictions;web browser restrictions;oars;"
+"usage;usage limit;kid;child;"
+msgstr ""
+"parental controls;screen time;app restrictions;web browser restrictions;oars;"
+"usage;usage limit;kid;child;батьківський контроль;час за комп'ютером;"
+"обмеження програм;обмеження інтернету;користування;використання;обмеження "
+"користування;дитина;дитячий;"
+
+#: malcontent-control/org.freedesktop.MalcontentControl.policy.in:9
+msgid "Manage parental controls"
+msgstr "Керування батьківським контролем"
+
+#: malcontent-control/org.freedesktop.MalcontentControl.policy.in:10
+msgid "Authentication is required to read and change user parental controls"
+msgstr ""
+"Для читання і зміни параметрів батьківського контролю користувача слід "
+"пройти розпізнавання"
+
+#: malcontent-control/user-selector.c:426
+msgid "Your account"
+msgstr "Ваш обліковий запис"
+
+#. Always allow root, to avoid a situation where this PAM module prevents
+#. * all users logging in with no way of recovery.
+#: pam/pam_malcontent.c:142 pam/pam_malcontent.c:188
+#, c-format
+msgid "User ‘%s’ has no time limits enabled"
+msgstr "Для користувача «%s» часові обмеження не увімкнено"
+
+#: pam/pam_malcontent.c:151 pam/pam_malcontent.c:172
+#, c-format
+msgid "Error getting session limits for user ‘%s’: %s"
+msgstr ""
+"Помилка під час спроби отримати дані щодо обмежень сеансу користувача «%s»: "
+"%s"
+
+#: pam/pam_malcontent.c:182
+#, c-format
+msgid "User ‘%s’ has no time remaining"
+msgstr "У користувача «%s» більше не лишилося часу"
+
+#: pam/pam_malcontent.c:200
+#, c-format
+msgid "Error setting time limit on login session: %s"
+msgstr "Помилка під час спроби встановити часове обмеження на сеанс роботи: %s"

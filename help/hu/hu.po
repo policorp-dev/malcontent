@@ -1,0 +1,441 @@
+# Hungarian translation for malcontent.
+# Copyright (C) 2022 Free Software Foundation, Inc.
+# This file is distributed under the same license as the malcontent package.
+#
+# Balázs Úr <ur.balazs at fsf dot hu>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: malcontent main\n"
+"Report-Msgid-Bugs-To: https://gitlab.freedesktop.org/pwithnall/malcontent/"
+"issues\n"
+"POT-Creation-Date: 2022-09-21 15:25+0000\n"
+"PO-Revision-Date: 2022-09-22 23:43+0200\n"
+"Last-Translator: Balázs Úr <ur.balazs at fsf dot hu>\n"
+"Language-Team: Hungarian <gnome-hu-list at gnome dot org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 19.12.3\n"
+
+#. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
+msgctxt "_"
+msgid "translator-credits"
+msgstr "Úr Balázs <ur dot balazs at fsf dot hu>, 2022."
+
+#. (itstool) path: info/desc
+#: C/creating-a-child-user.page:6
+msgid "Creating a child user on the computer."
+msgstr "Gyermekfelhasználó létrehozása a számítógépen."
+
+#. (itstool) path: page/title
+#: C/creating-a-child-user.page:9
+msgid "Creating a Child User"
+msgstr "Gyermekfelhasználó létrehozása"
+
+#. (itstool) path: page/p
+#: C/creating-a-child-user.page:11
+msgid ""
+"Parental controls can only be applied to non-administrator accounts. Such an "
+"account may have been created when the computer was initially set up. If "
+"not, a new child user may be created from the <app>Parental Controls</app> "
+"application if no child users already exist; and otherwise may be created "
+"from the <app>Control Center</app>."
+msgstr ""
+"A szülői felügyelet csak a nem rendszergazdai fiókokra alkalmazható. Ilyen "
+"fiókot esetleg a számítógép kezdeti beállításakor hozhattak létre. Ha nem, "
+"akkor új gyermekfelhasználó hozható létre a <app>Szülői felügyelet</app> "
+"alkalmazásból, ha még nem létezik gyermekfelhasználó, egyébként pedig a "
+"<app>Vezérlőközpont</app> alkalmazásból hozható létre."
+
+#. (itstool) path: page/p
+#: C/creating-a-child-user.page:17
+msgid ""
+"To create a new child user, see <link type=\"guide\" xref=\"help:gnome-help/"
+"user-add\">Add a new user account</link>. As soon as the new user is "
+"created, it will appear in the <app>Parental Controls</app> window so that "
+"its parental controls settings can be configured."
+msgstr ""
+"Új gyermekfelhasználó létrehozásához nézze meg az <link type=\"guide\" xref="
+"\"help:gnome-help/user-add\">Új felhasználói fiók hozzáadása</link> "
+"fejezetet. Amint az új felhasználó létrejött, megjelenik a <app>Szülői "
+"felügyelet</app> ablakban, így a szülői felügyeleti beállításai "
+"konfigurálhatók."
+
+#. (itstool) path: credit/name
+#: C/index.page:6
+msgid "Philip Withnall"
+msgstr "Philip Withnall"
+
+#. (itstool) path: credit/years
+#: C/index.page:8
+msgid "2020"
+msgstr "2020"
+
+#. (itstool) path: page/title
+#: C/index.page:12
+msgid "Parental Controls Help"
+msgstr "Szülői felügyelet súgó"
+
+#. (itstool) path: section/title
+#: C/index.page:15
+msgid "Introduction &amp; Setup"
+msgstr "Bevezetés és beállítás"
+
+#. (itstool) path: section/title
+#: C/index.page:19
+msgid "Controls to Apply"
+msgstr "Alkalmazandó szabályozások"
+
+#. (itstool) path: info/desc
+#: C/internet.page:6
+msgid "Restricting a child user’s access to the internet."
+msgstr "Egy gyermekfelhasználó internet-hozzáférésének korlátozása."
+
+#. (itstool) path: page/title
+#: C/internet.page:9
+msgid "Restricting Access to the Internet"
+msgstr "Internet-hozzáférés korlátozása"
+
+#. (itstool) path: page/p
+#: C/internet.page:11
+msgid ""
+"You can restrict a user’s access to the internet. This will prevent them "
+"using a web browser, but it will not prevent them using the internet (in "
+"potentially more limited forms) through other applications. For example, it "
+"will not prevent access to e-mail accounts using <app>Evolution</app>, and "
+"it will not prevent software updates being downloaded and applied."
+msgstr ""
+"Korlátozhatja egy felhasználó internet-hozzáférését. Ez megakadályozza őt a "
+"webböngésző használatában, de nem akadályozza meg abban, hogy az internetet "
+"(esetleg korlátozottabb formában) más alkalmazásokon keresztül használja. "
+"Például nem akadályozza meg az e-mail fiókokhoz való hozzáférést az "
+"<app>Evolution</app> használatával, és nem akadályozza meg a "
+"szoftverfrissítések letöltését és alkalmazását."
+
+#. (itstool) path: page/p
+#: C/internet.page:17
+msgid "To restrict a user’s access to the internet:"
+msgstr "Egy felhasználó internet-hozzáférésének korlátozásához:"
+
+#. (itstool) path: item/p
+#: C/internet.page:19 C/restricting-applications.page:20
+#: C/software-installation.page:28 C/software-installation.page:54
+msgid "Open the <app>Parental Controls</app> application."
+msgstr "Nyissa meg a <app>Szülői felügyelet</app> alkalmazást."
+
+#. (itstool) path: item/p
+#: C/internet.page:20 C/restricting-applications.page:21
+#: C/software-installation.page:29 C/software-installation.page:55
+msgid "Select the user in the tabs at the top."
+msgstr "Válassza ki a felhasználót a fenti lapokon."
+
+#. (itstool) path: item/p
+#: C/internet.page:21
+msgid ""
+"Enable the <gui style=\"checkbox\">Restrict Web Browsers</gui> checkbox."
+msgstr ""
+"Jelölje be a <gui style=\"checkbox\">Webböngészők korlátozása</gui> "
+"jelölőnégyzetet."
+
+#. (itstool) path: info/desc
+#: C/introduction.page:6
+msgid ""
+"Overview of parental controls, the <app>Parental Controls</app> application "
+"and its use in other situations where access restrictions are needed on a "
+"user."
+msgstr ""
+"A szülői felügyelet áttekintése, a <app>Szülői felügyelet</app> alkalmazás "
+"és annak használata olyan egyéb helyzetekben, amikor egy felhasználó "
+"hozzáférésének korlátozásai szükségesek."
+
+#. (itstool) path: page/title
+#: C/introduction.page:12
+msgid "Introduction to Parental Controls"
+msgstr "Bevezetés a szülői felügyeletbe"
+
+#. (itstool) path: page/p
+#: C/introduction.page:14
+msgid ""
+"Parental controls are a way to restrict what non-administrator accounts can "
+"do on the computer, with the aim of allowing parents to restrict what their "
+"children can do when using the computer unsupervised or under limited "
+"supervision."
+msgstr ""
+"A szülői felügyelet segítségével korlátozható, hogy a nem rendszergazdai "
+"fiókok mit tehetnek a számítógépen, azzal a céllal, hogy a szülők "
+"korlátozhassák, hogy mit tehetnek a gyermekeik, amikor felügyelet nélkül "
+"vagy korlátozott felügyelet mellett használják a számítógépet."
+
+#. (itstool) path: page/p
+#: C/introduction.page:18
+msgid ""
+"This functionality can be used in other situations ­– such as other carer/"
+"caree relationships – but is labelled as ‘parental controls’ so that it’s "
+"easy to find, as that’s what most people will be looking for."
+msgstr ""
+"Ez a funkció más helyzetekben is használható – például egyéb gondozó-"
+"gondozott kapcsolatokban –, de „szülői felügyelet” címkével van ellátva, "
+"hogy könnyen megtalálható legyen, mivel a legtöbb ember ezt keresi."
+
+#. (itstool) path: page/p
+#: C/introduction.page:21
+msgid ""
+"The parental controls for any user can be queried and set using the "
+"<app>Parental Controls</app> application. This lists the non-administrator "
+"accounts in tabs along its top bar, and shows their current parental "
+"controls settings below. Changes to the parental controls apply immediately."
+msgstr ""
+"A szülői felügyelet bármely felhasználóhoz lekérdezhető és beállítható a "
+"<app>Szülői felügyelet</app> alkalmazás használatával. Ez a felső sávjában "
+"lévő lapokon felsorolja a nem rendszergazdai fiókokat, és alatta megjeleníti "
+"az aktuális szülői felügyeleti beállításokat. A szülői felügyelet "
+"változtatásai azonnal érvénybe lépnek."
+
+#. (itstool) path: page/p
+#: C/introduction.page:25
+msgid ""
+"Restrictions on using the computer can only be applied to non-administrator "
+"accounts. The parental controls settings for a user can only be changed by "
+"an administrator, although the administrator can do so from the user’s "
+"account by entering their password when prompted by the <app>Parental "
+"Controls</app> application."
+msgstr ""
+"A számítógép használatára vonatkozó korlátozások csak a nem rendszergazdai "
+"fiókokra alkalmazhatók. Egy felhasználó szülői felügyeleti beállításait csak "
+"egy rendszergazda változtathatja meg, bár a rendszergazda ezt a felhasználó "
+"fiókjából is megteheti a jelszavának megadásával, amikor a <app>Szülői "
+"felügyelet</app> alkalmazás erre kéri."
+
+#. (itstool) path: p/link
+#: C/legal.xml:4
+msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
+msgstr "Creative Commons Nevezd meg! - Így add tovább! 3.0 átíratlan licenc"
+
+#. (itstool) path: license/p
+#: C/legal.xml:3
+msgid "This work is licensed under a <_:link-1/>."
+msgstr "Ez a mű a <_:link-1/> szerint licencelt."
+
+#. (itstool) path: info/desc
+#: C/restricting-applications.page:6
+msgid "Restricting a child user from running already-installed applications."
+msgstr ""
+"Egy gyermekfelhasználó korlátozása a már telepített alkalmazások "
+"futtatásában."
+
+#. (itstool) path: page/title
+#: C/restricting-applications.page:9
+msgid "Restricting Access to Installed Applications"
+msgstr "A telepített alkalmazásokhoz való hozzáférés korlátozása"
+
+#. (itstool) path: page/p
+#: C/restricting-applications.page:11
+msgid ""
+"You can prevent a user from running specific applications which are already "
+"installed on the computer. This could be useful if other users need those "
+"applications but they are not appropriate for a child."
+msgstr ""
+"Megakadályozhatja, hogy egy felhasználó a számítógépre már telepített "
+"bizonyos alkalmazásokat futtasson. Ez akkor lehet hasznos, ha más "
+"felhasználóknak szükségük van ezekre az alkalmazásokra, de egy gyermek "
+"számára nem megfelelőek."
+
+#. (itstool) path: page/p
+#: C/restricting-applications.page:14
+msgid ""
+"When installing additional software, you should consider whether that needs "
+"to be restricted for some users — newly installed software is usable by all "
+"users by default."
+msgstr ""
+"További szoftverek telepítésekor meg kell fontolnia, hogy nem kell-e "
+"korlátozni azokat egyes felhasználók számára, ugyanis az újonnan telepített "
+"szoftverek alapértelmezetten minden felhasználó számára használhatóak."
+
+#. (itstool) path: page/p
+#: C/restricting-applications.page:18
+msgid "To restrict a user’s access to a specific application:"
+msgstr ""
+"Egy felhasználó adott alkalmazáshoz való hozzáférésének korlátozásához:"
+
+#. (itstool) path: item/p
+#: C/restricting-applications.page:22
+msgid "Press the <gui style=\"button\">Restrict Applications</gui> button."
+msgstr ""
+"Nyomja meg az <gui style=\"button\">Alkalmazások korlátozása</gui> gombot."
+
+#. (itstool) path: item/p
+#: C/restricting-applications.page:23
+msgid ""
+"Enable the switch in the row for each application you would like to restrict "
+"the user from accessing."
+msgstr ""
+"Kapcsolja be a kapcsolót minden olyan alkalmazás sorában, amelyhez a "
+"felhasználó hozzáférését korlátozni szeretné."
+
+#. (itstool) path: item/p
+#: C/restricting-applications.page:24
+msgid "Close the <gui>Restrict Applications</gui> window."
+msgstr "Zárja be az <gui>Alkalmazások korlátozása</gui> ablakot."
+
+#. (itstool) path: page/p
+#: C/restricting-applications.page:27
+msgid ""
+"Restricting access to specific applications is often used in conjunction "
+"with <link xref=\"software-installation\"/> to prevent a user from "
+"installing additional software which has not been vetted."
+msgstr ""
+"Bizonyos alkalmazásokhoz való hozzáférés korlátozását gyakran használják a "
+"<link xref=\"software-installation\"/> korlátozással együtt, hogy "
+"megakadályozzanak egy felhasználót a további, nem ellenőrzött szoftverek "
+"telepítésében."
+
+#. (itstool) path: info/desc
+#: C/software-installation.page:6
+msgid ""
+"Restricting the software a child user can install, or preventing them "
+"installing additional software entirely."
+msgstr ""
+"Egy gyermekfelhasználó által telepíthető szoftverek korlátozása, vagy "
+"további szoftverek telepítésének teljes megakadályozása."
+
+#. (itstool) path: page/title
+#: C/software-installation.page:9
+msgid "Restricting Software Installation"
+msgstr "Szoftvertelepítés korlátozása"
+
+#. (itstool) path: page/p
+#: C/software-installation.page:11
+msgid ""
+"You can prevent a user from installing additional software on the system. "
+"They will still be able to search for new software to install, but will need "
+"an administrator to authorize the installation when they try to install an "
+"application. This applies whether they are trying to install the application "
+"system-wide (for all users) or just for themselves."
+msgstr ""
+"Megakadályozhat egy felhasználót abban, hogy további szoftvereket telepítsen "
+"a rendszerre. A felhasználó továbbra is kereshet új telepítendő szoftvert, "
+"de rendszergazdára lesz szüksége a telepítés felhatalmazásához, amikor "
+"megpróbál telepíteni egy alkalmazást. Ez arra is vonatkozik, hogy az "
+"alkalmazást rendszerszinten (minden felhasználónak) vagy csak saját magának "
+"próbálja telepíteni."
+
+#. (itstool) path: page/p
+#: C/software-installation.page:17
+msgid ""
+"Additionally, you can restrict which software a user can browse or search "
+"for in the <app>Software</app> catalog by age categories."
+msgstr ""
+"Ezenkívül azt is korlátozhatja az életkor kategória alapján, hogy egy "
+"felhasználó milyen szoftvereket böngészhet vagy kereshet a <app>Szoftver</"
+"app> katalógusában."
+
+#. (itstool) path: page/p
+#: C/software-installation.page:20
+msgid ""
+"To prevent a user from running an application which has already been "
+"installed, see <link xref=\"restricting-applications\"/>."
+msgstr ""
+"Annak megakadályozásához, hogy egy felhasználó egy már telepített "
+"alkalmazást futtasson, nézze meg az <link xref=\"restricting-applications\"/"
+"> fejezetet."
+
+#. (itstool) path: section/title
+#: C/software-installation.page:24
+msgid "Preventing Software Installation"
+msgstr "Szoftvertelepítés megakadályozása"
+
+#. (itstool) path: section/p
+#: C/software-installation.page:26
+msgid "To prevent a user from installing additional software:"
+msgstr ""
+"Annak megakadályozásához, hogy a felhasználó további szoftvereket telepítsen:"
+
+#. (itstool) path: item/p
+#: C/software-installation.page:30
+msgid ""
+"Enable the <gui style=\"checkbox\">Restrict Application Installation</gui> "
+"checkbox."
+msgstr ""
+"Jelölje be az <gui style=\"checkbox\">Alkalmazástelepítés korlátozása</gui> "
+"jelölőnégyzetet."
+
+#. (itstool) path: section/title
+#: C/software-installation.page:35
+msgid "Restricting Software Installation by Age"
+msgstr "Szoftvertelepítés korlátozása életkor alapján"
+
+#. (itstool) path: section/p
+#: C/software-installation.page:37
+msgid ""
+"Applications in the <app>Software</app> catalog have information about "
+"content they contain which might be inappropriate for some ages — for "
+"example, various forms of violence, unmoderated chat with other people on "
+"the internet, or the possibility of spending money."
+msgstr ""
+"A <app>Szoftver</app> katalógusában található alkalmazások információval "
+"rendelkeznek az általuk tartalmazott tartalommal kapcsolatban, hogy melyek "
+"lehetnek bizonyos korosztályok számára nem megfelelőek – például az erőszak "
+"különböző formái, moderálatlan csevegés az interneten más emberekkel, vagy a "
+"pénzköltés lehetősége."
+
+#. (itstool) path: section/p
+#: C/software-installation.page:41
+msgid ""
+"For each application, this information is summarized as the minimum age "
+"child it is typically suitable to be used by — for example, “suitable for "
+"ages 7+”. These age ratings are presented in region-specific schemes which "
+"can be compared with the ratings schemes used for films and games."
+msgstr ""
+"Minden egyes alkalmazás esetében ez az információ összefoglalja, hogy az "
+"adott alkalmazás jellemzően legalább milyen korú gyermek számára alkalmas – "
+"például „7 év felettiek számára alkalmas”. Ezek a korhatár-besorolások régió-"
+"specifikus sémákban jelennek meg, amelyek összehasonlíthatók a filmek és "
+"játékok esetében használt besorolási sémákkal."
+
+#. (itstool) path: section/p
+#: C/software-installation.page:45
+msgid ""
+"The applications shown to a user in the <app>Software</app> catalog can be "
+"filtered by their age suitability. Applications which are not suitable for "
+"the user will be hidden, and will not be installable by that user. They will "
+"be installable by other users (if their age suitability is set high enough)."
+msgstr ""
+"A <app>Szoftver</app> katalógusában egy felhasználó számára megjelenített "
+"alkalmazások szűrhetők az életkori alkalmasságuk alapján. A felhasználó "
+"számára nem megfelelő alkalmazások el lesznek rejtve, és nem lesznek "
+"telepíthetők az adott felhasználó számára. Más felhasználók számára "
+"telepíthetők lesznek (ha az életkori alkalmasságuk elég magasra van állítva)."
+
+#. (itstool) path: section/p
+#: C/software-installation.page:51
+msgid ""
+"To filter the applications seen by a user in the <app>Software</app> catalog "
+"to only those suitable for a certain age:"
+msgstr ""
+"A <app>Szoftver</app> katalógusában egy felhasználó által látott "
+"alkalmazások szűréséhez, hogy csak egy bizonyos korosztály számára legyenek "
+"alkalmasak:"
+
+#. (itstool) path: item/p
+#: C/software-installation.page:56
+msgid ""
+"In the <gui>Application Suitability</gui> list, select the age which "
+"applications should be suitable for."
+msgstr ""
+"Az <gui>Alkalmazás alkalmassága</gui> listából válassza ki azt az életkort, "
+"amelyre az alkalmazásoknak alkalmasnak kell lenniük."
+
+#. (itstool) path: note/p
+#: C/software-installation.page:60
+msgid ""
+"The user’s actual age is not stored, so the <gui>Application Suitability</"
+"gui> is not automatically updated over time as the child grows older. You "
+"must periodically re-assess the appropriate <gui>Application Suitability</"
+"gui> for each user."
+msgstr ""
+"A felhasználó tényleges életkora nem kerül tárolásra, így az <gui>Alkalmazás "
+"alkalmassága</gui> nem frissül automatikusan az idő múlásával, ahogy a "
+"gyermek idősebbé válik. Rendszeresen újra kell értékelnie a megfelelő "
+"<gui>Alkalmazás alkalmassága</gui> értéket minden egyes felhasználónál."

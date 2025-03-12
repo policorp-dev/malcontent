@@ -1,0 +1,477 @@
+# Indonesian translation for malcontent.
+# Copyright (C) 2020 malcontent's COPYRIGHT HOLDER
+# This file is distributed under the same license as the malcontent package.
+# Andika Triwidada <atriwidada@gnome.org>, 2020, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: malcontent master\n"
+"Report-Msgid-Bugs-To: https://gitlab.freedesktop.org/pwithnall/malcontent/"
+"issues\n"
+"POT-Creation-Date: 2020-12-18 15:14+0000\n"
+"PO-Revision-Date: 2021-08-30 18:21+0700\n"
+"Last-Translator: Andika Triwidada <andika@gmail.com>\n"
+"Language-Team: Indonesian <gnome-l10n-id@googlegroups.com>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:4
+msgid "Change your own app filter"
+msgstr "Ubah filter aplikasi Anda sendiri"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:5
+msgid "Authentication is required to change your app filter."
+msgstr "Diperlukan autentikasi untuk mengubah filter aplikasi Anda."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:14
+msgid "Read your own app filter"
+msgstr "Baca filter aplikasi Anda sendiri"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:15
+msgid "Authentication is required to read your app filter."
+msgstr "Diperlukan autentikasi untuk membaca filter aplikasi Anda."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:24
+msgid "Change another user’s app filter"
+msgstr "Ubah filter aplikasi pengguna lain"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:25
+msgid "Authentication is required to change another user’s app filter."
+msgstr "Diperlukan autentikasi untuk mengubah filter aplikasi pengguna lain."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:34
+msgid "Read another user’s app filter"
+msgstr "Baca filter aplikasi pengguna lain"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:35
+msgid "Authentication is required to read another user’s app filter."
+msgstr "Diperlukan autentikasi untuk membaca filter aplikasi pengguna lain."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:44
+msgid "Change your own session limits"
+msgstr "Ubah batas sesi Anda sendiri"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:45
+msgid "Authentication is required to change your session limits."
+msgstr "Diperlukan autentikasi untuk mengubah batas sesi Anda."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:54
+msgid "Read your own session limits"
+msgstr "Baca batas sesi Anda sendiri"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:55
+msgid "Authentication is required to read your session limits."
+msgstr "Diperlukan autentikasi untuk membaca batas sesi Anda."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:64
+msgid "Change another user’s session limits"
+msgstr "Ubah batas sesi pengguna lain"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:65
+msgid "Authentication is required to change another user’s session limits."
+msgstr "Diperlukan autentikasi untuk mengubah batas sesi pengguna lain."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:74
+msgid "Read another user’s session limits"
+msgstr "Baca batas sesi pengguna lain"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:75
+msgid "Authentication is required to read another user’s session limits."
+msgstr "Diperlukan autentikasi untuk membaca batas sesi pengguna lain."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:84
+msgid "Change your own account info"
+msgstr "Ubah info akun Anda sendiri"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:85
+msgid "Authentication is required to change your account info."
+msgstr "Diperlukan autentikasi untuk mengubah info akun Anda."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:94
+msgid "Read your own account info"
+msgstr "Baca info akun Anda sendiri"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:95
+msgid "Authentication is required to read your account info."
+msgstr "Diperlukan autentikasi untuk membaca info akun Anda."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:104
+msgid "Change another user’s account info"
+msgstr "Ubah info akun pengguna lain"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:105
+msgid "Authentication is required to change another user’s account info."
+msgstr "Diperlukan autentikasi untuk mengubah info akun pengguna lain."
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:114
+msgid "Read another user’s account info"
+msgstr "Baca info akun pengguna lain"
+
+#: accounts-service/com.endlessm.ParentalControls.policy.in:115
+msgid "Authentication is required to read another user’s account info."
+msgstr "Diperlukan autentikasi untuk membaca info akun pengguna lain."
+
+#: libmalcontent/app-filter.c:694
+#, c-format
+msgid "App filter for user %u was in an unrecognized format"
+msgstr "Filter aplikasi untuk pengguna %u dalam format yang tidak dikenal"
+
+#: libmalcontent/app-filter.c:725
+#, c-format
+msgid "OARS filter for user %u has an unrecognized kind ‘%s’"
+msgstr "Filter OARS untuk pengguna %u memiliki jenis yang tidak dikenal '%s'"
+
+#: libmalcontent/manager.c:283 libmalcontent/manager.c:420
+#: libmalcontent/manager.c:803
+#, c-format
+msgid "Not allowed to query parental controls data for user %u"
+msgstr ""
+"Tidak diizinkan untuk menanyakan data pengawasan orang tua untuk pengguna %u"
+
+#: libmalcontent/manager.c:288
+#, c-format
+msgid "User %u does not exist"
+msgstr "Pengguna %u tidak ada"
+
+#: libmalcontent/manager.c:296
+msgid "System accounts service not available"
+msgstr "Layanan akun sistem tidak tersedia"
+
+#: libmalcontent/manager.c:402
+msgid "App filtering is globally disabled"
+msgstr "Penyaringan aplikasi dinonaktifkan secara global"
+
+#: libmalcontent/manager.c:785
+msgid "Session limits are globally disabled"
+msgstr "Batas sesi dinonaktifkan secara global"
+
+#: libmalcontent/session-limits.c:306
+#, c-format
+msgid "Session limit for user %u was in an unrecognized format"
+msgstr "Batas sesi untuk pengguna %u dalam format yang tidak dikenal"
+
+#: libmalcontent/session-limits.c:328
+#, c-format
+msgid "Session limit for user %u has an unrecognized type ‘%u’"
+msgstr "Batas sesi untuk pengguna %u memiliki tipe '%u' yang tidak dikenal"
+
+#: libmalcontent/session-limits.c:346
+#, c-format
+msgid "Session limit for user %u has invalid daily schedule %u–%u"
+msgstr ""
+"Batas sesi untuk pengguna %u memiliki jadwal harian yang tidak valid %u–%u"
+
+#. TRANSLATORS: This is the formatting of English and localized name
+#. of the rating e.g. "Adults Only (solo adultos)"
+#: libmalcontent-ui/gs-content-rating.c:75
+#, c-format
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+#: libmalcontent-ui/gs-content-rating.c:209
+msgid "General"
+msgstr "Umum"
+
+#: libmalcontent-ui/gs-content-rating.c:218
+msgid "ALL"
+msgstr "SEMUA"
+
+#: libmalcontent-ui/gs-content-rating.c:222
+#: libmalcontent-ui/gs-content-rating.c:485
+msgid "Adults Only"
+msgstr "Hanya Orang Dewasa"
+
+#: libmalcontent-ui/gs-content-rating.c:224
+#: libmalcontent-ui/gs-content-rating.c:484
+msgid "Mature"
+msgstr "Dewasa"
+
+#: libmalcontent-ui/gs-content-rating.c:226
+#: libmalcontent-ui/gs-content-rating.c:483
+msgid "Teen"
+msgstr "Remaja"
+
+#: libmalcontent-ui/gs-content-rating.c:228
+#: libmalcontent-ui/gs-content-rating.c:482
+msgid "Everyone 10+"
+msgstr "Siapa Pun 10+"
+
+#: libmalcontent-ui/gs-content-rating.c:230
+#: libmalcontent-ui/gs-content-rating.c:481
+msgid "Everyone"
+msgstr "Siapa Pun"
+
+#: libmalcontent-ui/gs-content-rating.c:232
+#: libmalcontent-ui/gs-content-rating.c:480
+msgid "Early Childhood"
+msgstr "Anak Usia Dini"
+
+#. Translators: the placeholder is a user’s full name
+#: libmalcontent-ui/restrict-applications-dialog.c:222
+#, c-format
+msgid "Restrict %s from using the following installed applications."
+msgstr "Batasi %s dari menggunakan aplikasi yang diinstal berikut ini."
+
+#: libmalcontent-ui/restrict-applications-dialog.ui:6
+#: libmalcontent-ui/restrict-applications-dialog.ui:12
+msgid "Restrict Applications"
+msgstr "Batasi Aplikasi"
+
+#: libmalcontent-ui/restrict-applications-selector.ui:24
+msgid "No applications found to restrict."
+msgstr "Tidak ditemukan aplikasi yang akan dibatasi."
+
+#. Translators: this is the full name for an unknown user account.
+#: libmalcontent-ui/user-controls.c:207 libmalcontent-ui/user-controls.c:218
+msgid "unknown"
+msgstr "tidak dikenal"
+
+#: libmalcontent-ui/user-controls.c:312 libmalcontent-ui/user-controls.c:397
+#: libmalcontent-ui/user-controls.c:669
+msgid "All Ages"
+msgstr "Semua umur"
+
+#. Translators: The placeholder is a user’s display name.
+#: libmalcontent-ui/user-controls.c:477
+#, c-format
+msgid ""
+"Prevents %s from running web browsers. Limited web content may still be "
+"available in other applications."
+msgstr ""
+"Mencegah %s dari menjalankan peramban web. Konten web terbatas mungkin masih "
+"tersedia di aplikasi lain."
+
+#. Translators: The placeholder is a user’s display name.
+#: libmalcontent-ui/user-controls.c:482
+#, c-format
+msgid "Prevents specified applications from being used by %s."
+msgstr "Mencegah aplikasi tertentu agar tidak digunakan oleh %s."
+
+#. Translators: The placeholder is a user’s display name.
+#: libmalcontent-ui/user-controls.c:487
+#, c-format
+msgid "Prevents %s from installing applications."
+msgstr "Mencegah %s menginstal aplikasi."
+
+#: libmalcontent-ui/user-controls.ui:16
+msgid "Application Usage Restrictions"
+msgstr "Pembatasan Penggunaan Aplikasi"
+
+#: libmalcontent-ui/user-controls.ui:67
+msgid "Restrict _Web Browsers"
+msgstr "Batasi Peramban _Web"
+
+#: libmalcontent-ui/user-controls.ui:151
+msgid "_Restrict Applications"
+msgstr "_Batasi Aplikasi"
+
+#: libmalcontent-ui/user-controls.ui:230
+msgid "Software Installation Restrictions"
+msgstr "Pembatasan Instalasi Perangkat Lunak"
+
+#: libmalcontent-ui/user-controls.ui:280
+msgid "Restrict Application _Installation"
+msgstr "Batasi _Instalasi Aplikasi"
+
+#: libmalcontent-ui/user-controls.ui:365
+msgid "Application _Suitability"
+msgstr "Ke_sesuaian Aplikasi"
+
+#: libmalcontent-ui/user-controls.ui:387
+msgid ""
+"Restricts browsing or installation of applications to applications suitable "
+"for certain ages or above."
+msgstr ""
+"Membatasi penjelajahan atau pemasangan aplikasi ke aplikasi yang sesuai "
+"untuk usia tertentu atau di atas."
+
+#. Translators: This documents the --user command line option to malcontent-control:
+#: malcontent-control/application.c:102
+msgid "User to select in the UI"
+msgstr "Pengguna yang dipilih dalam UI"
+
+#. Translators: This is a placeholder for a command line argument value:
+#: malcontent-control/application.c:104
+msgid "USERNAME"
+msgstr "NAMAPENGGUNA"
+
+#: malcontent-control/application.c:115
+msgid "— view and edit parental controls"
+msgstr "— tilik dan kelola pengawasan orang tua"
+
+#. Translators: This is the title of the main window
+#. Translators: the name of the application as it appears in a software center
+#: malcontent-control/application.c:122 malcontent-control/main.ui:12
+#: malcontent-control/org.freedesktop.MalcontentControl.appdata.xml.in:9
+#: malcontent-control/org.freedesktop.MalcontentControl.desktop.in:3
+msgid "Parental Controls"
+msgstr "Pengawasan Orang Tua"
+
+#: malcontent-control/application.c:308
+msgid "Copyright © 2019, 2020 Endless Mobile, Inc."
+msgstr "Hak cipta © 2019, 2020 Endless Mobile, Inc."
+
+#. Translators: this should be "translated" to the
+#. names of people who have translated Malcontent into
+#. this language, one per line.
+#: malcontent-control/application.c:313
+msgid "translator-credits"
+msgstr "Andika Triwidada <andika@gmail.com>, 2020, 2021."
+
+#. Translators: "Malcontent" is the brand name of this
+#. project, so should not be translated.
+#: malcontent-control/application.c:319
+msgid "Malcontent Website"
+msgstr "Situs Web Malcontent"
+
+#: malcontent-control/application.c:337
+msgid "The help contents could not be displayed"
+msgstr "Isi bantuan tidak dapat ditampilkan"
+
+#: malcontent-control/application.c:374
+msgid "Failed to load user data from the system"
+msgstr "Gagal memuat data pengguna dari sistem"
+
+#: malcontent-control/application.c:376
+msgid "Please make sure that the AccountsService is installed and enabled."
+msgstr "Harap pastikan bahwa AccountsService diinstal dan diaktifkan."
+
+#. Translators: Replace the link to commonsensemedia.org with some
+#. * localised guidance for parents/carers on how to set restrictions on
+#. * their child/caree in a responsible way which is in keeping with the
+#. * best practice and culture of the region. If no suitable localised
+#. * guidance exists, and if the default commonsensemedia.org link is not
+#. * suitable, please file an issue against malcontent so we can discuss
+#. * further!
+#. * https://gitlab.freedesktop.org/pwithnall/malcontent/-/issues/new
+#.
+#: malcontent-control/application.c:407
+#, c-format
+msgid ""
+"It’s recommended that restrictions are set as part of an ongoing "
+"conversation with %s. <a href='https://www.commonsensemedia.org/privacy-and-"
+"internet-safety'>Read guidance</a> on what to consider."
+msgstr ""
+"Disarankan agar pembatasan ditetapkan sebagai bagian dari percakapan yang "
+"sedang berlangsung dengan %s. <a href='https://www.commonsensemedia.org/"
+"privacy-and-internet-safety'>Baca panduan</a> tentang apa yang harus "
+"dipertimbangkan."
+
+#: malcontent-control/carousel.ui:48
+msgid "Previous Page"
+msgstr "Halaman Sebelumnya"
+
+#: malcontent-control/carousel.ui:74
+msgid "Next Page"
+msgstr "Halaman Selanjutnya"
+
+#: malcontent-control/main.ui:115
+msgid "Permission Required"
+msgstr "Diperlukan Izin"
+
+#: malcontent-control/main.ui:129
+msgid ""
+"Permission is required to view and change user parental controls settings."
+msgstr ""
+"Diperlukan izin untuk melihat dan mengubah pengaturan kontrol orang tua "
+"pengguna."
+
+#: malcontent-control/main.ui:184
+msgid "No Standard User Accounts"
+msgstr "Tidak Ada Akun Pengguna Standar"
+
+#: malcontent-control/main.ui:199
+msgid ""
+"Parental controls can only be applied to standard user\n"
+"accounts. These can be created in the user settings."
+msgstr ""
+"Pengawasan orang tua hanya dapat diterapkan pada akun\n"
+"pengguna standar. Ini dapat dibuat di pengaturan pengguna."
+
+#: malcontent-control/main.ui:212
+msgid "_User Settings"
+msgstr "Pengat_uran Pengguna"
+
+#: malcontent-control/main.ui:242
+msgid "Loading…"
+msgstr "Memuat…"
+
+#: malcontent-control/main.ui:305
+msgid "_Help"
+msgstr "Ba_ntuan"
+
+#: malcontent-control/main.ui:309
+msgid "_About Parental Controls"
+msgstr "Tent_ang Pengawasan Orang Tua"
+
+#. Translators: the brief summary of the application as it appears in a software center.
+#: malcontent-control/org.freedesktop.MalcontentControl.appdata.xml.in:12
+#: malcontent-control/org.freedesktop.MalcontentControl.desktop.in:4
+msgid "Set parental controls and monitor usage by users"
+msgstr "Tata kontrol orangtua dan pantau pemakaian oleh pengguna"
+
+#. Translators: These are the application description paragraphs in the AppData file.
+#: malcontent-control/org.freedesktop.MalcontentControl.appdata.xml.in:16
+msgid ""
+"Manage users’ parental controls restrictions, controlling how long they can "
+"use the computer for, what software they can install, and what installed "
+"software they can run."
+msgstr ""
+"Kelola pembatasan kontrol orang tua pengguna, mengontrol berapa lama mereka "
+"dapat menggunakan komputer, perangkat lunak apa yang dapat mereka instal, "
+"dan perangkat lunak terinstal mana yang dapat mereka jalankan."
+
+#: malcontent-control/org.freedesktop.MalcontentControl.appdata.xml.in:25
+msgid "Main window"
+msgstr "Jendela utama"
+
+#: malcontent-control/org.freedesktop.MalcontentControl.appdata.xml.in:38
+msgid "The GNOME Project"
+msgstr "Projek GNOME"
+
+#. Translators: Search terms to find this application. Do NOT translate or localise the semicolons! The list MUST also end with a semicolon!
+#: malcontent-control/org.freedesktop.MalcontentControl.desktop.in:13
+msgid ""
+"parental controls;screen time;app restrictions;web browser restrictions;oars;"
+"usage;usage limit;kid;child;"
+msgstr ""
+"kontrol orang tua;waktu layar;pembatasan aplikasi;pembatasan peramban web;"
+"oars;penggunaan;batas penggunaan;anak;"
+
+#: malcontent-control/org.freedesktop.MalcontentControl.policy.in:9
+msgid "Manage parental controls"
+msgstr "Kelola kontrol orangtua"
+
+#: malcontent-control/org.freedesktop.MalcontentControl.policy.in:10
+msgid "Authentication is required to read and change user parental controls"
+msgstr ""
+"Diperlukan autentikasi untuk membaca dan mengubah kontrol orangtua pengguna"
+
+#: malcontent-control/user-selector.c:426
+msgid "Your account"
+msgstr "Akun Anda"
+
+#. Always allow root, to avoid a situation where this PAM module prevents
+#. * all users logging in with no way of recovery.
+#: pam/pam_malcontent.c:142 pam/pam_malcontent.c:188
+#, c-format
+msgid "User ‘%s’ has no time limits enabled"
+msgstr "Pengguna '%s' tidak memiliki batas waktu yang diaktifkan"
+
+#: pam/pam_malcontent.c:151 pam/pam_malcontent.c:172
+#, c-format
+msgid "Error getting session limits for user ‘%s’: %s"
+msgstr "Kesalahan saat mendapatkan batas sesi untuk pengguna '%s': %s"
+
+#: pam/pam_malcontent.c:182
+#, c-format
+msgid "User ‘%s’ has no time remaining"
+msgstr "Pengguna '%s' tidak punya waktu tersisa"
+
+#: pam/pam_malcontent.c:200
+#, c-format
+msgid "Error setting time limit on login session: %s"
+msgstr "Kesalahan pengaturan batas waktu pada sesi login: %s"

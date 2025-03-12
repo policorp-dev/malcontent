@@ -1,0 +1,22 @@
+#!/usr/bin/make -f
+#export DH_VERBOSE = 1
+
+export DEB_BUILD_MAINT_OPTIONS = hardening=+all
+export DEB_LDFLAGS_MAINT_APPEND = -Wl,-O1 -Wl,-z,defs
+export DPKG_GENSYMBOLS_CHECK_LEVEL = 4
+
+binaries := $(shell dh_listpackages)
+
+%:
+	dh $@
+
+meson_options := -Dpamlibdir=/usr/lib/$(DEB_HOST_MULTIARCH)/security
+
+ifneq ($(filter libmalcontent-ui-%,$(binaries)),)
+meson_options += -Dui=enabled
+else
+meson_options += -Dui=disabled
+endif
+
+override_dh_auto_configure:
+	dh_auto_configure -- -Dprivileged_group=sudo $(meson_options)

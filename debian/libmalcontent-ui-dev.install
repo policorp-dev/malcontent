@@ -1,0 +1,4 @@
+usr/include/malcontent-ui-1/*
+usr/lib/*/libmalcontent-ui-1.so
+usr/lib/*/pkgconfig/malcontent-ui-1.pc
+usr/share/gir-1.0/MalcontentUi-1.gir
