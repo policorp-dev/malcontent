@@ -1,0 +1,19 @@
+Index: malcontent/po/pt_BR.po
+===================================================================
+--- malcontent.orig/po/pt_BR.po
++++ malcontent/po/pt_BR.po
+@@ -256,11 +256,11 @@ msgstr "A_dequação do aplicativo"
+ 
+ #: libmalcontent-ui/user-controls.ui:102
+ msgid ""
+-"Restricts browsing or installation of applications to "
+-"applications suitable for certain ages or above."
++"Restricts the browsing or installation of "
++"applications unsuitable for this age or younger."
+ msgstr ""
+ "Restringe a navegação ou instalação de aplicativos "
+-"inadequados para certas idades."
++"inadequados para esta idade ou para idades menores."
+ 
+ #. Translators: This documents the --user command line option to malcontent-control:
+ #: malcontent-control/application.c:102
