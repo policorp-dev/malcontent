@@ -1,3 +1,9 @@
+malcontent (0.13.Policorp-2) stable; urgency=medium
+
+  * Fix translation and removed patch to display launcher
+
+ -- Edson Juliano Drosdeck <edson@policorp>  Tue, 17 Mar 2026 20:28:59 +0000
+
 malcontent (0.13.Policorp-1) stable; urgency=medium
 
   * Added in Policorp
