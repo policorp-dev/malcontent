@@ -2,7 +2,19 @@ Index: malcontent/po/pt_BR.po
 ===================================================================
 --- malcontent.orig/po/pt_BR.po
 +++ malcontent/po/pt_BR.po
-@@ -256,11 +256,11 @@ msgstr "A_dequação do aplicativo"
+@@ -203,6 +203,11 @@ msgstr "Nenhum aplicativo encontrado par
+ msgid "unknown"
+ msgstr "desconhecido"
+ 
++#: libmalcontent-ui/user-controls.c:306 libmalcontent-ui/user-controls.c:394
++#: libmalcontent-ui/user-controls.c:647
++msgid "Unrestricted"
++msgstr "Sem restrições"
++
+ #: libmalcontent-ui/user-controls.c:303 libmalcontent-ui/user-controls.c:388
+ #: libmalcontent-ui/user-controls.c:641
+ msgid "All Ages"
+@@ -256,11 +261,11 @@ msgstr "A_dequação do aplicativo"
  
  #: libmalcontent-ui/user-controls.ui:102
  msgid ""
