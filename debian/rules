@@ -20,3 +20,8 @@ endif
 
 override_dh_auto_configure:
 	dh_auto_configure -- -Dprivileged_group=sudo $(meson_options)
+
+override_dh_auto_install:
+	dh_auto_install
+	sed -i 's/pt-BR/pt_BR/g' \
+	debian/tmp/usr/share/polkit-1/actions/org.freedesktop.MalcontentControl.policy
